@@ -1,0 +1,777 @@
+{
+  "points": {
+    "13.2/4": "以后的事，if/when 等后面用现在形式，will 放在另一边。同一行里从句在前、will 在后，且从句里没有过去式。",
+    "13.2/5": "别人已经说过的事，嘴里用 say/tells 的现在时。已去掉 let them say、what they say 这种不是在转述一件事的。"
+  },
+  "sentences": {
+    "13.2/4": [
+      {
+        "song": "Adriana Caselotti - Whistle While You Work",
+        "point": "13.2/4",
+        "sentence": "When hearts are high the time will fly so whistle while you work"
+      },
+      {
+        "song": "Alec Benjamin - Let Me Down Slowly",
+        "point": "13.2/4",
+        "sentence": "If You Wanna Go, Then I'll Be So Lonely"
+      },
+      {
+        "song": "Alessia Cara - How Far I'll Go",
+        "point": "13.2/4",
+        "sentence": "If I go there's just no telling how far I'll go"
+      },
+      {
+        "song": "Andrew Lloyd Webber, Emmy Rossum & Gerard Butler - The Point of No Return",
+        "point": "13.2/4",
+        "sentence": "When will the blood begin to race?"
+      },
+      {
+        "song": "Andrew Lloyd Webber, Emmy Rossum & Gerard Butler - The Point of No Return",
+        "point": "13.2/4",
+        "sentence": "When will the flames, at last, consume us?"
+      },
+      {
+        "song": "Ariana Grande - NASA",
+        "point": "13.2/4",
+        "sentence": "And when I miss you, it'll change the way I kiss you"
+      },
+      {
+        "song": "Auli'i Cravalho - How Far I'll Go",
+        "point": "13.2/4",
+        "sentence": "If I go, there's just no telling how far I'll go"
+      },
+      {
+        "song": "Bee Gees - Jive Talkin'",
+        "point": "13.2/4",
+        "sentence": "And if there's somebody you'll love 'til you die"
+      },
+      {
+        "song": "Beyoncé - Be Alive",
+        "point": "13.2/4",
+        "sentence": "So when we win, we will have pride"
+      },
+      {
+        "song": "Billie Eilish - Chihiro",
+        "point": "13.2/4",
+        "sentence": "When I come back around, will I know what to say?"
+      },
+      {
+        "song": "Billie Eilish - Chihiro",
+        "point": "13.2/4",
+        "sentence": "And you don't know if you'll make it back"
+      },
+      {
+        "song": "Billie Eilish - Chihiro",
+        "point": "13.2/4",
+        "sentence": "(And you don't know if you'll make it back)"
+      },
+      {
+        "song": "Billie Eilish - Lunch",
+        "point": "13.2/4",
+        "sentence": "If I'm allowed, I'll help you take 'em off"
+      },
+      {
+        "song": "Billie Eilish - Lunch",
+        "point": "13.2/4",
+        "sentence": "I've said it all before, but I'll say it again"
+      },
+      {
+        "song": "Bing Crosby - In the Cool, Cool, Cool of the Evening",
+        "point": "13.2/4",
+        "sentence": "If one can relax and we'll have a few yaks"
+      },
+      {
+        "song": "Bob Dylan - Things Have Changed",
+        "point": "13.2/4",
+        "sentence": "If the bible is right, the world will explode"
+      },
+      {
+        "song": "Bruno Mars - It Will Rain",
+        "point": "13.2/4",
+        "sentence": "If that'll make you mine"
+      },
+      {
+        "song": "Bruno Mars - It Will Rain",
+        "point": "13.2/4",
+        "sentence": "If that'll make it right"
+      },
+      {
+        "song": "Charlie Puth - One Call Away",
+        "point": "13.2/4",
+        "sentence": "When you're weak I'll be strong"
+      },
+      {
+        "song": "Chris Cornell - You Know My Name",
+        "point": "13.2/4",
+        "sentence": "If you take a life, do you know what you'll give?"
+      },
+      {
+        "song": "Chris Cornell - You Know My Name",
+        "point": "13.2/4",
+        "sentence": "If you come inside things will not be the same"
+      },
+      {
+        "song": "Christina Aguilera - Reflection",
+        "point": "13.2/4",
+        "sentence": "When will my reflection show"
+      },
+      {
+        "song": "Conan Gray - Memories",
+        "point": "13.2/4",
+        "sentence": "If you'll stay here the whole night"
+      },
+      {
+        "song": "Cyndi Lauper - Time After Time",
+        "point": "13.2/4",
+        "sentence": "If you're lost, you can look and you will find me"
+      },
+      {
+        "song": "Cyndi Lauper - Time After Time",
+        "point": "13.2/4",
+        "sentence": "If you fall, I will catch you, I'll be waiting"
+      },
+      {
+        "song": "Cynthia Erivo & Ariana Grande - One Short Day",
+        "point": "13.2/4",
+        "sentence": "Once more will sing a joyous \"Ah!\""
+      },
+      {
+        "song": "Cynthia Erivo - The Wizard And I",
+        "point": "13.2/4",
+        "sentence": "When people see me, they will scream"
+      },
+      {
+        "song": "DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne - I'm the One",
+        "point": "13.2/4",
+        "sentence": "'Cause I promise when we step out you'll be famous"
+      },
+      {
+        "song": "Diana Ross - Theme From Mahogany (Do You Know Where You're Going To)",
+        "point": "13.2/4",
+        "sentence": "Why must we wait so long before we'll see"
+      },
+      {
+        "song": "Doja Cat - Get Into It (Yuh)",
+        "point": "13.2/4",
+        "sentence": "If they ever tryna neck, I'll put my foot up in your caca"
+      },
+      {
+        "song": "Doja Cat - Say So",
+        "point": "13.2/4",
+        "sentence": "If you front then I'll be bouncing"
+      },
+      {
+        "song": "Donna Murphy - Mother Knows Best",
+        "point": "13.2/4",
+        "sentence": "When it's too late, you'll see"
+      },
+      {
+        "song": "Dua Lipa - Houdini",
+        "point": "13.2/4",
+        "sentence": "If you're good enough, you'll find a way"
+      },
+      {
+        "song": "Ed Sheeran - Happier",
+        "point": "13.2/4",
+        "sentence": "And until then I'll smile to hide the truth"
+      },
+      {
+        "song": "Ed Sheeran - Lego House",
+        "point": "13.2/4",
+        "sentence": "If you're broken, I will mend you"
+      },
+      {
+        "song": "Ed Sheeran - Shivers",
+        "point": "13.2/4",
+        "sentence": "And when they say the party's over then we'll bring it right back"
+      },
+      {
+        "song": "Ed Sheeran - Shivers",
+        "point": "13.2/4",
+        "sentence": "And when they say the party's over then we'll bring it right back, hey"
+      },
+      {
+        "song": "Emily Blunt - Can You Imagine That_",
+        "point": "13.2/4",
+        "sentence": "Well, if you won't, I will! Woah!"
+      },
+      {
+        "song": "Gracie Abrams - Difficult",
+        "point": "13.2/4",
+        "sentence": "If I move out this year, I'll feel my parents slippin'"
+      },
+      {
+        "song": "H.E.R. - Fight For You",
+        "point": "13.2/4",
+        "sentence": "When they knock on your door, will you be ready for war?"
+      },
+      {
+        "song": "HUNTR_X - How It's Done",
+        "point": "13.2/4",
+        "sentence": "And when you pull up, I'll pull up, a little late to the party"
+      },
+      {
+        "song": "Hugh Jackman - Come Alive",
+        "point": "13.2/4",
+        "sentence": "'Cause once you see it, oh, you'll never, never be the same"
+      },
+      {
+        "song": "Jon Bon Jovi - Blaze of Glory",
+        "point": "13.2/4",
+        "sentence": "You ask If I'll grow to be a wise man"
+      },
+      {
+        "song": "Jon Bon Jovi - Blaze of Glory",
+        "point": "13.2/4",
+        "sentence": "Well I ask if I'll grow old"
+      },
+      {
+        "song": "Judy Garland - Have Yourself A Merry Little Christmas",
+        "point": "13.2/4",
+        "sentence": "Until then, we'll have to muddle through somehow"
+      },
+      {
+        "song": "Judy Kuhn - Colors of the Wind",
+        "point": "13.2/4",
+        "sentence": "If you cut it down, then you'll never know"
+      },
+      {
+        "song": "Katy Perry - Firework",
+        "point": "13.2/4",
+        "sentence": "And when it's time, you'll know"
+      },
+      {
+        "song": "Keith David - Friends On The Other Side",
+        "point": "13.2/4",
+        "sentence": "If you relax it will enable me to do anything I please"
+      },
+      {
+        "song": "Kenny Loggins - Playing with the Boys",
+        "point": "13.2/4",
+        "sentence": "If you wanna find me, I'll be"
+      },
+      {
+        "song": "Kristen Bell - The Next Right Thing",
+        "point": "13.2/4",
+        "sentence": "When it's clear that everything will never be the same again"
+      },
+      {
+        "song": "Lady Gaga - Hold My Hand",
+        "point": "13.2/4",
+        "sentence": "But if you decide to, I'll ride in this life with you"
+      },
+      {
+        "song": "Lady Gaga - Is That Alright",
+        "point": "13.2/4",
+        "sentence": "Knowing if we stay together that things will be right"
+      },
+      {
+        "song": "Lady Gaga - Poker Face",
+        "point": "13.2/4",
+        "sentence": "And after he's been hooked, I'll play the one that's on his heart"
+      },
+      {
+        "song": "Lana Del Rey - Summertime Sadness",
+        "point": "13.2/4",
+        "sentence": "I know if I go, I'll die happy tonight"
+      },
+      {
+        "song": "Lana Del Rey - Young and Beautiful",
+        "point": "13.2/4",
+        "sentence": "When he comes, tell me that you'll let him in"
+      },
+      {
+        "song": "Lea Salonga - Reflection",
+        "point": "13.2/4",
+        "sentence": "When will my reflection show"
+      },
+      {
+        "song": "Louis Armstrong - We Have All The Time In The World",
+        "point": "13.2/4",
+        "sentence": "If that's all we have, you will find"
+      },
+      {
+        "song": "Lukas Graham - 7 Years",
+        "point": "13.2/4",
+        "sentence": "And if we don't meet before I leave, I hope I'll see you later"
+      },
+      {
+        "song": "Maisie Peters - I’m Trying (Not Friends)",
+        "point": "13.2/4",
+        "sentence": "If I'm being frank, I want a \"sorry\" but I'll settle for a handshake"
+      },
+      {
+        "song": "Major Lazer & Justin Bieber - Cold Water",
+        "point": "13.2/4",
+        "sentence": "And if you feel you're sinking, I will jump right over"
+      },
+      {
+        "song": "Mandy Moore - When Will My Life Begin",
+        "point": "13.2/4",
+        "sentence": "Just wonder when will my life begin?"
+      },
+      {
+        "song": "Mandy Moore - When Will My Life Begin",
+        "point": "13.2/4",
+        "sentence": "When will my life begin?"
+      },
+      {
+        "song": "Mariah Carey & Whitney Houston - When You Believe",
+        "point": "13.2/4",
+        "sentence": "When you believe, somehow you will"
+      },
+      {
+        "song": "Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough",
+        "point": "13.2/4",
+        "sentence": "If you ever in trouble, I'll be there on the double"
+      },
+      {
+        "song": "Metro Boomin, Swae Lee, NAV & A Boogie wit da Hoodie - Calling",
+        "point": "13.2/4",
+        "sentence": "If you tell me to jump, I'll ask you, \"How high?\""
+      },
+      {
+        "song": "Michael Bolton - Go the Distance",
+        "point": "13.2/4",
+        "sentence": "When I go the distance, I'll be right where I belong"
+      },
+      {
+        "song": "Olivia Rodrigo - hope ur ok",
+        "point": "13.2/4",
+        "sentence": "Don't know if I'll see you again someday"
+      },
+      {
+        "song": "One Direction - Story of my life",
+        "point": "13.2/4",
+        "sentence": "It seems to me that when I die these words will be written on my stone"
+      },
+      {
+        "song": "Pat Carroll - Poor Unfortunate Souls",
+        "point": "13.2/4",
+        "sentence": "If I become human, I'll never be with my father or sisters again"
+      },
+      {
+        "song": "Roxette - The Look",
+        "point": "13.2/4",
+        "sentence": "When everything I'll ever do, I'll do for you"
+      },
+      {
+        "song": "SZA - Kill Bill",
+        "point": "13.2/4",
+        "sentence": "If I can't have you, no one will"
+      },
+      {
+        "song": "Sabrina Carpenter - Busy Woman",
+        "point": "13.2/4",
+        "sentence": "If you don't want me, I'll just deem you gay"
+      },
+      {
+        "song": "Sarah McLachlan - When She Loved Me",
+        "point": "13.2/4",
+        "sentence": "When she'd say I will always love you"
+      },
+      {
+        "song": "Selena Gomez - Bad Liar",
+        "point": "13.2/4",
+        "sentence": "If you're the art, I'll be the brush"
+      },
+      {
+        "song": "Selena Gomez - The Heart Wants What It Wants",
+        "point": "13.2/4",
+        "sentence": "That after this fever I'll survive"
+      },
+      {
+        "song": "Spice Girls - Wannabe",
+        "point": "13.2/4",
+        "sentence": "If you really bug me, then I'll say goodbye"
+      },
+      {
+        "song": "Taylor Swift & The Civil Wars - Safe & Sound",
+        "point": "13.2/4",
+        "sentence": "When I said \"I'll never let you go\""
+      },
+      {
+        "song": "Taylor Swift - Cruel Summer",
+        "point": "13.2/4",
+        "sentence": "And if I bleed, you'll be the last to know"
+      },
+      {
+        "song": "Taylor Swift - Karma",
+        "point": "13.2/4",
+        "sentence": "'Cause if you dare, you'll see the glare"
+      },
+      {
+        "song": "The Phantom Of The Opera Cast - Masquerade _ Why So Silent_",
+        "point": "13.2/4",
+        "sentence": "If pride will let her return to me"
+      },
+      {
+        "song": "Vanessa Williams - Colors Of The Wind",
+        "point": "13.2/4",
+        "sentence": "If you cut it down, then you'll never know"
+      },
+      {
+        "song": "Westlife - If I Let You Go",
+        "point": "13.2/4",
+        "sentence": "But if I let you go I will never know"
+      },
+      {
+        "song": "Westlife - If I Let You Go",
+        "point": "13.2/4",
+        "sentence": "But if I let you go I will never know (oh, baby)"
+      },
+      {
+        "song": "Wiz Khalifa & Charlie Puth - See You Again",
+        "point": "13.2/4",
+        "sentence": "And when brotherhood come first, then the line will never be crossed"
+      },
+      {
+        "song": "prince - when doves cry",
+        "point": "13.2/4",
+        "sentence": "Dig if you will the picture"
+      },
+      {
+        "song": "prince - when doves cry",
+        "point": "13.2/4",
+        "sentence": "Touch, if you will, my stomach"
+      }
+    ],
+    "13.2/5": [
+      {
+        "song": "Adele - Hello",
+        "point": "13.2/5",
+        "sentence": "They say that time's supposed to heal ya, but I ain't done much healing"
+      },
+      {
+        "song": "Adele - Rumour Has It",
+        "point": "13.2/5",
+        "sentence": "People say crazy things"
+      },
+      {
+        "song": "Ariana Grande - 7 Rings",
+        "point": "13.2/5",
+        "sentence": "They say, \"Which one?\" I say, \"Nah, I want all of 'em\""
+      },
+      {
+        "song": "Ariana Grande - Thank U, Next",
+        "point": "13.2/5",
+        "sentence": "I know they say I move on too fast"
+      },
+      {
+        "song": "Ariana Grande - pov",
+        "point": "13.2/5",
+        "sentence": "You love my lips 'cause they say the"
+      },
+      {
+        "song": "Avicii - Wake Me Up",
+        "point": "13.2/5",
+        "sentence": "They tell me I'm too young to understand"
+      },
+      {
+        "song": "Avicii - Wake Me Up",
+        "point": "13.2/5",
+        "sentence": "They say I'm caught up in a dream"
+      },
+      {
+        "song": "Billie Eilish - Skinny",
+        "point": "13.2/5",
+        "sentence": "People say I look happy"
+      },
+      {
+        "song": "Bruno Mars - Talking To The Moon",
+        "point": "13.2/5",
+        "sentence": "They say I've gone mad"
+      },
+      {
+        "song": "Camila Cabello - I LUV IT",
+        "point": "13.2/5",
+        "sentence": "She says I'm way too young, wait right here"
+      },
+      {
+        "song": "Camila Cabello - My Oh My",
+        "point": "13.2/5",
+        "sentence": "They say he likes a good time"
+      },
+      {
+        "song": "Charli XCX - Speed Drive",
+        "point": "13.2/5",
+        "sentence": "She got loyalty, she says, \"I love you, girl\""
+      },
+      {
+        "song": "Common & John Legend - Glory",
+        "point": "13.2/5",
+        "sentence": "They say, \"Stay down,\" and we stand up"
+      },
+      {
+        "song": "Doja Cat - Get Into It (Yuh)",
+        "point": "13.2/5",
+        "sentence": "They say I just got a buck (ay)"
+      },
+      {
+        "song": "Doja Cat - Get Into It (Yuh)",
+        "point": "13.2/5",
+        "sentence": "They say I just got a buck (yeah)"
+      },
+      {
+        "song": "Dua Lipa - Houdini",
+        "point": "13.2/5",
+        "sentence": "They say I come and I go"
+      },
+      {
+        "song": "Ed Sheeran - Shivers",
+        "point": "13.2/5",
+        "sentence": "And when they say the party's over then we'll bring it right back"
+      },
+      {
+        "song": "Ed Sheeran - Shivers",
+        "point": "13.2/5",
+        "sentence": "And when they say the party's over then we'll bring it right back, hey"
+      },
+      {
+        "song": "Elton John - Daniel",
+        "point": "13.2/5",
+        "sentence": "They say Spain is pretty though I've never been"
+      },
+      {
+        "song": "Fall Out Boy - Immortals",
+        "point": "13.2/5",
+        "sentence": "They say we are what we are"
+      },
+      {
+        "song": "Halsey - Graveyard",
+        "point": "13.2/5",
+        "sentence": "They say I may be making a mistake"
+      },
+      {
+        "song": "Halsey - So Good",
+        "point": "13.2/5",
+        "sentence": "Maria calls me and she says she's getting married"
+      },
+      {
+        "song": "Huey Lewis And The News - The Power Of Love",
+        "point": "13.2/5",
+        "sentence": "They say that all in love is fair"
+      },
+      {
+        "song": "Imagine Dragons - Demons",
+        "point": "13.2/5",
+        "sentence": "They say it's what you make"
+      },
+      {
+        "song": "Isabelle Allen - Castle On a Cloud",
+        "point": "13.2/5",
+        "sentence": "She says, \"Cosette, I love you very much\""
+      },
+      {
+        "song": "John Travolta - Sandy",
+        "point": "13.2/5",
+        "sentence": "What will they say"
+      },
+      {
+        "song": "Jon Bon Jovi - Blaze of Glory",
+        "point": "13.2/5",
+        "sentence": "They say you're born in sin"
+      },
+      {
+        "song": "Jon Bon Jovi - Blaze of Glory",
+        "point": "13.2/5",
+        "sentence": "Well they tell me that I'm wanted"
+      },
+      {
+        "song": "Keala Settle - This Is Me",
+        "point": "13.2/5",
+        "sentence": "Hide away, they say"
+      },
+      {
+        "song": "Keala Settle - This Is Me",
+        "point": "13.2/5",
+        "sentence": "Run away, they say"
+      },
+      {
+        "song": "Kristen Bell - Do You Want To Build A Snowman",
+        "point": "13.2/5",
+        "sentence": "They say \"have courage\", and I'm trying to"
+      },
+      {
+        "song": "La La Land Cast - Another Day of Sun",
+        "point": "13.2/5",
+        "sentence": "They say \"you gotta want it more\""
+      },
+      {
+        "song": "Lana Del Rey - Brooklyn Baby",
+        "point": "13.2/5",
+        "sentence": "They say I'm too young to love you"
+      },
+      {
+        "song": "Lana Del Rey - Brooklyn Baby",
+        "point": "13.2/5",
+        "sentence": "They say I'm too dumb to see"
+      },
+      {
+        "song": "Lana Del Rey - Did you know that there's a tunnel under Ocean Blvd",
+        "point": "13.2/5",
+        "sentence": "Something about the way he says \"Don't forget me\" makes me feel like"
+      },
+      {
+        "song": "Lana Del Rey - Lust For Life",
+        "point": "13.2/5",
+        "sentence": "They say only the good die young"
+      },
+      {
+        "song": "Lana Del Rey - National Anthem",
+        "point": "13.2/5",
+        "sentence": "He says to be cool but, I don't know how yet"
+      },
+      {
+        "song": "Lana Del Rey - Video Games",
+        "point": "13.2/5",
+        "sentence": "They say that the world was built for two"
+      },
+      {
+        "song": "Lionel Richie & Diana Ross - Endless Love",
+        "point": "13.2/5",
+        "sentence": "They tell me how much you care"
+      },
+      {
+        "song": "Lorde - Liability",
+        "point": "13.2/5",
+        "sentence": "They say, \"You're a little much for me"
+      },
+      {
+        "song": "MIchael Jackson - Ben",
+        "point": "13.2/5",
+        "sentence": "I don't listen to a word they say"
+      },
+      {
+        "song": "MIchael Jackson - Ben",
+        "point": "13.2/5",
+        "sentence": "(A word they say)"
+      },
+      {
+        "song": "Maisie Peters - History Of Man",
+        "point": "13.2/5",
+        "sentence": "She begs him, he says he doesn't understand"
+      },
+      {
+        "song": "Michael Jackson - Billie Jean",
+        "point": "13.2/5",
+        "sentence": "She says I am the one"
+      },
+      {
+        "song": "Michael Jackson - Billie Jean",
+        "point": "13.2/5",
+        "sentence": "You know what you did (she says he is my son)"
+      },
+      {
+        "song": "Miley Cyrus - Angels Like You",
+        "point": "13.2/5",
+        "sentence": "'Cause they say that misery loves company"
+      },
+      {
+        "song": "Olivia Rodrigo - brutal",
+        "point": "13.2/5",
+        "sentence": "They say these are the golden years"
+      },
+      {
+        "song": "Olivia Rodrigo - making the bed",
+        "point": "13.2/5",
+        "sentence": "They tell me that they love me like I'm some tourist attraction"
+      },
+      {
+        "song": "Olivia Rodrigo - so american",
+        "point": "13.2/5",
+        "sentence": "He says I'm pretty wearin' his clothes"
+      },
+      {
+        "song": "Olivia Rodrigo - so american",
+        "point": "13.2/5",
+        "sentence": "And he says I'm so American"
+      },
+      {
+        "song": "Queen - Killer Queen",
+        "point": "13.2/5",
+        "sentence": "\"Let them eat cake\" she says, just like Marie Antoinette"
+      },
+      {
+        "song": "Queen - Somebody To Love",
+        "point": "13.2/5",
+        "sentence": "They say I'm goin' crazy"
+      },
+      {
+        "song": "Queen - Somebody To Love",
+        "point": "13.2/5",
+        "sentence": "They say I got a lot of water in my brain"
+      },
+      {
+        "song": "Queen Latifah - When You're Good To Mama",
+        "point": "13.2/5",
+        "sentence": "They say that life is tit for tat"
+      },
+      {
+        "song": "Sabrina Carpenter - emails i can't send",
+        "point": "13.2/5",
+        "sentence": "I mean, as they say in Chicago"
+      },
+      {
+        "song": "Selena Gomez - Hands To Myself",
+        "point": "13.2/5",
+        "sentence": "But people say what they wanna say"
+      },
+      {
+        "song": "Smash Mouth - All Star",
+        "point": "13.2/5",
+        "sentence": "It's a cool place and they say it gets colder"
+      },
+      {
+        "song": "Stephanie Beatriz - The Family Madrigal",
+        "point": "13.2/5",
+        "sentence": "They say he saw the future, one day, he disappeared"
+      },
+      {
+        "song": "Taylor Swift - Don't Blame Me",
+        "point": "13.2/5",
+        "sentence": "They say, she's gone too far this time"
+      },
+      {
+        "song": "Taylor Swift - Lavender Haze",
+        "point": "13.2/5",
+        "sentence": "Surreal, I'm damned if I do give a damn what people say"
+      },
+      {
+        "song": "Taylor Swift - Lavender Haze",
+        "point": "13.2/5",
+        "sentence": "Surreal, I'm damned if I do give a damn what people say (oh, yeah)"
+      },
+      {
+        "song": "Taylor Swift - Shake It Off",
+        "point": "13.2/5",
+        "sentence": "That's what people say, mm-mm"
+      },
+      {
+        "song": "Taylor Swift - Shake It Off",
+        "point": "13.2/5",
+        "sentence": "At least that's what people say, mm-mm"
+      },
+      {
+        "song": "Taylor Swift - Style",
+        "point": "13.2/5",
+        "sentence": "He says, \"What you've heard is true but I"
+      },
+      {
+        "song": "Taylor Swift - betty",
+        "point": "13.2/5",
+        "sentence": "You can't believe a word she says"
+      },
+      {
+        "song": "The Weeknd - Dancing In The Flames",
+        "point": "13.2/5",
+        "sentence": "\"The world can't heal,\" they say on the radio, oh no"
+      },
+      {
+        "song": "jennifer lawrence - the hanging tree",
+        "point": "13.2/5",
+        "sentence": "They say who murdered three"
+      }
+    ]
+  }
+}

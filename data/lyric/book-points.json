@@ -1,0 +1,1329 @@
+[
+  {
+    "group": "句子怎么搭起来",
+    "items": [
+      {
+        "no": 1,
+        "title": "语法层次",
+        "points": [
+          {
+            "ref": "1.1",
+            "name": "词还能再切",
+            "book": "词素",
+            "say": "一个词还能切开。有的切下来自己就能说，有的必须粘在别的词上。",
+            "songs": []
+          },
+          {
+            "ref": "1.2",
+            "name": "词是怎么来的",
+            "book": "词",
+            "say": "有的词是一整块，有的加了头或尾，有的是两个词拼成的。有的词就那么几个、很难再造新的，有的可以一直加。",
+            "songs": []
+          },
+          {
+            "ref": "1.3/1)",
+            "name": "东西旁边可以加一串",
+            "book": "名词词组",
+            "say": "a red bag。a 和 red 都围着 bag 转。合在一起还是在说那个包。",
+            "songs": []
+          },
+          {
+            "ref": "1.3/2)",
+            "name": "做事的那个词可以带上时间",
+            "book": "动词词组",
+            "say": "eat 可以变成 is eating、ate。后面还可以跟吃的是什么。合在一起才是这件事。",
+            "songs": []
+          },
+          {
+            "ref": "1.3/3)",
+            "name": "“怎么样”可以加很，也可以比",
+            "book": "形容词词组",
+            "say": "happy 可以单独用。也可以说 very happy，或者 happier than me。",
+            "songs": []
+          },
+          {
+            "ref": "1.3/4)",
+            "name": "旁边补时间、地方、程度",
+            "book": "副词词组",
+            "say": "slowly、yesterday、very 是补在旁边的。告诉你怎么做、什么时候、有多。",
+            "songs": []
+          },
+          {
+            "ref": "1.3/5)",
+            "name": "in、on 后面还得跟人",
+            "book": "介词词组",
+            "say": "in 不能自己站着。in the room，后面一定还有东西，一起说在哪。",
+            "songs": []
+          },
+          {
+            "ref": "1.4/1)",
+            "name": "哪句能自己站着",
+            "book": "独立分句和从属分句",
+            "say": "有的句子自己就能说完。有的必须靠在另一句上，不能单独成句。",
+            "songs": []
+          },
+          {
+            "ref": "1.4/2)",
+            "name": "一句里套了几层",
+            "book": "简单分句和复杂分句",
+            "say": "只有一套主谓，是简单的。里面再套进一句，就复杂了。",
+            "songs": []
+          },
+          {
+            "ref": "1.4/3)",
+            "name": "哪句是正事",
+            "book": "主句和从句",
+            "say": "你真正要说的是前面那件正事。because、if 后面那截是挂上去的，自己不能把这句说完。",
+            "songs": []
+          },
+          {
+            "ref": "1.4/4)",
+            "name": "有的词会变时间，有的不会",
+            "book": "限定分句、非限定分句、无动词分句",
+            "say": "is、ate 会变时间。to go、going、gone 自己不变，得靠前面那个词。还有的半句连做事的词都没有，比如 when young。",
+            "songs": []
+          },
+          {
+            "ref": "1.5/1)",
+            "name": "话说全了没有",
+            "book": "完全句和不完全句",
+            "say": "主谓都在，是完整的一句。只丢出半句，对方也能懂，就是没说全。",
+            "songs": []
+          },
+          {
+            "ref": "1.5/2)",
+            "name": "几件事怎么摆",
+            "book": "简单句、并列句、复杂句、并列复杂句",
+            "say": "可以只说一件事，可以把几件事并排，可以一件事里套着另一件，也可以又并排又套着。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 2,
+        "title": "分句结构和基本句型",
+        "points": [
+          {
+            "ref": "2.1",
+            "name": "一句先找谁和做什么",
+            "book": "分句结构——主语和谓语",
+            "say": "先找谁，再找他做了什么，或者他是什么样。She is happy。she 是谁，is happy 是她怎样。",
+            "songs": []
+          },
+          {
+            "ref": "2.2",
+            "name": "就那么几种句子架子",
+            "book": "基本句型及其对英语学习的意义",
+            "say": "英语句子的架子就几种：谁做什么，谁是什么，谁把东西给谁。先认出架子，句子才读得开。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 3,
+        "title": "分句成分",
+        "points": [
+          {
+            "ref": "3.1",
+            "name": "一句里不能少的两块",
+            "book": "分句的中心成分",
+            "say": "谁、做了什么，这两块不能少。吃了什么、给了谁，是跟着后面补上的。",
+            "songs": []
+          },
+          {
+            "ref": "3.2",
+            "name": "句子边上可加的",
+            "book": "分句的外围成分",
+            "say": "时间、原因、条件这些是加在边上的。拿掉，句子还在。还有一种是把两句连起来的话。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 4,
+        "title": "主谓一致（一）",
+        "points": [
+          {
+            "ref": "4.1",
+            "name": "is 还是 are，看谁",
+            "book": "指导原则",
+            "say": "He is，They are。一个还是一群，后面的 is、are 要跟着变。Tom or his friends are coming，看靠近的 friends。",
+            "songs": []
+          },
+          {
+            "ref": "4.2",
+            "name": "以 s 结尾不一定是很多",
+            "book": "以-s结尾的名词作主语的主谓一致问题",
+            "say": "measles、physics、the United States 虽然以 s 结尾，还是当一个。别看见 s 就说 are。",
+            "songs": []
+          },
+          {
+            "ref": "4.3",
+            "name": "一群人算一个还是很多",
+            "book": "以集体名词作主语的主谓一致问题",
+            "say": "police 这种通常当很多。furniture 这种当一个整体。committee 看你说的是这一个班子，还是里面的人。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 5,
+        "title": "主谓一致（二）",
+        "points": [
+          {
+            "ref": "5.1",
+            "name": "两个一起，还是二选一",
+            "book": "以并列结构作主语的主谓一致问题",
+            "say": "Tom and Jerry are，两个都算。Tom or Jerry is，看靠近的那个。Tom as well as his friends is here，as well as 后面那个不算。",
+            "songs": []
+          },
+          {
+            "ref": "5.2",
+            "name": "一笔钱当一个",
+            "book": "以表示数量概念的名词词组作主语的主谓一致问题",
+            "say": "Ten dollars is enough，这一笔钱当一个。说一个个人，才用 are。",
+            "songs": []
+          },
+          {
+            "ref": "5.3",
+            "name": "一件事，或者 there 后面那个",
+            "book": "其他方面的主谓一致问题",
+            "say": "What he said is true，说的是一件事，用 is。There are two books，看后面 books，用 are。",
+            "songs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "名词、限定词、代词",
+    "items": [
+      {
+        "no": 6,
+        "title": "名词和名词词组",
+        "points": [
+          {
+            "ref": "6.1",
+            "name": "名字，还是能一个个数",
+            "book": "名词分类",
+            "say": "Tom、China 是名字，一般不加 a。bag 能一个个数，water 不能数。能数的才能说 a bag、two bags。",
+            "songs": []
+          },
+          {
+            "ref": "6.2",
+            "name": "先抓住中间那个东西",
+            "book": "名词词组剖析",
+            "say": "a very old friend。先抓住 friend，再看前面加了什么。a、the、my 放最前，old 靠近 friend。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 7,
+        "title": "名词的数和名词属格",
+        "points": [
+          {
+            "ref": "7.1",
+            "name": "一个还是很多",
+            "book": "名词的数",
+            "say": "多数加 s。有的不规则，有的单复同形。有的词平时不能数，一说到种类或一份就能数。",
+            "songs": []
+          },
+          {
+            "ref": "7.2",
+            "name": "谁的",
+            "book": "名词属格",
+            "say": "'s 多给人或动物。东西常用 of。有的两个都要，像 a friend of my sister's。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 8,
+        "title": "限定词（一）",
+        "points": [
+          {
+            "ref": "8.1",
+            "name": "后面这个词，前面能不能跟",
+            "book": "限定词与三类名词的搭配关系",
+            "say": "the 后面一个、很多、water 都能跟。a 后面只能跟一个能数的。much 后面跟 water 这种不能数的。",
+            "songs": []
+          },
+          {
+            "ref": "8.2",
+            "name": "all、the、two 怎么排队",
+            "book": "限定词与限定词的搭配关系",
+            "say": "要说 all the three books。all 在最前，the 在中间，three 靠近 books。不能说 the all books。",
+            "songs": []
+          },
+          {
+            "ref": "8.3",
+            "name": "是哪一个，还是这一类",
+            "book": "限定词的表意功能",
+            "say": "the book 是你心里已经有的那一本。a book 或 books 常常是这一类，不是某一本。two 只说多少。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 9,
+        "title": "限定词（二）",
+        "points": [
+          {
+            "ref": "9.1",
+            "name": "the 和 a 在指什么",
+            "book": "冠词的类指和特指",
+            "say": "说这一类东西，和说你我都知道的那一个，用的不一样。有的要等后文才知道指谁，有的前文已经说过。",
+            "songs": []
+          },
+          {
+            "ref": "9.2",
+            "name": "什么时候加 the",
+            "book": "各类名词前的冠词用法",
+            "say": "Tom、China 多半不加 the。the Thames、the piano 要加。第一次说 a dog，再说到这只就用 the dog。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 10,
+        "title": "代词（一）",
+        "points": [
+          {
+            "ref": "10.1",
+            "name": "我说 I，你说 you",
+            "book": "人称代词概说",
+            "say": "我说 I，跟你说 you，说到别人用 he、she。一个是 he，很多是 they。",
+            "songs": []
+          },
+          {
+            "ref": "10.2",
+            "name": "前后是不是同一个人",
+            "book": "人称一致",
+            "say": "前面说的是谁，后面的 he、they 就要对上。不要忽然换人。",
+            "songs": []
+          },
+          {
+            "ref": "10.3",
+            "name": "everyone 后面跟 he 还是 they",
+            "book": "“数”的一致",
+            "say": "everyone 形式上是一个，意思常常是很多人。现在可以说 they，也要看句子要不要严格对上一个。",
+            "songs": []
+          },
+          {
+            "ref": "10.4",
+            "name": "他说她，还是它",
+            "book": "“性”的一致",
+            "say": "人按男女性。船、国家有时当她。不知道是谁，不要硬写成 he。",
+            "songs": []
+          },
+          {
+            "ref": "10.5",
+            "name": "用 I 还是 me",
+            "book": "格的选择",
+            "say": "谁在做事用 I：I know。放到后面用 me：He knows me。比的时候口语说 taller than me。他的东西用 his book，不是 he book。",
+            "songs": []
+          },
+          {
+            "ref": "10.6",
+            "name": "you、they 不一定是具体那个人",
+            "book": "人称代词的类指用法",
+            "say": "you、they、one 有时不是在说某一个人，是在说大家、人们。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 11,
+        "title": "代词（二）",
+        "points": [
+          {
+            "ref": "11.1",
+            "name": "my book，还是 mine",
+            "book": "物主代词和物主限定词",
+            "say": "my book，my 后面还得有东西。This book is mine，mine 自己就能站着。",
+            "songs": []
+          },
+          {
+            "ref": "11.2",
+            "name": "自己",
+            "book": "反身代词",
+            "say": "himself 可以强调就是他本人，也可以说动作回到他自己身上。别和 him 混。",
+            "songs": []
+          },
+          {
+            "ref": "11.3",
+            "name": "这个那个",
+            "book": "指示代词和指示限定词",
+            "say": "this、these 近，that、those 远。可以指东西，也可以指刚说过的话。",
+            "songs": []
+          },
+          {
+            "ref": "11.4",
+            "name": "互相",
+            "book": "相互代词",
+            "say": "each other 是两者互相。one another 也可以说互相，别理解成各自。",
+            "songs": []
+          },
+          {
+            "ref": "11.5",
+            "name": "some、any、few",
+            "book": "不定代词和不定限定词",
+            "say": "有就说 some。问句和没有，多用 any。few 是少得可怜，a few 是还有几个。each 是一个个看，every 是全体里的每一个。",
+            "songs": []
+          },
+          {
+            "ref": "11.6",
+            "name": "后面的词指前面谁",
+            "book": "代词照应",
+            "say": "he、this 要让人一眼看出指的是前面哪一个。指不清，句子就乱。",
+            "songs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "动词",
+    "items": [
+      {
+        "no": 12,
+        "title": "动词和动词词组",
+        "points": [
+          {
+            "ref": "12.1",
+            "name": "is、do、will 帮着把句子变一变",
+            "book": "助动词分类及其缩略形式",
+            "say": "问句、没有、时间，常靠 is、do、have、will 来帮忙。I am 缩成 I'm，do not 缩成 don't。",
+            "songs": []
+          },
+          {
+            "ref": "12.2",
+            "name": "后面要不要跟东西",
+            "book": "主动词分类",
+            "say": "eat 后面通常要跟吃的是什么。sleep 后面不用跟。look after 要两个词一起用，不能只留 look。",
+            "songs": []
+          },
+          {
+            "ref": "12.3",
+            "name": "哪个词会变时间",
+            "book": "限定动词(词组)与非限定动词(词组)",
+            "say": "一句里真正落地的那个词会变：eats、ate。to eat、eating、eaten 自己不变，得挂在别的词后面。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 13,
+        "title": "动词的时和体（一）",
+        "points": [
+          {
+            "ref": "13.1",
+            "name": "时间，和做完没有",
+            "book": "时、体概说",
+            "say": "时间看落在现在还是过去。另一件事是：做完了没有，还是正在做。两件要分开看。",
+            "songs": []
+          },
+          {
+            "ref": "13.2",
+            "name": "嘴里用现在",
+            "book": "一般现在时的用法",
+            "say": "习惯、眼下、一直如此，用现在说。还有两件特别的：以后的事，If 后面也当现在说，不加 will。已经发生的事，也可以拿现在说得像在眼前。",
+            "songs": [
+              "Count On Me",
+              "Talking to the Moon"
+            ]
+          },
+          {
+            "ref": "13.3",
+            "name": "事情落在过去",
+            "book": "一般过去时的用法",
+            "say": "说过去某时发生过，用过去。过去的习惯也可以这么说。有时明明是现在的愿望或客气，嘴里也用过去。",
+            "songs": []
+          },
+          {
+            "ref": "13.4",
+            "name": "现在正在做",
+            "book": "现在进行体的用法",
+            "say": "说话这一刻正在做，或这一段一直在做，用正在。带情绪的“老是”也用这个。已经安排好的近处以后，也可以这么说。",
+            "songs": []
+          },
+          {
+            "ref": "13.5",
+            "name": "过去那个时候正在做",
+            "book": "过去进行体的用法",
+            "say": "过去某个点上正在发生，用过去正在。也可以说过去老是那样，或从过去看还没发生的以后。",
+            "songs": []
+          },
+          {
+            "ref": "13.6",
+            "name": "写文章时让场面正在发生",
+            "book": "进行体句式在语篇中的应用",
+            "say": "说明文、故事、信里，用正在，是为了把读者拉到那个场面里。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 14,
+        "title": "动词的时和体（二）",
+        "points": [
+          {
+            "ref": "14.1",
+            "name": "到现在为止",
+            "book": "现在完成体和现在完成进行体的用法",
+            "say": "从过去一直连到现在，或结果还在，用 have done。如果这阵子一直在做、还没停，用 have been doing。",
+            "songs": []
+          },
+          {
+            "ref": "14.2",
+            "name": "比过去更早",
+            "book": "过去完成体和过去完成进行体的用法",
+            "say": "两件都在过去，更早的那件用 had done。如果那阵子一直在做，用 had been doing。",
+            "songs": []
+          },
+          {
+            "ref": "14.3",
+            "name": "since、第一次",
+            "book": "关于完成体用法的几点补充说明",
+            "say": "since 后面那个时间点，前面常用 have done。It is the first time 后面也用 have done。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 15,
+        "title": "将来时间表示法",
+        "points": [
+          {
+            "ref": "15.1",
+            "name": "以后的事怎么说",
+            "book": "从现在角度表示将来时间",
+            "say": "可以说 I'll go，也可以说 I'm going to go。安排好了说 I'm leaving tonight。If it rains, I'll stay。If 后面用 rains，不加 will。",
+            "songs": []
+          },
+          {
+            "ref": "15.2",
+            "name": "从过去看以后",
+            "book": "过去将来时间表示法",
+            "say": "站在过去说后来的事，用 would、was going to、was to。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 16,
+        "title": "被动意义表示法",
+        "points": [
+          {
+            "ref": "16.1",
+            "name": "谁做的，还是被做",
+            "book": "语态概说",
+            "say": "他修了门，是他做。门被修好了，是门承受。get 有时比 be 更口语，还带一点遭遇。",
+            "songs": []
+          },
+          {
+            "ref": "16.2",
+            "name": "怎么把一句改成被做",
+            "book": "主动句与被动句",
+            "say": "原来的对象变成开头。原来的谁可以不说，或放在 by 后面。不是每句都适合这么改。",
+            "songs": []
+          },
+          {
+            "ref": "16.3",
+            "name": "这句话不是在说被人做了",
+            "book": "被动结构和被动意义",
+            "say": "The door won't open。门自己开不了。The door is locked 是已经锁上的样子，不一定是刚才有人在锁。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 17,
+        "title": "假设意义表示法",
+        "points": [
+          {
+            "ref": "17.1",
+            "name": "陈述、命令、假设",
+            "book": "陈述式、祈使式、虚拟式概说",
+            "say": "普通叙述用陈述。让人去做用命令。不是事实、只是设想，用另一套说法。",
+            "songs": []
+          },
+          {
+            "ref": "17.2",
+            "name": "不是真的，才把词说成过去那样",
+            "book": "现代英语表示“假设意义”的语法手段综述",
+            "say": "If I were you。说的是现在，不是过去。因为这事不是真的，才说成 were。",
+            "songs": []
+          },
+          {
+            "ref": "17.3",
+            "name": "建议后面不要加 s",
+            "book": "BE-型虚拟式",
+            "say": "I suggest that he go。建议他去，go 不加 s，也不说 goes。",
+            "songs": []
+          },
+          {
+            "ref": "17.4",
+            "name": "If 里想说现在，却用 were",
+            "book": "WERE-型虚拟式",
+            "say": "If I were you 说的是现在的假设，不是过去。were 在这里不是过去的时间。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 18,
+        "title": "情态意义表示法（一）",
+        "points": [
+          {
+            "ref": "18.1",
+            "name": "会不会，可能不可能",
+            "book": "表示“能力”和“可能”",
+            "say": "can 是有这个能力，或有这个可能。could 可以是过去的能力，也可以只是说得更委婉。",
+            "songs": []
+          },
+          {
+            "ref": "18.2",
+            "name": "准不准",
+            "book": "表示“许可”和“不许”",
+            "say": "can、may 可以表示允许。must not 是不许。不必，用 needn't，不是 must not。",
+            "songs": []
+          },
+          {
+            "ref": "18.3",
+            "name": "必须，还是照理如此",
+            "book": "表示“义务”和“必然”",
+            "say": "must 是必须。should 是照理该。have to 是客观不得不。",
+            "songs": []
+          },
+          {
+            "ref": "18.4",
+            "name": "预料和猜测",
+            "book": "表示“预见”和“推测”",
+            "say": "will 可以是我估计会。must 可以是我断定。不是只能表示将来或必须。",
+            "songs": []
+          },
+          {
+            "ref": "18.5",
+            "name": "愿意、打算、一定要",
+            "book": "表示“意愿”、“意图”、“决心”",
+            "say": "will 有愿意的意思。would 更委婉。shall 在承诺里是我一定。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 19,
+        "title": "情态意义表示法（二）",
+        "points": [
+          {
+            "ref": "19.1",
+            "name": "命令、禁止、拒绝",
+            "book": "表示“命令”、“禁止”、“拒绝”",
+            "say": "You shall 可以是我命令你。must not 是禁止。won't 可以是不肯。",
+            "songs": []
+          },
+          {
+            "ref": "19.2",
+            "name": "敢，和用不用",
+            "book": "表示“胆敢”、“需要”及其他",
+            "say": "How dare you say that。dare 是敢。Need I go? 这里 need 像 can 一样，后面直接跟 go。",
+            "songs": []
+          },
+          {
+            "ref": "19.3",
+            "name": "是在猜，还是在要求",
+            "book": "情态助动词的推测性用法和非推测性用法",
+            "say": "must、may、can't 用来猜的时候，说的是把握大不大。用来要求的时候，说的是该不该做。两套不要混。",
+            "songs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "不定式和分词",
+    "items": [
+      {
+        "no": 20,
+        "title": "不定式（一）",
+        "points": [
+          {
+            "ref": "20.1",
+            "name": "to 后面就说那件事",
+            "book": "不定式的结构形式",
+            "say": "要说的是这件事本身，用 to hold。不是 is holding，也不是 held。let me go 这种，to 还省掉。",
+            "songs": [
+              "Someone Like You"
+            ]
+          },
+          {
+            "ref": "20.2",
+            "name": "这个 to 是要去做，还是不是",
+            "book": "关于不定式符号的几个问题",
+            "say": "want to go，这个 to 是要去做，后面用 go。object to going，这个 to 不是要去做，后面用 going。",
+            "songs": []
+          },
+          {
+            "ref": "20.3",
+            "name": "to 和那个词被隔开了",
+            "book": "分裂不定式问题",
+            "say": "to really understand。really 插在中间，听得懂就行，不用硬挪开。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 21,
+        "title": "不定式（二）",
+        "points": [
+          {
+            "ref": "21.1",
+            "name": "happy to see you",
+            "book": "不定式与形容词的搭配关系",
+            "say": "I'm happy to see you。去看的人就是我。This book is easy to read。书是被读的那本，不是书自己在读。",
+            "songs": []
+          },
+          {
+            "ref": "21.2",
+            "name": "a book to read",
+            "book": "不定式与名词的搭配关系",
+            "say": "a book to read，书是被读的。the first to arrive，人是来的那个。被人读，有时要说 a book to be read。",
+            "songs": []
+          },
+          {
+            "ref": "21.3",
+            "name": "后面跟 to go，还是跟 reading",
+            "book": "不定式与动词的搭配关系",
+            "say": "I want to go。I enjoy reading。remember to go 是记得要去，remember going 是记得去过。",
+            "songs": []
+          },
+          {
+            "ref": "21.4",
+            "name": "用 to 带出一件小事",
+            "book": "不定式分句",
+            "say": "I stayed home to finish it。to finish it 是为了把事做完。He asked me to leave，是让我离开。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 22,
+        "title": "-ING分词",
+        "points": [
+          {
+            "ref": "22.1",
+            "name": "有的词后面只用 reading",
+            "book": "-ing分词与动词的搭配关系",
+            "say": "I enjoy reading。enjoy 后面用 reading，不说 to read。avoid、mind 也一样。",
+            "songs": []
+          },
+          {
+            "ref": "22.2",
+            "name": "to do 和 doing 意思不一样",
+            "book": "既能直接带不定式又能直接带-ing分词的动词",
+            "say": "stop to do 是停下来去干别的。stop doing 是把这件事停掉。remember、forget、try 也要分开。",
+            "songs": []
+          },
+          {
+            "ref": "22.3",
+            "name": "没有 I am，直接用 doing",
+            "book": "-ing分词分句",
+            "say": "Walking home, I saw her。走路的人就是后面的 I，前面不必再写 I am。",
+            "songs": [
+              "lovely"
+            ]
+          }
+        ]
+      },
+      {
+        "no": 23,
+        "title": "-ED分词",
+        "points": [
+          {
+            "ref": "23.1",
+            "name": "已经是那个样子",
+            "book": "-ed分词作前置修饰语",
+            "say": "a broken window，窗已经破了，不是正在破。dressed 就是已经打扮成那样，不是正在打扮。",
+            "songs": [
+              "Blank Space"
+            ]
+          },
+          {
+            "ref": "23.2",
+            "name": "补在后面，说已经成了那样",
+            "book": "-ed分词作补语",
+            "say": "I found the door locked。门是被发现的时候已经锁上了。locked 补在门后面。",
+            "songs": []
+          },
+          {
+            "ref": "23.3",
+            "name": "开门的人要和后面是同一个",
+            "book": "关于“悬垂分词”",
+            "say": "Opening the door, she saw the dog。开门的是 she。写成 Opening the door, the dog barked，听起来像狗在开门。",
+            "songs": []
+          },
+          {
+            "ref": "23.4",
+            "name": "用 ed 带出半句",
+            "book": "-ed分词分句",
+            "say": "Given time, we would finish。时间和我们是被给的。人是承受的那一方，用 given，不用 giving。",
+            "songs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "形容词、副词、介词",
+    "items": [
+      {
+        "no": 24,
+        "title": "形容词和形容词词组",
+        "points": [
+          {
+            "ref": "24.1",
+            "name": "happy 能放前面，afraid 不能",
+            "book": "形容词分类",
+            "say": "可以说 a happy child，也可以说 The child is happy。afraid、asleep 只能说 He is afraid，不能说 an afraid child。",
+            "songs": []
+          },
+          {
+            "ref": "24.2",
+            "name": "ing 和 ed 用来形容",
+            "book": "形容词与分词",
+            "say": "interesting 是事情让人觉得有趣。interested 是人自己觉得有趣。方向不要反。",
+            "songs": []
+          },
+          {
+            "ref": "24.3",
+            "name": "放在前面，还是放到后面",
+            "book": "形容词(词组)作名词修饰语",
+            "say": "a red car，red 放前面。something red，red 放到 something 后面。说明很长也放后面：a car easy to drive。",
+            "songs": []
+          },
+          {
+            "ref": "24.4",
+            "name": "说她这个人怎样",
+            "book": "形容词词组作补语",
+            "say": "She is happy。She looks tired。这里用 happy、tired。你在说她这个人怎样，不是在说她怎么做。",
+            "songs": []
+          },
+          {
+            "ref": "24.5",
+            "name": "the poor 可以指一群人",
+            "book": "形容词(词组)的其他用法",
+            "say": "the poor 可以指穷人们。How beautiful 是喊出来的。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 25,
+        "title": "副词和副词词组",
+        "points": [
+          {
+            "ref": "25.1",
+            "name": "slowly 是在说怎么做",
+            "book": "副词和副词词组的主要用法",
+            "say": "speak slowly，是说怎么说。very tall，是说有多高。Honestly, I don't know，是在评价这一整句。",
+            "songs": []
+          },
+          {
+            "ref": "25.2",
+            "name": "hard 和 hardly 不是一回事",
+            "book": "兼有两种形式的副词",
+            "say": "hard 是用力，hardly 是几乎不。late 是迟了，lately 是近来。长得像，意思完全不一样。",
+            "songs": []
+          },
+          {
+            "ref": "25.3",
+            "name": "already 和 yet 别换",
+            "book": "若干副词之语义辨析",
+            "say": "已经做了，多用 already。问句和还没有，多用 yet。very happy 用 very。much bigger 用 much。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 26,
+        "title": "比较等级和比较结构",
+        "points": [
+          {
+            "ref": "26.1",
+            "name": "比较时词怎么变",
+            "book": "形容词和副词的比较等级",
+            "say": "短词加 er、est。长词用 more、most。有的不规则，比如 good、better、best。",
+            "songs": []
+          },
+          {
+            "ref": "26.2/1)",
+            "name": "一样高",
+            "book": "as ... as 结构",
+            "say": "as tall as me 是一样高。没有那么高，说 not as tall as me。",
+            "songs": []
+          },
+          {
+            "ref": "26.2/2)",
+            "name": "更……",
+            "book": "more ... than 结构",
+            "say": "taller than、more careful than 是比出来更高、更小心。",
+            "songs": []
+          },
+          {
+            "ref": "26.2/3)",
+            "name": "最……",
+            "book": "“(the) + 形容词/副词最高级 + 比较范围”结构",
+            "say": "the tallest of the three。一定要有比较的那一圈人，否则最字站不住。",
+            "songs": []
+          },
+          {
+            "ref": "26.3",
+            "name": "比的时候几个容易混的",
+            "book": "关于比较结构用法的补充说明",
+            "say": "no more than 是只不过。not more than 是不多于。the more...the more 是越……越……。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 27,
+        "title": "介词和介词词组",
+        "points": [
+          {
+            "ref": "27.1",
+            "name": "on、at、for 是配好的",
+            "book": "介词与形容词、动词、名词的搭配关系",
+            "say": "depend 后面跟 on。good 后面跟 at。reason 后面跟 for。不能按中文的“的、在”去套。",
+            "songs": []
+          },
+          {
+            "ref": "27.2",
+            "name": "because of 是一整块",
+            "book": "复杂介词",
+            "say": "because of、in front of、according to 要一整块用。不要拆开，也不要少写 of。",
+            "songs": []
+          },
+          {
+            "ref": "27.3",
+            "name": "in the room 也可以说成一句",
+            "book": "介词词组与某些限定分句的转换关系",
+            "say": "the man in the room，也可以说成 the man who is in the room。一个短，一个是后半句，意思一样。",
+            "songs": []
+          },
+          {
+            "ref": "27.4",
+            "name": "in、on、at 别混",
+            "book": "若干介词的用法比较",
+            "say": "时间点用 at，日子用 on，较长的一段用 in。地方也是从小到大不一样。",
+            "songs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "句子种类和从句",
+    "items": [
+      {
+        "no": 28,
+        "title": "陈述句、疑问句、祈使句、感叹句",
+        "points": [
+          {
+            "ref": "28.1",
+            "name": "说没有，not 放哪",
+            "book": "陈述句",
+            "say": "说没有，多半加 not：I do not know。not 放在 do、is、can 后面。hardly、never 自己就是没有，不要再加 not。",
+            "songs": []
+          },
+          {
+            "ref": "28.2",
+            "name": "问句四种",
+            "book": "疑问句",
+            "say": "要不要，用 yes/no。问谁什么，把疑问词放前面。给两个选择，是 or。句尾再追问一句，是附加问句。",
+            "songs": []
+          },
+          {
+            "ref": "28.3",
+            "name": "叫人做，或者喊出来",
+            "book": "祈使句和感叹句",
+            "say": "叫人做事，直接说 Open the door。喊出来，说 How tall he is，或 What a day。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 29,
+        "title": "存在句",
+        "points": [
+          {
+            "ref": "29.1",
+            "name": "there 不是那里",
+            "book": "存在句的结构特征",
+            "say": "There is a book on the desk。there 不是“那里”。真正的东西是 a book。一本用 is，两本用 are。",
+            "songs": []
+          },
+          {
+            "ref": "29.2",
+            "name": "there be 也能缩成半句",
+            "book": "存在句的非限定形式及其句法功能",
+            "say": "there being no time 可以把没有时间当成一件事，放进更大的句子里。",
+            "songs": []
+          },
+          {
+            "ref": "29.3",
+            "name": "there be 用来把新东西请出场",
+            "book": "存在句在语篇中的应用",
+            "say": "文章里第一次介绍一样东西，常用 there be，然后再用 the 接着说。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 30,
+        "title": "IT-句型和否定结构",
+        "points": [
+          {
+            "ref": "30.1",
+            "name": "先用 it 占着位子",
+            "book": "IT-句型",
+            "say": "It is easy to learn。it 先占着，真正的事在后面。时间、天气也用 it，那个 it 不代替谁。",
+            "songs": []
+          },
+          {
+            "ref": "30.2",
+            "name": "not 管的是后面那句",
+            "book": "否定结构",
+            "say": "I don't think he is right。不是“我不思考”，是我觉得他不对。not 管的是后面那句。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 31,
+        "title": "并列结构",
+        "points": [
+          {
+            "ref": "31.1",
+            "name": "并排的几件要对称",
+            "book": "并列结构和并列句",
+            "say": "and、or、but 两边最好是同一种东西：都是词，或都是句子。不要一边一个词，一边一整句。",
+            "songs": []
+          },
+          {
+            "ref": "31.2",
+            "name": "and、or、but",
+            "book": "并列连词",
+            "say": "and 是再加上。or 是或者、否则。but 是转一下。",
+            "songs": []
+          },
+          {
+            "ref": "31.3",
+            "name": "排比是有意重复架子",
+            "book": "并列与排比",
+            "say": "同样的架子说三次，是为了加重，不是啰嗦。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 32,
+        "title": "从属结构",
+        "points": [
+          {
+            "ref": "32.1",
+            "name": "后半句自己说不完",
+            "book": "从属结构和复杂句",
+            "say": "I'll go if it rains。if it rains 自己不能当一句说完，得挂在 I'll go 上。",
+            "songs": []
+          },
+          {
+            "ref": "32.2",
+            "name": "because、if、although 这种",
+            "book": "从属连词",
+            "say": "这些词一出现，后面就是挂上去的那句。although 后面不要再加 but。",
+            "songs": []
+          },
+          {
+            "ref": "32.3",
+            "name": "这件事可以放到句子里",
+            "book": "带名词性分句、状语分句、非限定分句的复杂句",
+            "say": "That he left surprised me。他走了这件事，可以放到句子里。I stayed because I was tired，because 后面是原因。",
+            "songs": []
+          },
+          {
+            "ref": "32.4",
+            "name": "when young 把 he was 省了",
+            "book": "带无动词分句的复杂句",
+            "say": "When young, he left。young 前面的 he was 省了，听的人补得上。",
+            "songs": []
+          },
+          {
+            "ref": "32.5",
+            "name": "前半句有自己的谁",
+            "book": "带“独立结构”的复杂句",
+            "say": "The work done, we left。done 的是 work，不是 we。这种前半句自己有一个谁。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 33,
+        "title": "条件句",
+        "points": [
+          {
+            "ref": "33.1",
+            "name": "如果，说的是真习惯",
+            "book": "第一种类型条件句 (Type I)",
+            "say": "If you heat ice, it melts。说的是规律，两边都用现在。",
+            "songs": []
+          },
+          {
+            "ref": "33.2",
+            "name": "如果，说的是现在不大可能",
+            "book": "第二种类型条件句 (Type II)",
+            "say": "If I had time, I would go。说的是现在，不是过去。had 和 would 是因为这只是假设。",
+            "songs": []
+          },
+          {
+            "ref": "33.3",
+            "name": "如果，说的是过去没发生",
+            "book": "第三种类型条件句 (Type III)",
+            "say": "If I had known, I would have told you。过去没有发生，两边都退到更早。",
+            "songs": []
+          },
+          {
+            "ref": "33.4",
+            "name": "如果过去怎样，现在就会怎样",
+            "book": "第四种类型条件句 (Type IV)",
+            "say": "If I had studied, I would be ready now。条件在过去，结果在现在。两边时间不一样。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 34,
+        "title": "关系分句",
+        "points": [
+          {
+            "ref": "34.1",
+            "name": "用一句来指哪一个",
+            "book": "关系分句概说",
+            "say": "the book that I bought。that 把后面那句挂到 book 上，说明是哪一本。",
+            "songs": []
+          },
+          {
+            "ref": "34.2",
+            "name": "拿掉就不知道是哪一个",
+            "book": "限制性关系分句与非限制性关系分句",
+            "say": "the book that I bought，拿掉 that I bought 就不知道哪一本。My father, who lives in Paris，拿掉逗号里那句，父亲还是父亲。",
+            "songs": []
+          },
+          {
+            "ref": "34.3",
+            "name": "用 who、which 还是 that",
+            "book": "关系词的选择",
+            "say": "人多用 who。东西用 which 或 that。逗号后面的额外那句，不用 that。有时可以省掉。",
+            "songs": []
+          },
+          {
+            "ref": "34.4",
+            "name": "一层里面又套一层",
+            "book": "双重关系分句、嵌入式关系分句及关系分句的其他用法",
+            "say": "有的句子里套了两层“是哪一个”。先看它贴着哪个词。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 35,
+        "title": "直接引语和间接引语",
+        "points": [
+          {
+            "ref": "35.1",
+            "name": "转述别人的陈述",
+            "book": "陈述句的间接引语",
+            "say": "当时的 now 变成 then，I 变成那个人，will 变成 would。如果这话到现在还是真的，时间可以不变。",
+            "songs": []
+          },
+          {
+            "ref": "35.2",
+            "name": "问句转述以后不再倒过来",
+            "book": "疑问句的间接引语",
+            "say": "原来是 Where do you live? 转述变成 He asked where I lived。where 还在，问号没了。",
+            "songs": []
+          },
+          {
+            "ref": "35.3",
+            "name": "转述命令和感叹",
+            "book": "祈使句、感叹句、混合句式的间接引语",
+            "say": "命令常变成 tell someone to do。感叹常变成 say how 或 what。",
+            "songs": []
+          },
+          {
+            "ref": "35.4",
+            "name": "不完全转述",
+            "book": "自由间接引语和自由直接引语",
+            "say": "故事里可以不写 he said，直接用他的口气，或半转半不转。",
+            "songs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "句和句怎么接",
+    "items": [
+      {
+        "no": 36,
+        "title": "修饰",
+        "points": [
+          {
+            "ref": "36.1",
+            "name": "slowly 是怎么做，very 是有多",
+            "book": "动词、形容词、副词、介词的修饰语",
+            "say": "speak slowly，是怎么说。very tall，是有多高。别把 slowly 理解成整句的时间。",
+            "songs": []
+          },
+          {
+            "ref": "36.2",
+            "name": "一个词放前面，一长串放后面",
+            "book": "名词修饰语",
+            "say": "a red car，red 放前面。说明很长就放后面。放错了，听的人会以为在说旁边那个词。",
+            "songs": []
+          },
+          {
+            "ref": "36.3",
+            "name": "两个说法是同一个东西",
+            "book": "同位语",
+            "say": "my friend Tom。Tom 就是这个朋友，不是另加一个修饰。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 37,
+        "title": "替代",
+        "points": [
+          {
+            "ref": "37.1",
+            "name": "用 one 代替刚说过的东西",
+            "book": "名词性替代",
+            "say": "this book and that one。one 就是 book，不用再说一遍。",
+            "songs": []
+          },
+          {
+            "ref": "37.2",
+            "name": "用 do 代替刚做过的事",
+            "book": "动词性替代",
+            "say": "She sings better than I do。do 就是 sings，不用再说一遍。",
+            "songs": []
+          },
+          {
+            "ref": "37.3",
+            "name": "用 so 代替刚说过的一整句",
+            "book": "分句性替代",
+            "say": "I think so。so 代替前面那句话。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 38,
+        "title": "省略",
+        "points": [
+          {
+            "ref": "38.1",
+            "name": "并排的句子可以省掉重复的",
+            "book": "并列结构中的省略现象",
+            "say": "I like tea and she coffee。后面的 likes 省了，因为和前面一样。",
+            "songs": []
+          },
+          {
+            "ref": "38.2",
+            "name": "对方补得上，才能省",
+            "book": "主从结构中的省略现象",
+            "say": "When in Rome, do as the Romans do。When 后面的 you are 省了，听得懂才省。",
+            "songs": []
+          },
+          {
+            "ref": "38.3",
+            "name": "省错了，意思就变了",
+            "book": "错误省略问题",
+            "say": "He is talking to you，to 不能省，省了就不知道跟谁说。拿不准就别省。",
+            "songs": []
+          },
+          {
+            "ref": "38.4",
+            "name": "中文能省的，英文不一定能省",
+            "book": "英汉两种语言如何处理省略问题比较",
+            "say": "中文可以说“吃了”。英文多半还得说 I have eaten。谁做的，英文里通常要留着。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 39,
+        "title": "强调",
+        "points": [
+          {
+            "ref": "39.1",
+            "name": "把重要的词说重、说两遍",
+            "book": "关键词语的重读和重复",
+            "say": "重要的词读重，或者重复一遍，听的人就知道你在强调它。",
+            "songs": []
+          },
+          {
+            "ref": "39.2",
+            "name": "把重点留到句尾",
+            "book": "后置和尾重句",
+            "say": "英语喜欢把最要紧的、最长的那一块放在句子最后。",
+            "songs": []
+          },
+          {
+            "ref": "39.3",
+            "name": "放到最前面，有时要倒一下",
+            "book": "前置和倒装句",
+            "say": "Yesterday I left。时间放开头，不用倒。Never have I seen it。never 放开头，I 和 have 要换个位置。",
+            "songs": []
+          },
+          {
+            "ref": "39.4",
+            "name": "用 it is ... that 把要强调的圈出来",
+            "book": "强调句式——分裂句",
+            "say": "It was Tom that called。圈出来的是 Tom，不是别人。it 不代替别的东西。",
+            "songs": []
+          }
+        ]
+      },
+      {
+        "no": 40,
+        "title": "从句到篇",
+        "points": [
+          {
+            "ref": "40.1",
+            "name": "句子连成一段",
+            "book": "语篇层次",
+            "say": "一句一句只是句子。连起来有一个中心，才是一段话。一段里有一句点题，其余帮着说。",
+            "songs": []
+          },
+          {
+            "ref": "40.2",
+            "name": "句子靠什么接上",
+            "book": "语篇纽带",
+            "say": "靠 and、however 这种连接，靠 he、this 指前面，也靠同一个词反复出现。",
+            "songs": []
+          },
+          {
+            "ref": "40.3",
+            "name": "一段话怎么写得清楚",
+            "book": "语篇修辞",
+            "say": "扣住一件事，前后接得上，重点突出，不让人误会，不啰嗦，句子长短有变化。",
+            "songs": []
+          }
+        ]
+      }
+    ]
+  }
+]

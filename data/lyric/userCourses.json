@@ -1,0 +1,3153 @@
+[
+  {
+    "id": "westlife-flying-without-wings",
+    "title": "Flying Without Wings",
+    "artist": "Westlife",
+    "year": 1999,
+    "cefrLevel": "B1",
+    "genre": "Pop",
+    "duration": 210,
+    "grammarTheme": "已经找到了，when 后面用 have found",
+    "tempoBpm": 72,
+    "keySignature": "",
+    "coreSummary": "已经找到了，到现在还算数。When 后面就说 you've found，不说 you found，也不说 you will find。找到了，下一句才能唱 you're flying。",
+    "spokenTip": "已经找到了，到现在还算数。When 后面就说 you've found，不说 you found，也不说 you will find。找到了，下一句才能唱 you're flying。",
+    "coachPrompt": "根据这首歌要学的说法：已经找到了，when 后面用 have found。不要写成 when you found，也不要写成 when you will find。不要用语法术语。先判断学生这句对不对，再给一句更顺的。",
+    "lecture": 14,
+    "keyTakeawayPatterns": [
+      {
+        "name": "已经找到了，when 后面用 have found",
+        "formula": "When you've found",
+        "exampleInSong": "When you've found that special thing, you're flying without wings.",
+        "dailyExample": "When you've finished your homework, you can go out."
+      }
+    ],
+    "practice": {
+      "text": "When you've finished your homework, you can go out.",
+      "patternTemplate": "When you've found",
+      "cloze": {
+        "blankWord": "have finished",
+        "sentenceWithBlank": "When you _____ your homework, you can go out.",
+        "hint": "已经做完了，到现在还算数。说 have finished。",
+        "options": [
+          "have finished",
+          "finished",
+          "will finish",
+          "finish"
+        ]
+      }
+    },
+    "lines": [
+      {
+        "id": "fww-1",
+        "startTime": 0.26,
+        "endTime": 6.96,
+        "text": "Everybody's looking for that something",
+        "translation": "人人都在找那样东西",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-2",
+        "startTime": 6.96,
+        "endTime": 13.61,
+        "text": "One thing that makes it all complete",
+        "translation": "一样能让一切变得完整的东西",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-3",
+        "startTime": 13.61,
+        "endTime": 20.19,
+        "text": "You find it in the strangest places",
+        "translation": "你会在最想不到的地方找到",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-4",
+        "startTime": 20.19,
+        "endTime": 26.73,
+        "text": "Places you never knew it could be",
+        "translation": "那些你从没想过会有它的地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-5",
+        "startTime": 26.73,
+        "endTime": 33.12,
+        "text": "Some find it in the face of their children",
+        "translation": "有人在孩子的脸上找到",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-6",
+        "startTime": 33.12,
+        "endTime": 40.07,
+        "text": "Some find it in their lover's eyes",
+        "translation": "有人在爱人的眼睛里找到",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-7",
+        "startTime": 40.07,
+        "endTime": 43.92,
+        "text": "Who can deny the joy it brings",
+        "translation": "谁又能否定它带来的喜悦",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-8",
+        "startTime": 43.92,
+        "endTime": 47.23,
+        "text": "When you've found that special thing",
+        "translation": "当你已经找到那样东西",
+        "grammarPoint": "已经找到了，when 后面用 have found",
+        "patternTemplate": "When you've found",
+        "explanation": "已经找到了，到现在还算数。When 后面就说 you've found，不说 you found，也不说 you will find。找到了，下一句才能唱 you're flying。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "have found",
+          "sentenceWithBlank": "When you _____ that special thing",
+          "hint": "已经找到了，到现在还算数。说 have found，不说 found，也不说 will find。",
+          "options": [
+            "have found",
+            "found",
+            "will find",
+            "find"
+          ]
+        }
+      },
+      {
+        "id": "fww-9",
+        "startTime": 47.23,
+        "endTime": 53.14,
+        "text": "You're flying without wings",
+        "translation": "你就在没有翅膀地飞",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-10",
+        "startTime": 53.14,
+        "endTime": 59.43,
+        "text": "Some find it sharing every morning",
+        "translation": "有人在每个早晨的相处里找到",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-11",
+        "startTime": 59.43,
+        "endTime": 66.19,
+        "text": "Some in their solitary lives",
+        "translation": "有人在一个人过的日子里找到",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-12",
+        "startTime": 66.19,
+        "endTime": 72.78999999999999,
+        "text": "You'll find it in the words of others",
+        "translation": "你会在别人的话里找到",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-13",
+        "startTime": 72.78999999999999,
+        "endTime": 79.89,
+        "text": "A simple line can make you laugh or cry",
+        "translation": "简单的一句就能让你笑，或者哭",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-14",
+        "startTime": 79.89,
+        "endTime": 86.06,
+        "text": "You'll find it in the deepest friendship",
+        "translation": "你会在最深的友情里找到",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-15",
+        "startTime": 86.06,
+        "endTime": 92.56,
+        "text": "The kind you cherish all your life",
+        "translation": "那种你一辈子都珍惜的",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-16",
+        "startTime": 92.56,
+        "endTime": 96.53,
+        "text": "And when you know how much that means",
+        "translation": "当你知道那有多重要",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-17",
+        "startTime": 96.53,
+        "endTime": 99.84,
+        "text": "You've found that special thing",
+        "translation": "你已经找到了那样东西",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-18",
+        "startTime": 99.84,
+        "endTime": 105.24000000000001,
+        "text": "You're flying without wings",
+        "translation": "你就在没有翅膀地飞",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-19",
+        "startTime": 105.24000000000001,
+        "endTime": 113.92,
+        "text": "So, impossible as they may seem",
+        "translation": "所以，哪怕那些梦看起来不可能",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-20",
+        "startTime": 113.92,
+        "endTime": 120.07,
+        "text": "You've got to fight for every dream",
+        "translation": "你也得为每一个梦去争",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-21",
+        "startTime": 120.07,
+        "endTime": 126.28,
+        "text": "'Cause who's to know which one you let go",
+        "translation": "因为谁知道你放过的那一个",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-22",
+        "startTime": 126.28,
+        "endTime": 131,
+        "text": "Would have made you complete",
+        "translation": "本来会让你变得完整",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-23",
+        "startTime": 131,
+        "endTime": 138.74,
+        "text": "Well for me, it's waking up beside you",
+        "translation": "对我来说，就是在你身边醒来",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-24",
+        "startTime": 138.74,
+        "endTime": 145.4,
+        "text": "To watch the sunrise on your face",
+        "translation": "看着日出照在你的脸上",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-25",
+        "startTime": 145.4,
+        "endTime": 151.87,
+        "text": "To know that I can say I love you",
+        "translation": "知道我随时都能说我爱你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-26",
+        "startTime": 151.87,
+        "endTime": 158.26,
+        "text": "In any given time or place",
+        "translation": "在任何时候，任何地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-27",
+        "startTime": 158.26,
+        "endTime": 164.77,
+        "text": "It's little things that only I know",
+        "translation": "是只有我知道的那些小事",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-28",
+        "startTime": 164.77,
+        "endTime": 171.47,
+        "text": "Those are the things that make you mine",
+        "translation": "就是这些，让你是我的",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-29",
+        "startTime": 171.47,
+        "endTime": 175.73,
+        "text": "And it's like flying without wings",
+        "translation": "这就像没有翅膀地飞",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-30",
+        "startTime": 175.73,
+        "endTime": 178.9,
+        "text": "'Cause you're my special thing",
+        "translation": "因为你就是我的那样东西",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-31",
+        "startTime": 178.9,
+        "endTime": 184.43,
+        "text": "I'm flying without wings",
+        "translation": "我在没有翅膀地飞",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-32",
+        "startTime": 184.43,
+        "endTime": 188.6,
+        "text": "And you're the place my life begins",
+        "translation": "你是我人生开始的地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-33",
+        "startTime": 188.6,
+        "endTime": 191.92,
+        "text": "And you'll be where it ends",
+        "translation": "也会是它结束的地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-34",
+        "startTime": 191.92,
+        "endTime": 195.33,
+        "text": "I'm flying without wings",
+        "translation": "我在没有翅膀地飞",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-35",
+        "startTime": 195.33,
+        "endTime": 199.04,
+        "text": "And that's the joy you bring",
+        "translation": "这就是你带来的喜悦",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "fww-36",
+        "startTime": 199.04,
+        "endTime": 203.04,
+        "text": "I'm flying without wings",
+        "translation": "我在没有翅膀地飞",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      }
+    ],
+    "isPermanentlySaved": true
+  },
+  {
+    "id": "course-1792590121024",
+    "title": "Count On Me",
+    "artist": "Bruno Mars",
+    "cefrLevel": "B1",
+    "genre": "Pop",
+    "duration": 197.41375,
+    "grammarTheme": "以后的事，If 后面当现在说",
+    "coverImage": "/src/assets/images/hero_lyric_grammar_1792579064655.jpg",
+    "audioUrl": "/audio/03_Bruno_Mars_-_Count_On_Me.mp3",
+    "tempoBpm": 90,
+    "keySignature": "C Major",
+    "coreSummary": "就学以后的事。If 后面当现在说，will 放在下一句。",
+    "keyTakeawayPatterns": [
+      {
+        "name": "以后的事，If 后面当现在说",
+        "formula": "If you find... I'll ...",
+        "exampleInSong": "If you ever find yourself stuck in the middle of the sea, I'll sail the world to find you.",
+        "dailyExample": "If it rains tomorrow, I will stay at home."
+      }
+    ],
+    "lines": [
+      {
+        "id": "srt-1",
+        "startTime": 5.31,
+        "endTime": 10.71,
+        "text": "If you ever find yourself stuck in the middle of the sea",
+        "translation": "要是有一天你被困在海上",
+        "grammarPoint": "以后的事，If 后面当现在说",
+        "patternTemplate": "If + 现在",
+        "explanation": "两件事都是以后才发生的。If 后面那件，却当成现在来说，不加 will。will 只放在后面那句，说你到时会怎么做。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "find",
+          "sentenceWithBlank": "If you ever _____ yourself stuck in the middle of the sea",
+          "hint": "两件都是以后的事。这里说 find，不说 will find。",
+          "options": [
+            "find",
+            "will find",
+            "found",
+            "finding"
+          ]
+        }
+      },
+      {
+        "id": "srt-2",
+        "startTime": 10.71,
+        "endTime": 16.08,
+        "text": "I'll sail the world to find you",
+        "translation": "我会航行到世界尽头去找你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-3",
+        "startTime": 16.08,
+        "endTime": 21.28,
+        "text": "If you ever find yourself lost in the dark and you can't see",
+        "translation": "要是有一天你在黑暗里什么也看不见",
+        "grammarPoint": "以后的事，If 后面当现在说",
+        "patternTemplate": "If + 现在",
+        "explanation": "两件事都是以后才发生的。If 后面那件，却当成现在来说，不加 will。will 只放在后面那句，说你到时会怎么做。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "find",
+          "sentenceWithBlank": "If you ever _____ yourself lost in the dark and you can't see",
+          "hint": "两件都是以后的事。这里说 find，不说 will find。",
+          "options": [
+            "find",
+            "will find",
+            "found",
+            "finding"
+          ]
+        }
+      },
+      {
+        "id": "srt-4",
+        "startTime": 21.28,
+        "endTime": 26.17,
+        "text": "I'll be the light to guide you",
+        "translation": "我会变成光照着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-5",
+        "startTime": 28.47,
+        "endTime": 32.1,
+        "text": "Find out what we're made of",
+        "translation": "看看我们到底是什么样的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-6",
+        "startTime": 32.1,
+        "endTime": 36.99,
+        "text": "When we are called to help our friends in need",
+        "translation": "当朋友需要帮忙的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-7",
+        "startTime": 37.14,
+        "endTime": 39.95,
+        "text": "You can count on me",
+        "translation": "你可以靠着我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-8",
+        "startTime": 39.95,
+        "endTime": 45.76,
+        "text": "Like one, two, three, I'll be there",
+        "translation": "像一二三，我就在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-9",
+        "startTime": 45.76,
+        "endTime": 48.1,
+        "text": "And I know when I need it",
+        "translation": "我也知道，当我需要的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-10",
+        "startTime": 48.1,
+        "endTime": 50.75,
+        "text": "I can count on you",
+        "translation": "我可以靠着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-11",
+        "startTime": 50.75,
+        "endTime": 56.4,
+        "text": "Like four, three, two, and you'll be there",
+        "translation": "像四三二，你也会在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-12",
+        "startTime": 56.4,
+        "endTime": 60.78,
+        "text": "'Cause that's what friends are supposed to do, ah yeah",
+        "translation": "因为朋友就该这样",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-13",
+        "startTime": 60.78,
+        "endTime": 69.83,
+        "text": "Ooh, ooh, yeah, yeah",
+        "translation": "喔，耶",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-14",
+        "startTime": 70.08,
+        "endTime": 75.41,
+        "text": "If you're tossing and you're turning and you just can't fall asleep",
+        "translation": "要是你翻来覆去睡不着",
+        "grammarPoint": "以后的事，If 后面当现在说",
+        "patternTemplate": "If + 现在",
+        "explanation": "两件事都是以后才发生的。If 后面那件，却当成现在来说，不加 will。will 只放在后面那句，说你到时会怎么做。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "you're",
+          "sentenceWithBlank": "If _____ tossing and you're turning and you just can't fall asleep",
+          "hint": "两件都是以后的事。这里说 you're，不说 you'll。",
+          "options": [
+            "you're",
+            "you'll",
+            "you were",
+            "you'll be"
+          ]
+        }
+      },
+      {
+        "id": "srt-15",
+        "startTime": 75.41,
+        "endTime": 80.59,
+        "text": "I'll sing a song beside you",
+        "translation": "我就在你身边唱歌",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-16",
+        "startTime": 80.59,
+        "endTime": 85.93,
+        "text": "And if you ever forget how much you really mean to me",
+        "translation": "要是你忘了你对我有多重要",
+        "grammarPoint": "以后的事，If 后面当现在说",
+        "patternTemplate": "If + 现在",
+        "explanation": "两件事都是以后才发生的。If 后面那件，却当成现在来说，不加 will。will 只放在后面那句。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "forget",
+          "sentenceWithBlank": "And if you ever _____ how much you really mean to me",
+          "hint": "两件都是以后的事。这里说 forget，不说 will forget。",
+          "options": [
+            "forget",
+            "will forget",
+            "forgot",
+            "forgetting"
+          ]
+        }
+      },
+      {
+        "id": "srt-17",
+        "startTime": 85.93,
+        "endTime": 90.63,
+        "text": "Every day I will remind you",
+        "translation": "我每天都会提醒你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-18",
+        "startTime": 91.08,
+        "endTime": 93.06,
+        "text": "Oh",
+        "translation": "哦",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-19",
+        "startTime": 93.06,
+        "endTime": 96.9,
+        "text": "We find out what we're made of",
+        "translation": "我们会看清自己是什么样的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-20",
+        "startTime": 96.9,
+        "endTime": 101.66,
+        "text": "When we are called to help our friends in need",
+        "translation": "当朋友需要帮忙的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-21",
+        "startTime": 102.03,
+        "endTime": 104.86,
+        "text": "You can count on me",
+        "translation": "你可以靠着我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-22",
+        "startTime": 104.86,
+        "endTime": 110.51,
+        "text": "Like one, two, three, I'll be there",
+        "translation": "像一二三，我就在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-23",
+        "startTime": 110.51,
+        "endTime": 112.83,
+        "text": "And I know when I need it",
+        "translation": "我也知道，当我需要的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-24",
+        "startTime": 112.83,
+        "endTime": 115.5,
+        "text": "I can count on you",
+        "translation": "我可以靠着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-25",
+        "startTime": 115.5,
+        "endTime": 121.02,
+        "text": "Like four, three, two, and you'll be there",
+        "translation": "像四三二，你也会在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-26",
+        "startTime": 121.02,
+        "endTime": 125.57,
+        "text": "'Cause that's what friends are supposed to do, ah yeah",
+        "translation": "因为朋友就该这样",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-27",
+        "startTime": 125.57,
+        "endTime": 134.62,
+        "text": "Ooh, ooh, yeah, yeah",
+        "translation": "喔，耶",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-28",
+        "startTime": 134.63,
+        "endTime": 145.48,
+        "text": "You'll always have my shoulder when you cry",
+        "translation": "你哭的时候，肩膀一直在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-29",
+        "startTime": 145.48,
+        "endTime": 153.92,
+        "text": "I'll never let go, never say goodbye",
+        "translation": "我不会松手，也不会说再见",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-30",
+        "startTime": 153.93,
+        "endTime": 158.56,
+        "text": "You know you can count on me",
+        "translation": "你知道你可以靠着我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-31",
+        "startTime": 158.56,
+        "endTime": 164.25,
+        "text": "Like one, two, three, I'll be there",
+        "translation": "像一二三，我就在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-32",
+        "startTime": 164.25,
+        "endTime": 166.66,
+        "text": "And I know when I need it",
+        "translation": "我也知道，当我需要的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-33",
+        "startTime": 166.66,
+        "endTime": 169.22,
+        "text": "I can count on you",
+        "translation": "我可以靠着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-34",
+        "startTime": 169.22,
+        "endTime": 174.88,
+        "text": "Like four, three, two, and you'll be there",
+        "translation": "像四三二，你也会在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-35",
+        "startTime": 174.88,
+        "endTime": 179.54,
+        "text": "'Cause that's what friends are supposed to do, ah yeah",
+        "translation": "因为朋友就该这样",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-36",
+        "startTime": 179.54,
+        "endTime": 185.79,
+        "text": "Ooh, ooh",
+        "translation": "喔",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-37",
+        "startTime": 185.79,
+        "endTime": 191.46,
+        "text": "You can count on me 'cause I can count on you",
+        "translation": "你可以靠着我，因为我也可以靠着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      }
+    ],
+    "isPermanentlySaved": true
+  },
+  {
+    "id": "bruno-talking-to-the-moon",
+    "title": "Talking to the Moon",
+    "artist": "Bruno Mars",
+    "year": 2010,
+    "cefrLevel": "A2",
+    "genre": "Pop",
+    "grammarTheme": "已经说过的事，嘴里用现在说",
+    "coverImage": "/src/assets/images/hero_lyric_grammar_1792579064655.jpg",
+    "duration": 218.38,
+    "tempoBpm": 146,
+    "keySignature": "C Major",
+    "coreSummary": "就学已经说过的事。They say I've gone mad。嘴里用 say，不用 said。",
+    "keyTakeawayPatterns": [
+      {
+        "name": "已经说过的事，嘴里用现在说",
+        "formula": "They say ...",
+        "exampleInSong": "They say I've gone mad.",
+        "dailyExample": "They say I stay up too late."
+      }
+    ],
+    "lines": [
+      {
+        "id": "moon-1",
+        "startTime": 1,
+        "endTime": 3.6,
+        "text": "I know you're somewhere out there",
+        "translation": "我知道你在某个地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-2",
+        "startTime": 3.6,
+        "endTime": 7,
+        "text": "Somewhere far away",
+        "translation": "在很远的地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-3",
+        "startTime": 7,
+        "endTime": 10,
+        "text": "I want you back",
+        "translation": "我想你回来",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-4",
+        "startTime": 10,
+        "endTime": 14,
+        "text": "I want you back",
+        "translation": "我想你回来",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-5",
+        "startTime": 14,
+        "endTime": 17,
+        "text": "My neighbors think I'm crazy",
+        "translation": "邻居觉得我疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-6",
+        "startTime": 17,
+        "endTime": 20,
+        "text": "But they don't understand",
+        "translation": "可他们不懂",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-7",
+        "startTime": 20,
+        "endTime": 23,
+        "text": "You're all I had",
+        "translation": "我只有你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-8",
+        "startTime": 23,
+        "endTime": 28,
+        "text": "You're all I had",
+        "translation": "我只有你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-9",
+        "startTime": 28,
+        "endTime": 35.2,
+        "text": "At night, when the stars light up my room",
+        "translation": "夜里，星星照亮我的房间",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-10",
+        "startTime": 35.2,
+        "endTime": 40,
+        "text": "I sit by myself",
+        "translation": "我一个人坐着",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-11",
+        "startTime": 40,
+        "endTime": 45,
+        "text": "Talking to the moon",
+        "translation": "对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-12",
+        "startTime": 45,
+        "endTime": 53,
+        "text": "Trying to get to you",
+        "translation": "想够到你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-13",
+        "startTime": 53,
+        "endTime": 57,
+        "text": "In hopes you're on the other side",
+        "translation": "希望你在另一边",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-14",
+        "startTime": 57,
+        "endTime": 60.5,
+        "text": "Talking to me too",
+        "translation": "也在跟我说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-15",
+        "startTime": 60.5,
+        "endTime": 65,
+        "text": "Or am I a fool who sits alone",
+        "translation": "还是我只是个傻瓜，一个人坐着",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-16",
+        "startTime": 65,
+        "endTime": 69,
+        "text": "Talking to the moon?",
+        "translation": "对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-17",
+        "startTime": 69,
+        "endTime": 79,
+        "text": "I'm feeling like I'm famous, the talk of the town",
+        "translation": "我感觉自己像个名人，满城都在议论",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-18",
+        "startTime": 79,
+        "endTime": 83,
+        "text": "They say I've gone mad",
+        "translation": "他们说我已经疯了",
+        "grammarPoint": "已经说过的事，嘴里用现在说",
+        "patternTemplate": "They say",
+        "explanation": "别人已经这么说了。嘴里却用 They say，不用 They said。听起来这消息现在还在起作用。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "say",
+          "sentenceWithBlank": "They _____ I've gone mad.",
+          "hint": "别人已经这么说了。嘴里用 say，不用 said。",
+          "options": [
+            "say",
+            "said",
+            "will say",
+            "says"
+          ]
+        }
+      },
+      {
+        "id": "moon-19",
+        "startTime": 83,
+        "endTime": 87,
+        "text": "Yeah, I've gone mad",
+        "translation": "对，我已经疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-20",
+        "startTime": 87,
+        "endTime": 89,
+        "text": "But they don't know what I know",
+        "translation": "可他们不知道我知道的事",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-21",
+        "startTime": 89,
+        "endTime": 97,
+        "text": "'Cause when the sun goes down, someone's talking back",
+        "translation": "因为太阳落下去，就有人在回话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-22",
+        "startTime": 97,
+        "endTime": 99,
+        "text": "Yeah, they're talking back",
+        "translation": "对，他们在回话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-23",
+        "startTime": 99,
+        "endTime": 106,
+        "text": "At night, when the stars light up my room",
+        "translation": "夜里，星星照亮我的房间",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-24",
+        "startTime": 106,
+        "endTime": 110,
+        "text": "I sit by myself",
+        "translation": "我一个人坐着",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-25",
+        "startTime": 110,
+        "endTime": 117,
+        "text": "Talking to the moon",
+        "translation": "对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-26",
+        "startTime": 117,
+        "endTime": 125,
+        "text": "Trying to get to you",
+        "translation": "想够到你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-27",
+        "startTime": 125,
+        "endTime": 131,
+        "text": "In hopes you're on the other side talking to me too",
+        "translation": "希望你在另一边，也在跟我说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-28",
+        "startTime": 131,
+        "endTime": 148,
+        "text": "Or am I a fool who sits alone talking to the moon?",
+        "translation": "还是我只是个傻瓜，一个人对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-29",
+        "startTime": 148,
+        "endTime": 161,
+        "text": "Do you ever hear me calling?",
+        "translation": "你听得到我在叫你吗",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-30",
+        "startTime": 161,
+        "endTime": 169,
+        "text": "'Cause every night, I'm talking to the moon",
+        "translation": "因为每个晚上我都在对月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-31",
+        "startTime": 169,
+        "endTime": 178,
+        "text": "Still trying to get to you",
+        "translation": "还在想够到你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-32",
+        "startTime": 178,
+        "endTime": 184,
+        "text": "In hopes you're on the other side talking to me too",
+        "translation": "希望你在另一边，也在跟我说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-33",
+        "startTime": 184,
+        "endTime": 218.38,
+        "text": "Or am I a fool who sits alone talking to the moon?",
+        "translation": "还是我只是个傻瓜，一个人对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      }
+    ],
+    "audioUrl": "/audio/04_Bruno_Mars_-_Talking_to_the_Moon.mp3"
+  },
+  {
+    "id": "adele-someone-like-you",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "year": 2011,
+    "cefrLevel": "B1",
+    "genre": "Pop",
+    "duration": 285.02,
+    "grammarTheme": "to 后面就说那件事",
+    "audioUrl": "/audio/Adele_-_Someone_Like_You.mp3",
+    "tempoBpm": 0,
+    "keySignature": "",
+    "coreSummary": "要说的是这件事本身，不是正在做，也不是已经做完。to 后面用 hold，不用 holds，不用 held，也不用 will hold。",
+    "spokenTip": "要说的是这件事本身，不是正在做，也不是已经做完。to 后面用 hold，不用 holds，不用 held，也不用 will hold。",
+    "coachPrompt": "根据这首歌要学的说法：把一件事说出来时，用 to 加上最简单的动词，例如 to hold、to turn up。不要写成 will hold，也不要加 s 或 ed。不要用语法术语。先判断学生这句对不对，再给一句更顺的。",
+    "lecture": 20,
+    "keyTakeawayPatterns": [
+      {
+        "name": "to 后面就说那件事",
+        "formula": "to walk",
+        "exampleInSong": "Ain't like you to hold back or hide from the light",
+        "dailyExample": "It's not like her to walk away."
+      }
+    ],
+    "practice": {
+      "text": "It's not like her to walk away.",
+      "patternTemplate": "to walk",
+      "cloze": {
+        "blankWord": "walk",
+        "sentenceWithBlank": "It's not like her to _____ away.",
+        "hint": "说的是这件事本身。用 walk，不用 will walk。",
+        "options": [
+          "walk",
+          "walks",
+          "walked",
+          "will walk"
+        ]
+      }
+    },
+    "lines": [
+      {
+        "id": "l-1",
+        "startTime": 14.01,
+        "endTime": 21.03,
+        "text": "I heard that you're settled down",
+        "translation": "听说你安定下来了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-2",
+        "startTime": 21.03,
+        "endTime": 29.72,
+        "text": "That you found a girl and you're married now",
+        "translation": "听说你有了对象，已经结婚了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-3",
+        "startTime": 29.72,
+        "endTime": 35.53,
+        "text": "I heard that your dreams came true",
+        "translation": "听说你的梦想成真了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-4",
+        "startTime": 35.53,
+        "endTime": 42.91,
+        "text": "Guess she gave you things I didn't give to you",
+        "translation": "大概她给了你我没给过的",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-5",
+        "startTime": 42.91,
+        "endTime": 49.44,
+        "text": "Old friend, why are you so shy?",
+        "translation": "老朋友，你怎么这么害羞",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-6",
+        "startTime": 49.44,
+        "endTime": 57.28,
+        "text": "Ain't like you to hold back or hide from the light",
+        "translation": "你平时不会退缩，也不会躲着光",
+        "grammarPoint": "to 后面就说那件事",
+        "patternTemplate": "to hold",
+        "explanation": "要说的是这件事本身，不是正在做，也不是已经做完。to 后面用 hold，不用 holds，不用 held，也不用 will hold。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "hold",
+          "sentenceWithBlank": "Ain't like you to _____ back or hide from the light",
+          "hint": "说的是这件事本身。用 hold，不用 will hold。",
+          "options": [
+            "hold",
+            "holds",
+            "held",
+            "will hold"
+          ]
+        }
+      },
+      {
+        "id": "l-7",
+        "startTime": 57.28,
+        "endTime": 60.6,
+        "text": "I hate to turn up out of the blue, uninvited",
+        "translation": "我讨厌这样突然出现，还没人请我",
+        "grammarPoint": "to 后面就说那件事",
+        "patternTemplate": "to turn",
+        "explanation": "要说的是这件事本身，不是正在做，也不是已经做完。to 后面用 hold，不用 holds，不用 held，也不用 will hold。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "turn",
+          "sentenceWithBlank": "I hate to _____ up out of the blue, uninvited",
+          "hint": "说的是这件事本身。用 turn，不用 will turn。",
+          "options": [
+            "turn",
+            "turns",
+            "turned",
+            "will turn"
+          ]
+        }
+      },
+      {
+        "id": "l-8",
+        "startTime": 60.6,
+        "endTime": 64.29,
+        "text": "But I couldn't stay away, I couldn't fight it",
+        "translation": "可我离不开，也没能忍住",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-9",
+        "startTime": 64.29,
+        "endTime": 67.78,
+        "text": "I had hoped you'd see my face and that you'd be reminded",
+        "translation": "我本来希望你看见我，会想起些什么",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-10",
+        "startTime": 67.78,
+        "endTime": 73.85,
+        "text": "That, for me, it isn't over",
+        "translation": "对我来说，这还没结束",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-11",
+        "startTime": 73.85,
+        "endTime": 79.84,
+        "text": "Never mind, I'll find someone like you",
+        "translation": "没关系，我会找到一个像你的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-12",
+        "startTime": 79.84,
+        "endTime": 86.89,
+        "text": "I wish nothing but the best for you, too",
+        "translation": "我也只愿你一切都好",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-13",
+        "startTime": 86.89,
+        "endTime": 93.94,
+        "text": "Don't forget me, I beg, I remember you said",
+        "translation": "别忘了我，求你，我记得你说过",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-14",
+        "startTime": 93.94,
+        "endTime": 101.01,
+        "text": "Sometimes it lasts in love, but sometimes it hurts instead",
+        "translation": "爱情有时能长久，有时只会痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-15",
+        "startTime": 101.01,
+        "endTime": 111.59,
+        "text": "Sometimes it lasts in love, but sometimes it hurts instead",
+        "translation": "爱情有时能长久，有时只会痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-16",
+        "startTime": 111.59,
+        "endTime": 116,
+        "text": "You know how the time flies",
+        "translation": "你知道时间过得有多快",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-17",
+        "startTime": 116,
+        "endTime": 123.92,
+        "text": "Only yesterday was the time of our lives",
+        "translation": "我们最好的日子好像就在昨天",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-18",
+        "startTime": 123.92,
+        "endTime": 130.92,
+        "text": "We were born and raised in a summer haze",
+        "translation": "我们在夏日的朦胧里长大",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-19",
+        "startTime": 130.92,
+        "endTime": 139.04,
+        "text": "Bound by the surprise of our glory days",
+        "translation": "被那些意外的好日子拴在一起",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-20",
+        "startTime": 139.04,
+        "endTime": 142.35,
+        "text": "I hate to turn up out of the blue, uninvited",
+        "translation": "我讨厌这样突然出现，还没人请我",
+        "grammarPoint": "to 后面就说那件事",
+        "patternTemplate": "to turn",
+        "explanation": "要说的是这件事本身，不是正在做，也不是已经做完。to 后面用 hold，不用 holds，不用 held，也不用 will hold。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "turn",
+          "sentenceWithBlank": "I hate to _____ up out of the blue, uninvited",
+          "hint": "说的是这件事本身。用 turn，不用 will turn。",
+          "options": [
+            "turn",
+            "turns",
+            "turned",
+            "will turn"
+          ]
+        }
+      },
+      {
+        "id": "l-21",
+        "startTime": 142.35,
+        "endTime": 145.8,
+        "text": "But I couldn't stay away, I couldn't fight it",
+        "translation": "可我离不开，也没能忍住",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-22",
+        "startTime": 145.8,
+        "endTime": 149.59,
+        "text": "I had hoped you'd see my face and that you'd be reminded",
+        "translation": "我本来希望你看见我，会想起些什么",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-23",
+        "startTime": 149.59,
+        "endTime": 157.15,
+        "text": "That, for me, it isn't over",
+        "translation": "对我来说，这还没结束",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-24",
+        "startTime": 157.15,
+        "endTime": 163.12,
+        "text": "Never mind, I'll find someone like you",
+        "translation": "没关系，我会找到一个像你的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-25",
+        "startTime": 163.12,
+        "endTime": 170.39,
+        "text": "I wish nothing but the best for you, too",
+        "translation": "我也只愿你一切都好",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-26",
+        "startTime": 170.39,
+        "endTime": 177.52,
+        "text": "Don't forget me, I beg, I remember you said",
+        "translation": "别忘了我，求你，我记得你说过",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-27",
+        "startTime": 177.52,
+        "endTime": 185.19,
+        "text": "Sometimes it lasts in love, but sometimes it hurts instead",
+        "translation": "爱情有时能长久，有时只会痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-28",
+        "startTime": 185.19,
+        "endTime": 188.64,
+        "text": "Nothing compares, no worries or cares",
+        "translation": "什么都比不上，没有牵挂，也没有烦恼",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-29",
+        "startTime": 188.64,
+        "endTime": 192.36,
+        "text": "Regrets and mistakes, they're memories made",
+        "translation": "后悔和过错，都成了回忆",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-30",
+        "startTime": 192.36,
+        "endTime": 204.06,
+        "text": "Who would have known how bittersweet this would taste?",
+        "translation": "谁能想到，尝起来会这么又甜又苦",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-31",
+        "startTime": 204.06,
+        "endTime": 210.31,
+        "text": "Never mind, I'll find someone like you",
+        "translation": "没关系，我会找到一个像你的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-32",
+        "startTime": 210.31,
+        "endTime": 217.27,
+        "text": "I wish nothing but the best for you",
+        "translation": "我只愿你一切都好",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-33",
+        "startTime": 217.27,
+        "endTime": 224.03,
+        "text": "Don't forget me, I beg, I remember you said",
+        "translation": "别忘了我，求你，我记得你说过",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-34",
+        "startTime": 224.03,
+        "endTime": 232.51,
+        "text": "Sometimes it lasts in love, but sometimes it hurts instead",
+        "translation": "爱情有时能长久，有时只会痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-35",
+        "startTime": 232.51,
+        "endTime": 238.1,
+        "text": "Never mind, I'll find someone like you",
+        "translation": "没关系，我会找到一个像你的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-36",
+        "startTime": 238.1,
+        "endTime": 245.67,
+        "text": "I wish nothing but the best for you, too",
+        "translation": "我也只愿你一切都好",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-37",
+        "startTime": 245.67,
+        "endTime": 252.82,
+        "text": "Don't forget me, I beg, I remember you said",
+        "translation": "别忘了我，求你，我记得你说过",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-38",
+        "startTime": 252.82,
+        "endTime": 259.91,
+        "text": "Sometimes it lasts in love, but sometimes it hurts instead",
+        "translation": "爱情有时能长久，有时只会痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-39",
+        "startTime": 259.91,
+        "endTime": 263.91,
+        "text": "Sometimes it lasts in love, but sometimes it hurts instead",
+        "translation": "爱情有时能长久，有时只会痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      }
+    ],
+    "isPermanentlySaved": true,
+    "videoUrl": "/mv/someone-like-you-fast.mp4"
+  },
+  {
+    "id": "taylor-blank-space",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "cefrLevel": "B1",
+    "genre": "Pop",
+    "duration": 272.54,
+    "grammarTheme": "已经是那个样子，用 dressed",
+    "audioUrl": "/audio/Taylor_Swift_-_Blank_Space.mp3",
+    "tempoBpm": 0,
+    "keySignature": "",
+    "coreSummary": "不是正在打扮，也不是去打扮。已经成了那样，就用 dressed。I'm a nightmare dressed like a daydream，就是已经打扮成一场白日梦的样子。",
+    "spokenTip": "不是正在打扮，也不是去打扮。已经成了那样，就用 dressed。I'm a nightmare dressed like a daydream，就是已经打扮成一场白日梦的样子。",
+    "coachPrompt": "根据这首歌要学的说法：人或东西已经是那个样子，用 dressed，不要写成 dressing，也不要写成 dress。不要用语法术语。先判断学生这句对不对，再给一句更顺的。",
+    "lecture": 23,
+    "keyTakeawayPatterns": [
+      {
+        "name": "已经是那个样子，用 dressed",
+        "formula": "dressed like",
+        "exampleInSong": "I'm a nightmare dressed like a daydream",
+        "dailyExample": "She came in dressed like a movie star."
+      }
+    ],
+    "practice": {
+      "text": "She came in dressed like a movie star.",
+      "patternTemplate": "dressed like",
+      "cloze": {
+        "blankWord": "dressed",
+        "sentenceWithBlank": "She came in _____ like a movie star.",
+        "hint": "已经是那个样子。用 dressed，不用 dressing。",
+        "options": [
+          "dressed",
+          "dressing",
+          "dress",
+          "dresses"
+        ]
+      }
+    },
+    "lines": [
+      {
+        "id": "l-1",
+        "startTime": 5.58,
+        "endTime": 8.14,
+        "text": "Nice to meet you, where you been?",
+        "translation": "认识你很高兴，你这段去哪儿了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-2",
+        "startTime": 8.14,
+        "endTime": 10.69,
+        "text": "I could show you incredible things",
+        "translation": "我可以让你看见不可思议的事",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-3",
+        "startTime": 10.69,
+        "endTime": 13.22,
+        "text": "Magic, madness, heaven, sin",
+        "translation": "魔法、疯狂、天堂、罪过",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-4",
+        "startTime": 13.22,
+        "endTime": 15.14,
+        "text": "Saw you there and I thought",
+        "translation": "我看见你，当时就想",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-5",
+        "startTime": 15.14,
+        "endTime": 17.68,
+        "text": "\"Oh, my God, look at that face",
+        "translation": "天哪，看看这张脸",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-6",
+        "startTime": 17.68,
+        "endTime": 20.06,
+        "text": "You look like my next mistake",
+        "translation": "你看起来会是我下一个错误",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-7",
+        "startTime": 20.06,
+        "endTime": 25.83,
+        "text": "Love's a game, wanna play?\" Ay",
+        "translation": "爱情是场游戏，想玩吗",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-8",
+        "startTime": 25.83,
+        "endTime": 28.13,
+        "text": "New money, suit and tie",
+        "translation": "新钱，西装，领带",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-9",
+        "startTime": 28.13,
+        "endTime": 31.08,
+        "text": "I can read you like a magazine",
+        "translation": "我能把你像杂志一样看透",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-10",
+        "startTime": 31.08,
+        "endTime": 33.25,
+        "text": "Ain't it funny? Rumors fly",
+        "translation": "好笑吧，谣言传得飞快",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-11",
+        "startTime": 33.25,
+        "endTime": 35.46,
+        "text": "And I know you heard about me",
+        "translation": "我知道你听说过我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-12",
+        "startTime": 35.46,
+        "endTime": 37.57,
+        "text": "So hey, let's be friends",
+        "translation": "所以，嘿，我们做朋友吧",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-13",
+        "startTime": 37.57,
+        "endTime": 40.12,
+        "text": "I'm dying to see how this one ends",
+        "translation": "我特别想看这次会怎么收场",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-14",
+        "startTime": 40.12,
+        "endTime": 42.51,
+        "text": "Grab your passport and my hand",
+        "translation": "拿上护照，牵着我的手",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-15",
+        "startTime": 42.51,
+        "endTime": 45.31,
+        "text": "I can make the bad guys good for a weekend",
+        "translation": "我能让坏人在一个周末里变好",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-16",
+        "startTime": 45.31,
+        "endTime": 48.04,
+        "text": "So it's gonna be forever",
+        "translation": "所以这会是永远",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-17",
+        "startTime": 48.04,
+        "endTime": 50.36,
+        "text": "Or it's gonna go down in flames",
+        "translation": "或者会烧成一片",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-18",
+        "startTime": 50.36,
+        "endTime": 52.72,
+        "text": "You can tell me when it's over, mm",
+        "translation": "结束的时候你可以告诉我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-19",
+        "startTime": 52.72,
+        "endTime": 55.32,
+        "text": "If the high was worth the pain",
+        "translation": "如果那一阵高兴抵得过痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-20",
+        "startTime": 55.32,
+        "endTime": 57.73,
+        "text": "Got a long list of ex-lovers",
+        "translation": "前任的名单很长",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-21",
+        "startTime": 57.73,
+        "endTime": 60.31,
+        "text": "They'll tell you I'm insane",
+        "translation": "他们会跟你说我疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-22",
+        "startTime": 60.31,
+        "endTime": 62.87,
+        "text": "'Cause you know I love the players",
+        "translation": "因为你知道我喜欢会玩的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-23",
+        "startTime": 62.87,
+        "endTime": 65.52,
+        "text": "And you love the game",
+        "translation": "而你喜欢这场游戏",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-24",
+        "startTime": 65.52,
+        "endTime": 67.73,
+        "text": "'Cause we're young, and we're reckless",
+        "translation": "因为我们年轻，不管不顾",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-25",
+        "startTime": 67.73,
+        "endTime": 70.53,
+        "text": "We'll take this way too far",
+        "translation": "我们会把这件事做得太过",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-26",
+        "startTime": 70.53,
+        "endTime": 72.88,
+        "text": "It'll leave you breathless, mm",
+        "translation": "会让你喘不过气",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-27",
+        "startTime": 72.88,
+        "endTime": 75.35,
+        "text": "Or with a nasty scar",
+        "translation": "或者留下一道难看的疤",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-28",
+        "startTime": 75.35,
+        "endTime": 77.9,
+        "text": "Got a long list of ex-lovers",
+        "translation": "前任的名单很长",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-29",
+        "startTime": 77.9,
+        "endTime": 80.54,
+        "text": "They'll tell you I'm insane",
+        "translation": "他们会跟你说我疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-30",
+        "startTime": 80.54,
+        "endTime": 83.99,
+        "text": "But I've got a blank space, baby",
+        "translation": "可是我这里还有空白，宝贝",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-31",
+        "startTime": 83.99,
+        "endTime": 90.77,
+        "text": "And I'll write your name",
+        "translation": "我会写上你的名字",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-32",
+        "startTime": 90.77,
+        "endTime": 93.18,
+        "text": "Cherry lips, crystal skies",
+        "translation": "樱桃一样的嘴唇，水晶一样的天",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-33",
+        "startTime": 93.18,
+        "endTime": 95.58,
+        "text": "I could show you incredible things",
+        "translation": "我可以让你看见不可思议的事",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-34",
+        "startTime": 95.58,
+        "endTime": 98.1,
+        "text": "Stolen kisses, pretty lies",
+        "translation": "偷来的吻，漂亮的谎",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-35",
+        "startTime": 98.1,
+        "endTime": 100.43,
+        "text": "You're the King, baby, I'm your Queen",
+        "translation": "你是国王，宝贝，我是你的王后",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-36",
+        "startTime": 100.43,
+        "endTime": 102.47,
+        "text": "Find out what you want",
+        "translation": "弄清楚你想要什么",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-37",
+        "startTime": 102.47,
+        "endTime": 105.06,
+        "text": "Be that girl for a month",
+        "translation": "当一个月那样的女孩",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-38",
+        "startTime": 105.06,
+        "endTime": 110.46,
+        "text": "Wait, the worst is yet to come, oh, no",
+        "translation": "等等，最糟的还在后面",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-39",
+        "startTime": 110.46,
+        "endTime": 113.21,
+        "text": "Screaming, crying, perfect storms",
+        "translation": "尖叫，哭泣，一场正好的风暴",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-40",
+        "startTime": 113.21,
+        "endTime": 115.64,
+        "text": "I can make all the tables turn",
+        "translation": "我能让局面整个翻过来",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-41",
+        "startTime": 115.64,
+        "endTime": 118.22,
+        "text": "Rose garden filled with thorns",
+        "translation": "玫瑰园里长满了刺",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-42",
+        "startTime": 118.22,
+        "endTime": 120.07,
+        "text": "Keep you second guessing like",
+        "translation": "让你一直猜",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-43",
+        "startTime": 120.07,
+        "endTime": 122.41,
+        "text": "\"Oh, my God, who is she?\"",
+        "translation": "天哪，她是谁",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-44",
+        "startTime": 122.41,
+        "endTime": 124.95,
+        "text": "I get drunk on jealousy",
+        "translation": "我醉在嫉妒里",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-45",
+        "startTime": 124.95,
+        "endTime": 127.58,
+        "text": "But you'll come back each time you leave",
+        "translation": "可你每次离开还会回来",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-46",
+        "startTime": 127.58,
+        "endTime": 130.33,
+        "text": "'Cause, darling, I'm a nightmare dressed like a daydream",
+        "translation": "因为，亲爱的，我是一场打扮得像美梦的噩梦",
+        "grammarPoint": "已经是那个样子，用 dressed",
+        "patternTemplate": "dressed like",
+        "explanation": "不是正在打扮，也不是去打扮。已经成了那样，就用 dressed。I'm a nightmare dressed like a daydream，就是已经打扮成一场白日梦的样子。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "dressed",
+          "sentenceWithBlank": "I'm a nightmare _____ like a daydream",
+          "hint": "已经是那个样子。用 dressed，不用 dressing。",
+          "options": [
+            "dressed",
+            "dressing",
+            "dress",
+            "dresses"
+          ]
+        }
+      },
+      {
+        "id": "l-47",
+        "startTime": 130.33,
+        "endTime": 132.9,
+        "text": "So it's gonna be forever",
+        "translation": "所以这会是永远",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-48",
+        "startTime": 132.9,
+        "endTime": 135.15,
+        "text": "Or it's gonna go down in flames",
+        "translation": "或者会烧成一片",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-49",
+        "startTime": 135.15,
+        "endTime": 137.87,
+        "text": "You can tell me when it's over, mm",
+        "translation": "结束的时候你可以告诉我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-50",
+        "startTime": 137.87,
+        "endTime": 140.31,
+        "text": "If the high was worth the pain",
+        "translation": "如果那一阵高兴抵得过痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-51",
+        "startTime": 140.31,
+        "endTime": 142.88,
+        "text": "Got a long list of ex-lovers",
+        "translation": "前任的名单很长",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-52",
+        "startTime": 142.88,
+        "endTime": 145.48,
+        "text": "They'll tell you I'm insane",
+        "translation": "他们会跟你说我疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-53",
+        "startTime": 145.48,
+        "endTime": 147.89,
+        "text": "'Cause you know I love the players",
+        "translation": "因为你知道我喜欢会玩的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-54",
+        "startTime": 147.89,
+        "endTime": 150.41,
+        "text": "And you love the game",
+        "translation": "而你喜欢这场游戏",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-55",
+        "startTime": 150.41,
+        "endTime": 152.8,
+        "text": "'Cause we're young, and we're reckless (oh)",
+        "translation": "因为我们年轻，不管不顾",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-56",
+        "startTime": 152.8,
+        "endTime": 155.52,
+        "text": "We'll take this way too far",
+        "translation": "我们会把这件事做得太过",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-57",
+        "startTime": 155.52,
+        "endTime": 157.89,
+        "text": "It'll leave you breathless, mm (oh)",
+        "translation": "会让你喘不过气",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-58",
+        "startTime": 157.89,
+        "endTime": 160.36,
+        "text": "Or with a nasty scar",
+        "translation": "或者留下一道难看的疤",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-59",
+        "startTime": 160.36,
+        "endTime": 162.72,
+        "text": "Got a long list of ex-lovers",
+        "translation": "前任的名单很长",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-60",
+        "startTime": 162.72,
+        "endTime": 165.43,
+        "text": "They'll tell you I'm insane (insane)",
+        "translation": "他们会跟你说我疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-61",
+        "startTime": 165.43,
+        "endTime": 168.95,
+        "text": "But I've got a blank space, baby",
+        "translation": "可是我这里还有空白，宝贝",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-62",
+        "startTime": 168.95,
+        "endTime": 170.4,
+        "text": "And I'll write your name",
+        "translation": "我会写上你的名字",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-63",
+        "startTime": 170.4,
+        "endTime": 175.21,
+        "text": "Boys only want love if it's torture",
+        "translation": "男孩只想要折磨人的爱",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-64",
+        "startTime": 175.21,
+        "endTime": 180.14,
+        "text": "Don't say I didn't, say I didn't warn ya",
+        "translation": "别说我没警告过你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-65",
+        "startTime": 180.14,
+        "endTime": 185.2,
+        "text": "Boys only want love if it's torture",
+        "translation": "男孩只想要折磨人的爱",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-66",
+        "startTime": 185.2,
+        "endTime": 190.34,
+        "text": "Don't say I didn't, say I didn't warn ya",
+        "translation": "别说我没警告过你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-67",
+        "startTime": 190.34,
+        "endTime": 192.82,
+        "text": "So it's gonna be forever",
+        "translation": "所以这会是永远",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-68",
+        "startTime": 192.82,
+        "endTime": 195.47,
+        "text": "Or it's gonna go down in flames",
+        "translation": "或者会烧成一片",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-69",
+        "startTime": 195.47,
+        "endTime": 197.81,
+        "text": "You can tell me when it's over (over)",
+        "translation": "结束的时候你可以告诉我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-70",
+        "startTime": 197.81,
+        "endTime": 200.33,
+        "text": "If the high was worth the pain",
+        "translation": "如果那一阵高兴抵得过痛",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-71",
+        "startTime": 200.33,
+        "endTime": 202.82,
+        "text": "Got a long list of ex-lovers",
+        "translation": "前任的名单很长",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-72",
+        "startTime": 202.82,
+        "endTime": 205.43,
+        "text": "They'll tell you I'm insane (I'm insane)",
+        "translation": "他们会跟你说我疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-73",
+        "startTime": 205.43,
+        "endTime": 207.81,
+        "text": "'Cause you know I love the players",
+        "translation": "因为你知道我喜欢会玩的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-74",
+        "startTime": 207.81,
+        "endTime": 210.24,
+        "text": "And you love the game",
+        "translation": "而你喜欢这场游戏",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-75",
+        "startTime": 210.24,
+        "endTime": 212.98,
+        "text": "'Cause we're young, and we're reckless",
+        "translation": "因为我们年轻，不管不顾",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-76",
+        "startTime": 212.98,
+        "endTime": 215.4,
+        "text": "We'll take this way too far (ooh)",
+        "translation": "我们会把这件事做得太过",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-77",
+        "startTime": 215.4,
+        "endTime": 217.88,
+        "text": "It'll leave you breathless, mm",
+        "translation": "会让你喘不过气",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-78",
+        "startTime": 217.88,
+        "endTime": 220.48,
+        "text": "Or with a nasty scar (leave a nasty scar)",
+        "translation": "或者留下一道难看的疤",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-79",
+        "startTime": 220.48,
+        "endTime": 222.95,
+        "text": "Got a long list of ex-lovers",
+        "translation": "前任的名单很长",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-80",
+        "startTime": 222.95,
+        "endTime": 225.44,
+        "text": "They'll tell you I'm insane",
+        "translation": "他们会跟你说我疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-81",
+        "startTime": 225.44,
+        "endTime": 229.09,
+        "text": "But I've got a blank space, baby",
+        "translation": "可是我这里还有空白，宝贝",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-82",
+        "startTime": 229.09,
+        "endTime": 233.09,
+        "text": "And I'll write your name",
+        "translation": "我会写上你的名字",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      }
+    ],
+    "isPermanentlySaved": true,
+    "videoUrl": "/mv/blank-space-fast.mp4"
+  },
+  {
+    "id": "billie-lovely",
+    "title": "lovely",
+    "artist": "Billie Eilish & Khalid",
+    "year": 2018,
+    "cefrLevel": "B1",
+    "genre": "Pop",
+    "duration": 200.54,
+    "grammarTheme": "没有 I am，直接用 Walking",
+    "audioUrl": "/audio/Billie_Eilish_Khalid_-_lovely.mp3",
+    "tempoBpm": 0,
+    "keySignature": "",
+    "coreSummary": "不是 I am walking。Walking out of town 就是这件事本身。后面 looking for a better place 也一样，没有 I am。",
+    "spokenTip": "不是 I am walking。Walking out of town 就是这件事本身。后面 looking for a better place 也一样，没有 I am。",
+    "coachPrompt": "根据这首歌要学的说法：不说 I am walking，直接用 Walking 把这件事说出来。不要写成 I am walking，也不要写成 walked。不要用语法术语。先判断学生这句对不对，再给一句更顺的。",
+    "lecture": 22,
+    "keyTakeawayPatterns": [
+      {
+        "name": "没有 I am，直接用 Walking",
+        "formula": "Walking",
+        "exampleInSong": "Walking out of town, looking for a better place.",
+        "dailyExample": "Walking to class, she called her mom."
+      }
+    ],
+    "practice": {
+      "text": "Walking to class, she called her mom.",
+      "patternTemplate": "Walking",
+      "cloze": {
+        "blankWord": "Walking",
+        "sentenceWithBlank": "_____ to class, she called her mom.",
+        "hint": "没有 I am。直接用 Walking。",
+        "options": [
+          "Walking",
+          "I am walking",
+          "Walked",
+          "Walk"
+        ]
+      }
+    },
+    "lines": [
+      {
+        "id": "l-1",
+        "startTime": 20.82,
+        "endTime": 24.88,
+        "text": "Thought I found a way",
+        "translation": "我以为我找到了办法",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-2",
+        "startTime": 24.88,
+        "endTime": 28.43,
+        "text": "Thought I found a way out (found)",
+        "translation": "我以为我找到了出路",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-3",
+        "startTime": 28.43,
+        "endTime": 32.78,
+        "text": "But you never go away (never go away)",
+        "translation": "可你从来没离开",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-4",
+        "startTime": 32.78,
+        "endTime": 35.85,
+        "text": "So I guess I gotta stay now",
+        "translation": "所以我大概得留下",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-5",
+        "startTime": 35.85,
+        "endTime": 44.13,
+        "text": "Oh, I hope some day I'll make it out of here",
+        "translation": "希望有一天我能离开这里",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-6",
+        "startTime": 44.13,
+        "endTime": 52.57,
+        "text": "Even if it takes all night or a hundred years",
+        "translation": "哪怕要一整夜，或者一百年",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-7",
+        "startTime": 52.57,
+        "endTime": 60.77,
+        "text": "Need a place to hide, but I can't find one near",
+        "translation": "我需要一个地方躲起来，可附近没有",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-8",
+        "startTime": 60.77,
+        "endTime": 70.85,
+        "text": "Wanna feel alive, outside I can't fight my fear",
+        "translation": "我想感觉自己还活着，到了外面我敌不过害怕",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-9",
+        "startTime": 70.85,
+        "endTime": 74.96,
+        "text": "Isn't it lovely? All alone",
+        "translation": "一个人，是不是也挺好",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-10",
+        "startTime": 74.96,
+        "endTime": 79.26,
+        "text": "Heart made of glass, my mind of stone",
+        "translation": "心是玻璃做的，脑子是石头",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-11",
+        "startTime": 79.26,
+        "endTime": 83.95,
+        "text": "Tear me to pieces, skin to bone",
+        "translation": "把我撕碎，从皮到骨",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-12",
+        "startTime": 83.95,
+        "endTime": 91.76,
+        "text": "Hello, welcome home",
+        "translation": "你好，欢迎回家",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-13",
+        "startTime": 91.76,
+        "endTime": 95.92,
+        "text": "Walking out of town",
+        "translation": "走出小镇，去找一个更好的地方",
+        "grammarPoint": "没有 I am，直接用 Walking",
+        "patternTemplate": "Walking",
+        "explanation": "不是 I am walking。Walking out of town 就是这件事本身。后面 looking for a better place 也一样，没有 I am。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "Walking",
+          "sentenceWithBlank": "_____ out of town, looking for a better place.",
+          "hint": "没有 I am。直接用 Walking。",
+          "options": [
+            "Walking",
+            "I am walking",
+            "Walked",
+            "Walk"
+          ]
+        },
+        "fullSentence": "Walking out of town, looking for a better place."
+      },
+      {
+        "id": "l-14",
+        "startTime": 95.92,
+        "endTime": 100.19,
+        "text": "Looking for a better place (looking for a better place)",
+        "translation": "去找一个更好的地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-15",
+        "startTime": 100.19,
+        "endTime": 104.33,
+        "text": "Something's on my mind",
+        "translation": "有件事一直在心里",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-16",
+        "startTime": 104.33,
+        "endTime": 106.75,
+        "text": "Always in my head space",
+        "translation": "一直占着我的脑子",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-17",
+        "startTime": 106.75,
+        "endTime": 115.14,
+        "text": "But I know someday I'll make it out of here",
+        "translation": "可我知道有一天我会离开",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-18",
+        "startTime": 115.14,
+        "endTime": 123.48,
+        "text": "Even if it takes all night or a hundred years",
+        "translation": "哪怕要一整夜，或者一百年",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-19",
+        "startTime": 123.48,
+        "endTime": 132.03,
+        "text": "Need a place to hide, but I can't find one near",
+        "translation": "我需要一个地方躲起来，可附近没有",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-20",
+        "startTime": 132.03,
+        "endTime": 141.43,
+        "text": "Wanna feel alive, outside I can't fight my fear",
+        "translation": "我想感觉自己还活着，到了外面我敌不过害怕",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-21",
+        "startTime": 141.43,
+        "endTime": 145.94,
+        "text": "Isn't it lovely? All alone",
+        "translation": "一个人，是不是也挺好",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-22",
+        "startTime": 145.94,
+        "endTime": 150,
+        "text": "Heart made of glass, my mind of stone",
+        "translation": "心是玻璃做的，脑子是石头",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-23",
+        "startTime": 150,
+        "endTime": 154.89,
+        "text": "Tear me to pieces, skin to bone",
+        "translation": "把我撕碎，从皮到骨",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-24",
+        "startTime": 154.89,
+        "endTime": 160.67,
+        "text": "Hello, welcome home",
+        "translation": "你好，欢迎回家",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-25",
+        "startTime": 160.67,
+        "endTime": 166.82,
+        "text": "Woah, yeah",
+        "translation": "哦",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-26",
+        "startTime": 166.82,
+        "endTime": 173.13,
+        "text": "Yeah, ah",
+        "translation": "哦",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-27",
+        "startTime": 173.13,
+        "endTime": 188.12,
+        "text": "Woah, woah",
+        "translation": "哦",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "l-28",
+        "startTime": 188.12,
+        "endTime": 192.12,
+        "text": "Hello, welcome home",
+        "translation": "你好，欢迎回家",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      }
+    ],
+    "isPermanentlySaved": true,
+    "videoUrl": "/mv/lovely-fast.mp4"
+  }
+]

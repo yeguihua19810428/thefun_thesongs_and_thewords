@@ -1,0 +1,163 @@
+{
+  "13": {
+    "title": "第13讲 动词的时和体（一）",
+    "items": [
+      {
+        "year": 1997,
+        "examNo": 44,
+        "stem": "Mr. White works with a chemicals import & export company, but he ______ for this industrial fair, since he is on leave.",
+        "opts": [
+          {"k": "A", "t": "has worked"},
+          {"k": "B", "t": "works"},
+          {"k": "C", "t": "has been working"},
+          {"k": "D", "t": "is working"}
+        ],
+        "answer": "D",
+        "note": "他平时在那家公司上班。现在休假，暂时在博览会做事，所以用 is working。"
+      },
+      {
+        "year": 1997,
+        "examNo": 41,
+        "stem": "How can I ever concentrate if you _____ continually _____ me with silly questions?",
+        "opts": [
+          {"k": "A", "t": "have ... interrupted"},
+          {"k": "B", "t": "had ... interrupted"},
+          {"k": "C", "t": "are ... interrupting"},
+          {"k": "D", "t": "were ... interrupting"}
+        ],
+        "answer": "C",
+        "note": "continually 是在嫌对方老问。这种带情绪的“老是”，用 are interrupting。"
+      },
+      {
+        "year": 2006,
+        "examNo": 54,
+        "stem": "It's high time we ______ cutting down the rainforests.",
+        "opts": [
+          {"k": "A", "t": "stopped"},
+          {"k": "B", "t": "had to stop"},
+          {"k": "C", "t": "shall stop"},
+          {"k": "D", "t": "stop"}
+        ],
+        "answer": "A",
+        "note": "It's high time 后面说现在就该停。用 stopped，不加 will。"
+      },
+      {
+        "year": 2015,
+        "examNo": 54,
+        "stem": "Which of the italicized parts expresses a future tense?",
+        "opts": [
+          {"k": "A", "t": "My friend teaches chemistry in a school."},
+          {"k": "B", "t": "I'll give it to you after I return."},
+          {"k": "C", "t": "What is the matter with you?"},
+          {"k": "D", "t": "London stands on the River Thames."}
+        ],
+        "answer": "B",
+        "note": "还书是以后的事。after 后面却用 return，不加 will。will 在前面那句。"
+      },
+      {
+        "year": 2014,
+        "examNo": 52,
+        "stem": "Which of the following sentences expresses a future action?",
+        "opts": [
+          {"k": "A", "t": "Lucy is continually finding fault with her sister."},
+          {"k": "B", "t": "We are meeting the visitors after the performance."},
+          {"k": "C", "t": "The coach is now crossing the Garden Bridge."},
+          {"k": "D", "t": "I'm hoping that you'll give us some advice."}
+        ],
+        "answer": "B",
+        "note": "演出之后要见客人，是已经安排好的以后的事，用 are meeting。"
+      },
+      {
+        "year": 2011,
+        "examNo": 61,
+        "stem": "It's getting late. I'd rather you ______ now.",
+        "opts": [
+          {"k": "A", "t": "left"},
+          {"k": "B", "t": "leave"},
+          {"k": "C", "t": "are leaving"},
+          {"k": "D", "t": "will leave"}
+        ],
+        "answer": "A",
+        "note": "I'd rather you 后面说希望你现在就走，用 left。"
+      },
+      {
+        "year": 2008,
+        "examNo": 63,
+        "stem": "In his plays Shakespeare ______ his characters live through their language.",
+        "opts": [
+          {"k": "A", "t": "would make"},
+          {"k": "B", "t": "had made"},
+          {"k": "C", "t": "made"},
+          {"k": "D", "t": "makes"}
+        ],
+        "answer": "D",
+        "note": "莎士比亚是过去的人。说到他的剧本现在还这样，用 makes。"
+      },
+      {
+        "year": 2007,
+        "examNo": 60,
+        "stem": "He would have finished his college education, but he ______ to quit and find a job to support his family.",
+        "opts": [
+          {"k": "A", "t": "had had"},
+          {"k": "B", "t": "has"},
+          {"k": "C", "t": "had"},
+          {"k": "D", "t": "would have"}
+        ],
+        "answer": "C",
+        "note": "前面 would have finished 是没做成的假想。but 后面是真发生过的事，用 had。"
+      },
+      {
+        "year": 2006,
+        "examNo": 52,
+        "stem": "If only I ______ play the guitar as well as you!",
+        "opts": [
+          {"k": "A", "t": "would"},
+          {"k": "B", "t": "could"},
+          {"k": "C", "t": "should"},
+          {"k": "D", "t": "might"}
+        ],
+        "answer": "B",
+        "note": "希望自己吉他能弹得一样好。说的是能力，用 could。"
+      },
+      {
+        "year": 0,
+        "examNo": 0,
+        "stem": "What is the function of the present progressive in \"They are always calling me by the wrong name\"?",
+        "opts": [
+          {"k": "A", "t": "To express unfavorable feelings"},
+          {"k": "B", "t": "To alleviate unnecessary hostility."},
+          {"k": "C", "t": "To indicate uncertainty."},
+          {"k": "D", "t": "To dramatize a fact."}
+        ],
+        "answer": "A",
+        "note": "不是在说他们此刻正在叫。always 是嫌对方老叫错名字。"
+      },
+      {
+        "year": 0,
+        "examNo": 0,
+        "stem": "What is the function of the present progressive in \"My neighbor is always playing loud music at midnight\"?",
+        "opts": [
+          {"k": "A", "t": "To express unfavorable feelings"},
+          {"k": "B", "t": "To alleviate unnecessary hostility"},
+          {"k": "C", "t": "To indicate uncertainty"},
+          {"k": "D", "t": "To dramatize a fact"}
+        ],
+        "answer": "A",
+        "note": "同样是嫌邻居半夜吵，不是平平常常的正在放音乐。"
+      },
+      {
+        "year": 0,
+        "examNo": 0,
+        "stem": "\"It is taking forever to upload an album.\" The underlined part expresses ______.",
+        "opts": [
+          {"k": "A", "t": "regret"},
+          {"k": "B", "t": "surprise"},
+          {"k": "C", "t": "complaint"},
+          {"k": "D", "t": "temporariness"}
+        ],
+        "answer": "C",
+        "note": "taking forever 是在抱怨上传太慢。"
+      }
+    ]
+  }
+}

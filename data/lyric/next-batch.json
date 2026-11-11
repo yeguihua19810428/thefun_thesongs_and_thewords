@@ -1,0 +1,23 @@
+{
+  "status": "三首已放进课程，按现有两首的做法。没有 MP3，放进 public/audio 对应文件名后才能出声。长难句明天再做。",
+  "songs": [
+    {
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "point": "to 后面就说那件事",
+      "lecture": 20
+    },
+    {
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "point": "已经是那个样子，用 dressed",
+      "lecture": 23
+    },
+    {
+      "title": "lovely",
+      "artist": "Billie Eilish & Khalid",
+      "point": "没有 I am，直接用 Walking",
+      "lecture": 22
+    }
+  ]
+}

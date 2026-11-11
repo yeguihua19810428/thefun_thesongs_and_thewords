@@ -1,0 +1,5213 @@
+{
+  "1": {
+    "title": "语法层次",
+    "items": [
+      {
+        "stem": "Which of the following is a compound word ( 复合词 )? ______",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Nonsmoker"
+          },
+          {
+            "k": "B",
+            "t": "Meanness"
+          },
+          {
+            "k": "C",
+            "t": "Deadline"
+          },
+          {
+            "k": "D",
+            "t": "Misfit"
+          }
+        ],
+        "answer": "C",
+        "note": "下列哪个词是复合词？"
+      }
+    ]
+  },
+  "2": {
+    "title": "分句结构和基本句型",
+    "items": [
+      {
+        "stem": "3. Which of the following sentences has an object complement ？",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The directors appointed John manager"
+          },
+          {
+            "k": "B",
+            "t": "I gave Mary a Christmas present"
+          },
+          {
+            "k": "C",
+            "t": "You have done Peter a favor"
+          },
+          {
+            "k": "D",
+            "t": "She is teaching children English"
+          }
+        ],
+        "answer": "A",
+        "note": "下列哪句话中含有宾语补语？"
+      },
+      {
+        "stem": "Which of the following italicized parts is used as an object complement?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The front door remained locked"
+          },
+          {
+            "k": "B",
+            "t": "The boy looked disappointed"
+          },
+          {
+            "k": "C",
+            "t": "Nancy appeared worried"
+          },
+          {
+            "k": "D",
+            "t": "He seemed to have no money left"
+          }
+        ],
+        "answer": "",
+        "note": "下列哪句话的斜体部分用作宾语补语？"
+      }
+    ]
+  },
+  "3": {
+    "title": "分句成分",
+    "items": [
+      {
+        "stem": "In \"How much do you think he earns?\"how much” is __________ of the sentence.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "the subject"
+          },
+          {
+            "k": "B",
+            "t": "the adverbial"
+          },
+          {
+            "k": "C",
+            "t": "the object"
+          },
+          {
+            "k": "D",
+            "t": "the complement"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized parts is used as an object?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "What do you think has happened to her?"
+          },
+          {
+            "k": "B",
+            "t": "Who do you think the visiting professor is?"
+          },
+          {
+            "k": "C",
+            "t": "How much do you think he earns every month?"
+          },
+          {
+            "k": "D",
+            "t": "How quickly would you say he would come?"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the italicized parts functions as an object?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He doesn't like the idea of my speaking at the meeting"
+          },
+          {
+            "k": "B",
+            "t": "It is no use your pretending not to know the matter"
+          },
+          {
+            "k": "C",
+            "t": "My parents strongly object to my going out alone at night"
+          },
+          {
+            "k": "D",
+            "t": "Her falling into the river was the climax of the whole trip"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following reflexive pronouns (反身代词) is used as an appositive (同位语)?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He promised himself rapid progress"
+          },
+          {
+            "k": "B",
+            "t": "The manager herself will interview Mary"
+          },
+          {
+            "k": "C",
+            "t": "I have nothing to say for myself"
+          },
+          {
+            "k": "D",
+            "t": "They quarreled themselves red in the face"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "All the following sentences have an appositive EXCEPT ________ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "She bought herself a pair of new shoes"
+          },
+          {
+            "k": "B",
+            "t": "Only one problem still remains — the food"
+          },
+          {
+            "k": "C",
+            "t": "My friends all understand and support me"
+          },
+          {
+            "k": "D",
+            "t": "She liked her current job, teaching English"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized parts serves as an appositive?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He is not the man to draw back"
+          },
+          {
+            "k": "B",
+            "t": "Larry has a large family to support"
+          },
+          {
+            "k": "C",
+            "t": "Tony hit back the urge to tell a lie"
+          },
+          {
+            "k": "D",
+            "t": "There is really nothing to fear"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the italicized parts functions as a subject?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "We never doubt that her brother is honest"
+          },
+          {
+            "k": "B",
+            "t": "The problem is not who will go but who will stay"
+          },
+          {
+            "k": "C",
+            "t": "You must give it back to whoever it belongs to"
+          },
+          {
+            "k": "D",
+            "t": "It is clear that the crime was done deliberately"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized parts is used as an object complement?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The front door remained locked"
+          },
+          {
+            "k": "B",
+            "t": "The boy looked disappointed"
+          },
+          {
+            "k": "C",
+            "t": "Nancy appeared worried"
+          },
+          {
+            "k": "D",
+            "t": "He seemed to have no money left"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Rite of Passage is a good novel by any standards; ______, it should rank high on any list of science fiction.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "consistently"
+          },
+          {
+            "k": "B",
+            "t": "consequently"
+          },
+          {
+            "k": "C",
+            "t": "invariably"
+          },
+          {
+            "k": "D",
+            "t": "fortunately"
+          }
+        ],
+        "answer": "B",
+        "note": "意为“一贯地”， invariably 意为“总是；不变地”， fortunately 意为“幸运地”。"
+      },
+      {
+        "stem": "What does “He wisely refused to spend his money” mean?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "It was wise of him to refuse to spend his money"
+          },
+          {
+            "k": "B",
+            "t": "He refused to spend his money in a wise manner"
+          },
+          {
+            "k": "C",
+            "t": "He was short of money and didn’t want to buy anything"
+          },
+          {
+            "k": "D",
+            "t": "He refused, in a wise manner, to spend his money"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      }
+    ]
+  },
+  "4": {
+    "title": "主谓一致（一）",
+    "items": [
+      {
+        "stem": "Which of the following sentences is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Twenty miles seems like a long walk to him"
+          },
+          {
+            "k": "B",
+            "t": "No one except his supporters agree with him"
+          },
+          {
+            "k": "C",
+            "t": "Neither Julia nor I were going to the party"
+          },
+          {
+            "k": "D",
+            "t": "Few students in my class are really lazy"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following sentences is grammatically INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Politics are the art or science of government"
+          },
+          {
+            "k": "B",
+            "t": "The miles seems like a long walk to me"
+          },
+          {
+            "k": "C",
+            "t": "Mumps is a kind of infectious disease"
+          },
+          {
+            "k": "D",
+            "t": "All the furniture has arrived undamaged"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following statements is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Only one out of six were present at the meeting"
+          },
+          {
+            "k": "B",
+            "t": "Ten dollars was stolen from the cash register"
+          },
+          {
+            "k": "C",
+            "t": "Either my sister or my brother is coming"
+          },
+          {
+            "k": "D",
+            "t": "Five miles seem like a long walk to me"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      }
+    ]
+  },
+  "5": {
+    "title": "主谓一致（二）",
+    "items": [
+      {
+        "stem": "The audience ____________ excited on seeing ___________ favorite star glide onto the stage.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "were...their"
+          },
+          {
+            "k": "B",
+            "t": "were...its"
+          },
+          {
+            "k": "C",
+            "t": "was.….their"
+          },
+          {
+            "k": "D",
+            "t": "was...one's"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following sentences is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Poultry are very expensive in the city"
+          },
+          {
+            "k": "B",
+            "t": "New machinery were introduced in the factory"
+          },
+          {
+            "k": "C",
+            "t": "The police are investigating the murder case"
+          },
+          {
+            "k": "D",
+            "t": "The militia were called out to rescue flood victims"
+          }
+        ],
+        "answer": "B",
+        "note": "下面哪句话不正确？"
+      },
+      {
+        "stem": "Which of the following statements is INCORRECT? ______",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Only one out of six were present at the meeting"
+          },
+          {
+            "k": "B",
+            "t": "Ten dollars was stolen from the cash register"
+          },
+          {
+            "k": "C",
+            "t": "Either my sister or my brother is coming"
+          },
+          {
+            "k": "D",
+            "t": "Five miles seem like a long walk to me"
+          }
+        ],
+        "answer": "",
+        "note": ""
+      }
+    ]
+  },
+  "6": {
+    "title": "名词和名词词组",
+    "items": [
+      {
+        "stem": "Yesterday my aunt bought some new ______ for her flat at the seaside.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "furniture"
+          },
+          {
+            "k": "B",
+            "t": "furnitures"
+          },
+          {
+            "k": "C",
+            "t": "possession"
+          },
+          {
+            "k": "D",
+            "t": "possessions"
+          }
+        ],
+        "answer": "A",
+        "note": "我姑妈昨天为她在海边的公寓购置了一些新家具。"
+      }
+    ]
+  },
+  "7": {
+    "title": "名词的数和名词属格",
+    "items": [
+      {
+        "stem": "There has been an increasing number of __________ in primary schools in past few years.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "man teacher"
+          },
+          {
+            "k": "B",
+            "t": "men teacher"
+          },
+          {
+            "k": "C",
+            "t": "man teachers"
+          },
+          {
+            "k": "D",
+            "t": "men teachers"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Ms Ennab is one of the first Palestinian ________ with seven years' racing experience.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "woman drivers"
+          },
+          {
+            "k": "B",
+            "t": "women driver"
+          },
+          {
+            "k": "C",
+            "t": "women drivers"
+          },
+          {
+            "k": "D",
+            "t": "woman driver"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized parts indicates a predicate-object relationship?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He was reading Mary's letter in the room"
+          },
+          {
+            "k": "B",
+            "t": "You can buy men's shoes in this shop"
+          },
+          {
+            "k": "C",
+            "t": "Mrs. Blake's passport was lost"
+          },
+          {
+            "k": "D",
+            "t": "The enemy's defeat brought the war to an end"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "I can't put up with ________ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "that friend of you"
+          },
+          {
+            "k": "B",
+            "t": "that friend of yours"
+          },
+          {
+            "k": "C",
+            "t": "the friend of you"
+          },
+          {
+            "k": "D",
+            "t": "the friend of yours"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "You must fire _____ incompetent assistant of yours.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "the"
+          },
+          {
+            "k": "B",
+            "t": "an"
+          },
+          {
+            "k": "C",
+            "t": "that"
+          },
+          {
+            "k": "D",
+            "t": "whichever"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "If you need me to help with your teleconferencing arrangements, I can be reached with the touch of a single button on _____ special phone of Harry's.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "That"
+          },
+          {
+            "k": "B",
+            "t": "a"
+          },
+          {
+            "k": "C",
+            "t": "his"
+          },
+          {
+            "k": "D",
+            "t": "one"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      }
+    ]
+  },
+  "8": {
+    "title": "限定词（一）",
+    "items": [
+      {
+        "stem": "Which of the following sentences is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "They each have two tickets"
+          },
+          {
+            "k": "B",
+            "t": "They cost twenty yuan each"
+          },
+          {
+            "k": "C",
+            "t": "Each they have bought the same book"
+          },
+          {
+            "k": "D",
+            "t": "They were given two magazines each"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "The following determiners (限定词) can be used with both plural and uncountable nouns EXCEPT___ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "many"
+          },
+          {
+            "k": "B",
+            "t": "enough"
+          },
+          {
+            "k": "C",
+            "t": "more"
+          },
+          {
+            "k": "D",
+            "t": "such"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "The additional work will take __________ weeks.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "the other"
+          },
+          {
+            "k": "B",
+            "t": "another two"
+          },
+          {
+            "k": "C",
+            "t": "other two"
+          },
+          {
+            "k": "D",
+            "t": "the more"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following determiners(限定词)can be placed before both singular count nouns and plural count nouns?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "many a"
+          },
+          {
+            "k": "B",
+            "t": "few"
+          },
+          {
+            "k": "C",
+            "t": "such"
+          },
+          {
+            "k": "D",
+            "t": "the next"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Another two girls"
+          },
+          {
+            "k": "B",
+            "t": "Few words"
+          },
+          {
+            "k": "C",
+            "t": "This work"
+          },
+          {
+            "k": "D",
+            "t": "A bit of flowers"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized phrases is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The city is now ten times its original size"
+          },
+          {
+            "k": "B",
+            "t": "I wish I had two times his strength"
+          },
+          {
+            "k": "C",
+            "t": "The seller asked for double the usual price"
+          },
+          {
+            "k": "D",
+            "t": "They come here four times every year"
+          }
+        ],
+        "answer": "",
+        "note": ""
+      }
+    ]
+  },
+  "9": {
+    "title": "限定词（二）",
+    "items": [
+      {
+        "stem": "The boys in the family are old enough for __________.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "schools"
+          },
+          {
+            "k": "B",
+            "t": "school"
+          },
+          {
+            "k": "C",
+            "t": "the school"
+          },
+          {
+            "k": "D",
+            "t": "the schools"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "I long to alleviate ___________, but I cannot.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "the evil"
+          },
+          {
+            "k": "B",
+            "t": "evil"
+          },
+          {
+            "k": "C",
+            "t": "evils"
+          },
+          {
+            "k": "D",
+            "t": "an evil"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "The woman had persuaded him to do ______ he was hired never to do - reveal the combination for the lock on the entrance.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "one thing"
+          },
+          {
+            "k": "B",
+            "t": "such one thing"
+          },
+          {
+            "k": "C",
+            "t": "any one thing"
+          },
+          {
+            "k": "D",
+            "t": "the one thing"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "________ wounded soldier was ________ good old friend of his.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The... a"
+          },
+          {
+            "k": "B",
+            "t": "The ... the"
+          },
+          {
+            "k": "C",
+            "t": "А... а"
+          },
+          {
+            "k": "D",
+            "t": "A... the"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "The idea of travelling through space to other planets interests many people today.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "a"
+          },
+          {
+            "k": "B",
+            "t": "the"
+          },
+          {
+            "k": "C",
+            "t": "/"
+          },
+          {
+            "k": "D",
+            "t": "one"
+          }
+        ],
+        "answer": "C",
+        "note": "现如今许多人对穿越太空到其他行星上旅行的想法颇感兴趣。"
+      }
+    ]
+  },
+  "10": {
+    "title": "代词（一）",
+    "items": [
+      {
+        "stem": "We can assign the task to ______ is capable and trustworthy.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "whomever"
+          },
+          {
+            "k": "B",
+            "t": "who"
+          },
+          {
+            "k": "C",
+            "t": "whom"
+          },
+          {
+            "k": "D",
+            "t": "whoever"
+          }
+        ],
+        "answer": "D",
+        "note": "我们可以把这项工作任何交给有能力并且值得信赖的人。"
+      },
+      {
+        "stem": "When one has good health, ______ should feel fortunate.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "you"
+          },
+          {
+            "k": "B",
+            "t": "she"
+          },
+          {
+            "k": "C",
+            "t": "he"
+          },
+          {
+            "k": "D",
+            "t": "we"
+          }
+        ],
+        "answer": "C",
+        "note": "当一个人拥有健康时，他应该感到幸运。"
+      },
+      {
+        "stem": "Which of the following sentences is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "They each have two tickets"
+          },
+          {
+            "k": "B",
+            "t": "They cost twenty yuan each"
+          },
+          {
+            "k": "C",
+            "t": "Each they have bought the same book"
+          },
+          {
+            "k": "D",
+            "t": "They were given two magazines each"
+          }
+        ],
+        "answer": "",
+        "note": ""
+      },
+      {
+        "stem": "Our association, which has consistently pressed for greater employment opportunities for the disabled, will publish ______ proposals in the near future.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "their"
+          },
+          {
+            "k": "B",
+            "t": "our"
+          },
+          {
+            "k": "C",
+            "t": "his"
+          },
+          {
+            "k": "D",
+            "t": "its"
+          }
+        ],
+        "answer": "D",
+        "note": "我们的协会，一直迫切要求为残疾人提供更多的就业机会，在不久的将来会发布一系列提案。"
+      }
+    ]
+  },
+  "11": {
+    "title": "代词（二）",
+    "items": [
+      {
+        "stem": "When one has good health, ________ should feel fortunate.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "you"
+          },
+          {
+            "k": "B",
+            "t": "they"
+          },
+          {
+            "k": "C",
+            "t": "he"
+          },
+          {
+            "k": "D",
+            "t": "we"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following reflexive pronouns (反身代词) is used as an appositive (同位语)?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He promised himself rapid progress"
+          },
+          {
+            "k": "B",
+            "t": "The manager herself will interview Mary"
+          },
+          {
+            "k": "C",
+            "t": "I have nothing to say for myself"
+          },
+          {
+            "k": "D",
+            "t": "They quarreled themselves red in the face"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following reflexive pronouns expresses emphasis?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "They washed themselves"
+          },
+          {
+            "k": "B",
+            "t": "I have bought myself a new car"
+          },
+          {
+            "k": "C",
+            "t": "She told me herself"
+          },
+          {
+            "k": "D",
+            "t": "Behave yourself"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Children who stay away from school do ______ for different reasons.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "them"
+          },
+          {
+            "k": "B",
+            "t": "/"
+          },
+          {
+            "k": "C",
+            "t": "it"
+          },
+          {
+            "k": "D",
+            "t": "theirs"
+          }
+        ],
+        "answer": "C",
+        "note": "不上学的孩子之所以这样做是出于各自不同的原因。"
+      },
+      {
+        "stem": "_______ of the twins was arrested, because I saw both at a party last night.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "None"
+          },
+          {
+            "k": "B",
+            "t": "Both"
+          },
+          {
+            "k": "C",
+            "t": "Neither"
+          },
+          {
+            "k": "D",
+            "t": "All"
+          }
+        ],
+        "answer": "C",
+        "note": "那对双胞胎都没有被捕，因为昨晚我在聚会中见到过他俩。"
+      },
+      {
+        "stem": "Which of the following reflexive pronouns ( 反身代词 ) is used as an object?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "I spoke to the president himself"
+          },
+          {
+            "k": "B",
+            "t": "You must pull yourself together"
+          },
+          {
+            "k": "C",
+            "t": "Linda herself will play the violin"
+          },
+          {
+            "k": "D",
+            "t": "Frank is not quite himself today"
+          }
+        ],
+        "answer": "B",
+        "note": "下列哪个反身代词用作宾语？"
+      },
+      {
+        "stem": "Facing the board of directors, he didn’t deny ______ __ breaking the agreement.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "him"
+          },
+          {
+            "k": "B",
+            "t": "his"
+          },
+          {
+            "k": "C",
+            "t": "it"
+          },
+          {
+            "k": "D",
+            "t": "its"
+          }
+        ],
+        "answer": "B",
+        "note": "面对董事会，他没有否认自己违约。"
+      }
+    ]
+  },
+  "12": {
+    "title": "动词和动词词组",
+    "items": [
+      {
+        "stem": "The following are all dynamic verbs (动态动词) EXCEPT___",
+        "opts": [
+          {
+            "k": "A",
+            "t": "remain"
+          },
+          {
+            "k": "B",
+            "t": "turn"
+          },
+          {
+            "k": "C",
+            "t": "write"
+          },
+          {
+            "k": "D",
+            "t": "knock"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following is a stative verb(静态动词)?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Drink"
+          },
+          {
+            "k": "B",
+            "t": "Close"
+          },
+          {
+            "k": "C",
+            "t": "Rain"
+          },
+          {
+            "k": "D",
+            "t": "Belong"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "During the summer vacation, kids are often seen hanging _____ in the streets.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "about"
+          },
+          {
+            "k": "B",
+            "t": "on"
+          },
+          {
+            "k": "C",
+            "t": "over"
+          },
+          {
+            "k": "D",
+            "t": "out"
+          }
+        ],
+        "answer": "A",
+        "note": "暑期里常常见到小孩子们在街上闲逛。"
+      },
+      {
+        "stem": "My mother can’t get ______ because she has rheumatism ( 风湿病 ).",
+        "opts": [
+          {
+            "k": "A",
+            "t": "about"
+          },
+          {
+            "k": "B",
+            "t": "on"
+          },
+          {
+            "k": "C",
+            "t": "through"
+          },
+          {
+            "k": "D",
+            "t": "in"
+          }
+        ],
+        "answer": "A",
+        "note": "我母亲因患风湿病不能走动。"
+      }
+    ]
+  },
+  "13": {
+    "title": "动词的时和体（一）",
+    "items": [
+      {
+        "stem": "Mr. White works with a chemicals import & export company, but he ______ for this industrial fair, since he is on leave.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "has worked"
+          },
+          {
+            "k": "B",
+            "t": "works"
+          },
+          {
+            "k": "C",
+            "t": "has been working"
+          },
+          {
+            "k": "D",
+            "t": "is working"
+          }
+        ],
+        "answer": "D",
+        "note": "他平时在那家公司上班。现在休假，暂时在博览会做事，所以用 is working。"
+      },
+      {
+        "stem": "How can I ever concentrate if you _____ continually _____ me with silly questions?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "have ... interrupted"
+          },
+          {
+            "k": "B",
+            "t": "had ... interrupted"
+          },
+          {
+            "k": "C",
+            "t": "are ... interrupting"
+          },
+          {
+            "k": "D",
+            "t": "were ... interrupting"
+          }
+        ],
+        "answer": "C",
+        "note": "continually 是在嫌对方老问。这种带情绪的“老是”，用 are interrupting。"
+      },
+      {
+        "stem": "It's high time we ______ cutting down the rainforests.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "stopped"
+          },
+          {
+            "k": "B",
+            "t": "had to stop"
+          },
+          {
+            "k": "C",
+            "t": "shall stop"
+          },
+          {
+            "k": "D",
+            "t": "stop"
+          }
+        ],
+        "answer": "A",
+        "note": "It's high time 后面说现在就该停。用 stopped，不加 will。"
+      },
+      {
+        "stem": "Which of the italicized parts expresses a future tense?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "My friend teaches chemistry in a school"
+          },
+          {
+            "k": "B",
+            "t": "I'll give it to you after I return"
+          },
+          {
+            "k": "C",
+            "t": "What is the matter with you?"
+          },
+          {
+            "k": "D",
+            "t": "London stands on the River Thames"
+          }
+        ],
+        "answer": "B",
+        "note": "还书是以后的事。after 后面却用 return，不加 will。will 在前面那句。"
+      },
+      {
+        "stem": "Which of the following sentences expresses a future action?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Lucy is continually finding fault with her sister"
+          },
+          {
+            "k": "B",
+            "t": "We are meeting the visitors after the performance"
+          },
+          {
+            "k": "C",
+            "t": "The coach is now crossing the Garden Bridge"
+          },
+          {
+            "k": "D",
+            "t": "I'm hoping that you'll give us some advice"
+          }
+        ],
+        "answer": "B",
+        "note": "演出之后要见客人，是已经安排好的以后的事，用 are meeting。"
+      },
+      {
+        "stem": "It's getting late. I'd rather you ______ now.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "left"
+          },
+          {
+            "k": "B",
+            "t": "leave"
+          },
+          {
+            "k": "C",
+            "t": "are leaving"
+          },
+          {
+            "k": "D",
+            "t": "will leave"
+          }
+        ],
+        "answer": "A",
+        "note": "I'd rather you 后面说希望你现在就走，用 left。"
+      },
+      {
+        "stem": "In his plays Shakespeare ______ his characters live through their language.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "would make"
+          },
+          {
+            "k": "B",
+            "t": "had made"
+          },
+          {
+            "k": "C",
+            "t": "made"
+          },
+          {
+            "k": "D",
+            "t": "makes"
+          }
+        ],
+        "answer": "D",
+        "note": "莎士比亚是过去的人。说到他的剧本现在还这样，用 makes。"
+      },
+      {
+        "stem": "He would have finished his college education, but he ______ to quit and find a job to support his family.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "had had"
+          },
+          {
+            "k": "B",
+            "t": "has"
+          },
+          {
+            "k": "C",
+            "t": "had"
+          },
+          {
+            "k": "D",
+            "t": "would have"
+          }
+        ],
+        "answer": "C",
+        "note": "前面 would have finished 是没做成的假想。but 后面是真发生过的事，用 had。"
+      },
+      {
+        "stem": "If only I ______ play the guitar as well as you!",
+        "opts": [
+          {
+            "k": "A",
+            "t": "would"
+          },
+          {
+            "k": "B",
+            "t": "could"
+          },
+          {
+            "k": "C",
+            "t": "should"
+          },
+          {
+            "k": "D",
+            "t": "might"
+          }
+        ],
+        "answer": "B",
+        "note": "希望自己吉他能弹得一样好。说的是能力，用 could。"
+      },
+      {
+        "stem": "What is the function of the present progressive in \"They are always calling me by the wrong name\"?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "To express unfavorable feelings"
+          },
+          {
+            "k": "B",
+            "t": "To alleviate unnecessary hostility"
+          },
+          {
+            "k": "C",
+            "t": "To indicate uncertainty"
+          },
+          {
+            "k": "D",
+            "t": "To dramatize a fact"
+          }
+        ],
+        "answer": "A",
+        "note": "不是在说他们此刻正在叫。always 是嫌对方老叫错名字。"
+      },
+      {
+        "stem": "What is the function of the present progressive in \"My neighbor is always playing loud music at midnight\"?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "To express unfavorable feelings"
+          },
+          {
+            "k": "B",
+            "t": "To alleviate unnecessary hostility"
+          },
+          {
+            "k": "C",
+            "t": "To indicate uncertainty"
+          },
+          {
+            "k": "D",
+            "t": "To dramatize a fact"
+          }
+        ],
+        "answer": "A",
+        "note": "同样是嫌邻居半夜吵，不是平平常常的正在放音乐。"
+      },
+      {
+        "stem": "\"It is taking forever to upload an album.\" The underlined part expresses ______.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "regret"
+          },
+          {
+            "k": "B",
+            "t": "surprise"
+          },
+          {
+            "k": "C",
+            "t": "complaint"
+          },
+          {
+            "k": "D",
+            "t": "temporariness"
+          }
+        ],
+        "answer": "C",
+        "note": "taking forever 是在抱怨上传太慢。"
+      },
+      {
+        "stem": "11.How can I concentrate if you_______continually______me with silly questions?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "have ... interrupted"
+          },
+          {
+            "k": "B",
+            "t": "had ... interrupted"
+          },
+          {
+            "k": "C",
+            "t": "are …. interrupting"
+          },
+          {
+            "k": "D",
+            "t": "were … interrupting"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      }
+    ]
+  },
+  "14": {
+    "title": "动词的时和体（二）",
+    "items": [
+      {
+        "stem": "By the end of last month, our cute baby ________ in this world for 100 days.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "would have been"
+          },
+          {
+            "k": "B",
+            "t": "had been"
+          },
+          {
+            "k": "C",
+            "t": "could have been"
+          },
+          {
+            "k": "D",
+            "t": "has been"
+          }
+        ],
+        "answer": "B",
+        "note": "原目录在虚拟语气。句子里没有夭折，选 had been。would have been 是干扰项。"
+      },
+      {
+        "stem": "U.S. News _______________ rankings of colleges since 1983. They are a very popular resource for students looking to apply to a university campus.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "maintains"
+          },
+          {
+            "k": "B",
+            "t": "is maintaining"
+          },
+          {
+            "k": "C",
+            "t": "maintained"
+          },
+          {
+            "k": "D",
+            "t": "has been maintaining"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "The Bent Pyramid outside Cairo _____________ ancient Egypt’s first attempt to build a smooth-sided pyramid.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "has been believed to have been"
+          },
+          {
+            "k": "B",
+            "t": "was believed to be"
+          },
+          {
+            "k": "C",
+            "t": "is believed to have been"
+          },
+          {
+            "k": "D",
+            "t": "is believed to be"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      }
+    ]
+  },
+  "15": {
+    "title": "将来时间表示法",
+    "items": [
+      {
+        "stem": "All the following sentences definitely indicate future time EXCEPT_________",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Mother is to have tea with Aunt Betty at four"
+          },
+          {
+            "k": "B",
+            "t": "The school pupils will be home by now"
+          },
+          {
+            "k": "C",
+            "t": "The President is coming to the UN next week"
+          },
+          {
+            "k": "D",
+            "t": "He is going to e-mail me the necessary information"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "If we __________ abused by the power of the social rule, we must take steps to defuse its energy.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "were not to be"
+          },
+          {
+            "k": "B",
+            "t": "are not to be"
+          },
+          {
+            "k": "C",
+            "t": "should not be"
+          },
+          {
+            "k": "D",
+            "t": "would not be"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "In the coming years, there are about 10,000 square kilometers of the designated search area still _____ by sonar equipment towed from ships. scanned B. be scanned C. having been scanned D. to be scanned The department secretary was _____ the guest speaker at the station at 10 this morning, but the speaker's journey was canceled on a short notice.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "about to meet"
+          },
+          {
+            "k": "B",
+            "t": "meeting"
+          },
+          {
+            "k": "C",
+            "t": "to be meeting"
+          },
+          {
+            "k": "D",
+            "t": "to have met"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Lucy was ____________ the polar expedition a month ago, but she changed her mind at the last minute.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "to start"
+          },
+          {
+            "k": "B",
+            "t": "to be starting"
+          },
+          {
+            "k": "C",
+            "t": "to have started"
+          },
+          {
+            "k": "D",
+            "t": "to have"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      }
+    ]
+  },
+  "16": {
+    "title": "被动意义表示法",
+    "items": [
+      {
+        "stem": "When the sentence \"They had made a mess of the house\" is turned into passive voice, which the following is CORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "A mess had been made in the house"
+          },
+          {
+            "k": "B",
+            "t": "A mess had been made by them"
+          },
+          {
+            "k": "C",
+            "t": "The house had been made a mess of"
+          },
+          {
+            "k": "D",
+            "t": "The house had been made a mess"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      }
+    ]
+  },
+  "17": {
+    "title": "假设意义表示法",
+    "items": [
+      {
+        "stem": "If there were no subjunctive mood, English __________ much easier to learn.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "could have been"
+          },
+          {
+            "k": "B",
+            "t": "would be"
+          },
+          {
+            "k": "C",
+            "t": "will be"
+          },
+          {
+            "k": "D",
+            "t": "would have been"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following sentences contains subjunctive mood?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Lucy insisted that her son get home before 5 o'clock"
+          },
+          {
+            "k": "B",
+            "t": "She used to drive to work, but now she takes the city metro"
+          },
+          {
+            "k": "C",
+            "t": "Walk straight ahead, and don't turn till the second traffic lights"
+          },
+          {
+            "k": "D",
+            "t": "Paul will cancel his flight if he cannot get his visa by Friday"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "It is essential that he _____ all the facts first.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "is examining"
+          },
+          {
+            "k": "B",
+            "t": "will examine"
+          },
+          {
+            "k": "C",
+            "t": "examines"
+          },
+          {
+            "k": "D",
+            "t": "examine"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "If you explained the situation to your lawyer, he_____able to advise you much better than I can",
+        "opts": [
+          {
+            "k": "A",
+            "t": "will be"
+          },
+          {
+            "k": "B",
+            "t": "was"
+          },
+          {
+            "k": "C",
+            "t": "would be"
+          },
+          {
+            "k": "D",
+            "t": "were"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "If you explained the situation to your solicitor, he ______________ able to advise you much better than we can.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "was"
+          },
+          {
+            "k": "B",
+            "t": "were"
+          },
+          {
+            "k": "C",
+            "t": "would be"
+          },
+          {
+            "k": "D",
+            "t": "will have been"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "__________ your advice, I would have made the wrong decision.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Hadn't it been for"
+          },
+          {
+            "k": "B",
+            "t": "Had it not been for"
+          },
+          {
+            "k": "C",
+            "t": "Had it been for"
+          },
+          {
+            "k": "D",
+            "t": "Had not it been for"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "____the attempted rescue mission, the hostages might still be alive.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "If it not had been for"
+          },
+          {
+            "k": "B",
+            "t": "If had it not been for"
+          },
+          {
+            "k": "C",
+            "t": "Had it not been for"
+          },
+          {
+            "k": "D",
+            "t": "Had not it been for"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "The smell that rose from the saucepan was so powerful that Mom shut the window lest anybody outside _________it. must notice B. has noticed C. had noticed D. should notice Writers often coupled narration with other techniques to develop ideas and support opinions that otherwise _____abstract, unclear, or unconvincing.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "may remain"
+          },
+          {
+            "k": "B",
+            "t": "could remain"
+          },
+          {
+            "k": "C",
+            "t": "must have remained"
+          },
+          {
+            "k": "D",
+            "t": "might have remained"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "He was lured into a crime he would not __________ have committed.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "actually"
+          },
+          {
+            "k": "B",
+            "t": "otherwise"
+          },
+          {
+            "k": "C",
+            "t": "accidentally"
+          },
+          {
+            "k": "D",
+            "t": "seldom"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "If I were you, I wouldn't wait to propose to her.”The subjunctive mood in the sentence is used to___ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "alleviate hostility"
+          },
+          {
+            "k": "B",
+            "t": "express unfavorable feelings"
+          },
+          {
+            "k": "C",
+            "t": "indicate uncertainty"
+          },
+          {
+            "k": "D",
+            "t": "make a suggestion"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Timothy Ray Brown, the first man cured of HIV, initially opted against the stem cell transplant that __________ history.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "could have later made"
+          },
+          {
+            "k": "B",
+            "t": "should have made later"
+          },
+          {
+            "k": "C",
+            "t": "might make later"
+          },
+          {
+            "k": "D",
+            "t": "would later make"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "19. At that moment, with the crowd watching me, I was not afraid in the ordinary sense, as I _________ if I __________ alone.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "would have been ... had been"
+          },
+          {
+            "k": "B",
+            "t": "should be ... had been"
+          },
+          {
+            "k": "C",
+            "t": "could be .…. were"
+          },
+          {
+            "k": "D",
+            "t": "might have been .…. were"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "My mother was determined to help those in need and she would have been immensely proud of what has been achieved theses last 20 years. The italicized part in the sentence expresses _________",
+        "opts": [
+          {
+            "k": "A",
+            "t": "a hypothesis"
+          },
+          {
+            "k": "B",
+            "t": "a suggestion"
+          },
+          {
+            "k": "C",
+            "t": "a contradiction"
+          },
+          {
+            "k": "D",
+            "t": "a surprise"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "The printer used the highest quality paper and ink and turned out far fewer volumes than he otherwise _______. did B. had C. could have D. had done",
+        "opts": [
+          {
+            "k": "A",
+            "t": "dvocates of studying abroad believe students will reach new levels of intercultural understanding far exceeding what they __ _be able to accomplish just at home. A. will"
+          },
+          {
+            "k": "B",
+            "t": "would"
+          },
+          {
+            "k": "C",
+            "t": "can"
+          },
+          {
+            "k": "D",
+            "t": "could"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "My mother would have been in Beijing by now if she had not missed the train. The underlined part in the sentence expresses a(n) ___________.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "obligation"
+          },
+          {
+            "k": "B",
+            "t": "willingness"
+          },
+          {
+            "k": "C",
+            "t": "hypothesis"
+          },
+          {
+            "k": "D",
+            "t": "suggestion"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "It is necessary that he _________ the assignment without delay.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "hand in"
+          },
+          {
+            "k": "B",
+            "t": "hands in"
+          },
+          {
+            "k": "C",
+            "t": "must hand in"
+          },
+          {
+            "k": "D",
+            "t": "has to hand in"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "My boss ordered that the legal documents __________ to him before lunch.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "be sent"
+          },
+          {
+            "k": "B",
+            "t": "were sent"
+          },
+          {
+            "k": "C",
+            "t": "were to be sent"
+          },
+          {
+            "k": "D",
+            "t": "must be sent"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "In order that no further damage ___________, it is crucial that you get the wounded back to the intensive care unit as quickly as possible.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "is to be done"
+          },
+          {
+            "k": "B",
+            "t": "will be done"
+          },
+          {
+            "k": "C",
+            "t": "can be done"
+          },
+          {
+            "k": "D",
+            "t": "be done"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "It is imperative that the local government ____________ more investment into the burgeoning hi-tech industry.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "has to attract"
+          },
+          {
+            "k": "B",
+            "t": "shall attract"
+          },
+          {
+            "k": "C",
+            "t": "attracts"
+          },
+          {
+            "k": "D",
+            "t": "attract"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "The sentence I wish I had been more careful in spending money express the speaker's____ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "hope"
+          },
+          {
+            "k": "B",
+            "t": "joy"
+          },
+          {
+            "k": "C",
+            "t": "regret"
+          },
+          {
+            "k": "D",
+            "t": "relief"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "The bad news was that he could be a very dangerous person __________ he choose to be.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "should"
+          },
+          {
+            "k": "B",
+            "t": "could"
+          },
+          {
+            "k": "C",
+            "t": "might"
+          },
+          {
+            "k": "D",
+            "t": "must"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "A team of engineers has been developing a space cleanup satellite to eliminate man-made orbital debris, _______ broken-down satellites or tossed away rocket stages. no matter B. whether it is C. if it is D. be it Welcome to this special edition of TV Picks, featuring things that must be read to be consumed, let alone _________: books.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "being understood"
+          },
+          {
+            "k": "B",
+            "t": "to understand"
+          },
+          {
+            "k": "C",
+            "t": "understood"
+          },
+          {
+            "k": "D",
+            "t": "understand"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "The sentence I wish I had been more careful in spending money expresses the speaker’s ______.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "hope"
+          },
+          {
+            "k": "B",
+            "t": "joy"
+          },
+          {
+            "k": "C",
+            "t": "regret"
+          },
+          {
+            "k": "D",
+            "t": "relief"
+          }
+        ],
+        "answer": "",
+        "note": "句子“ I wish I had been more careful in spending money ”表达了说话人的 ______ 。"
+      }
+    ]
+  },
+  "18": {
+    "title": "情态意义表示法（一）",
+    "items": [
+      {
+        "stem": "Among the four sentences below, sentence _________ expresses the highest degree of possibility.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "It may take a long time to find a solution to the problem"
+          },
+          {
+            "k": "B",
+            "t": "It might take a long time to find a solution to the problem"
+          },
+          {
+            "k": "C",
+            "t": "It could take a long time to find a solution to the problem"
+          },
+          {
+            "k": "D",
+            "t": "It should take a long time to find a solution to the problem"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "— “She must be in the dormitory now!”",
+        "opts": [
+          {
+            "k": "A",
+            "t": "mustn’t"
+          },
+          {
+            "k": "B",
+            "t": "can’t"
+          },
+          {
+            "k": "C",
+            "t": "couldn’t"
+          },
+          {
+            "k": "D",
+            "t": "wouldn’t"
+          }
+        ],
+        "answer": "B",
+        "note": "刚才我还看到她在教室里。"
+      },
+      {
+        "stem": "Which of the following sentences expresses “probability ”?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "You must leave immediately"
+          },
+          {
+            "k": "B",
+            "t": "You must be feeling rather tired"
+          },
+          {
+            "k": "C",
+            "t": "You must be here by eight o’clock"
+          },
+          {
+            "k": "D",
+            "t": "You must complete the reading assignment on time"
+          }
+        ],
+        "answer": "B",
+        "note": "下面哪一句表示“可能”？"
+      },
+      {
+        "stem": "The sentence that expresses OFFER is _____.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "I’ll get some drinks. What’ll you have?"
+          },
+          {
+            "k": "B",
+            "t": "Does she need to book a ticket now?"
+          },
+          {
+            "k": "C",
+            "t": "May I know your name?"
+          },
+          {
+            "k": "D",
+            "t": "Can you return the book next week?"
+          }
+        ],
+        "answer": "A",
+        "note": "下面哪个句子表达“提议” ？"
+      },
+      {
+        "stem": "Which of the following sentences indicates POSSIBILITY ?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The moon cannot always be at the full"
+          },
+          {
+            "k": "B",
+            "t": "You cannot smoke inside the building"
+          },
+          {
+            "k": "C",
+            "t": "He cannot come today"
+          },
+          {
+            "k": "D",
+            "t": "She cannot play the piano"
+          }
+        ],
+        "answer": "A",
+        "note": "下列哪个句子表达可能性？"
+      },
+      {
+        "stem": "Which of the following sentences expresses a fact?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Mary and her son must be home by now"
+          },
+          {
+            "k": "B",
+            "t": "Careless reading must give poor results"
+          },
+          {
+            "k": "C",
+            "t": "He must be working late at the office"
+          },
+          {
+            "k": "D",
+            "t": "It’s getting late, and I must leave now"
+          }
+        ],
+        "answer": "D",
+        "note": "下列哪句话表达一种事实？"
+      },
+      {
+        "stem": "Which of the following sentences expresses WILLINGNESS?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "By now she will be eating dinner"
+          },
+          {
+            "k": "B",
+            "t": "I shall never do that again"
+          },
+          {
+            "k": "C",
+            "t": "My brother will help you with the luggage"
+          },
+          {
+            "k": "D",
+            "t": "You shall get a promotion"
+          }
+        ],
+        "answer": "C",
+        "note": "下列哪句话表达“意愿”？"
+      },
+      {
+        "stem": "Which of the following best explains the meaning of “Shall we buy the tickets first”?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He said that we were going to buy the tickets first"
+          },
+          {
+            "k": "B",
+            "t": "He requested that we buy the tickets first"
+          },
+          {
+            "k": "C",
+            "t": "He suggested that we buy the tickets first"
+          },
+          {
+            "k": "D",
+            "t": "He advised us to buy the tickets first"
+          }
+        ],
+        "answer": "C",
+        "note": "题干意为“我们要不要先买票？"
+      }
+    ]
+  },
+  "19": {
+    "title": "情态意义表示法（二）",
+    "items": [
+      {
+        "stem": "Aren't you tired? I ____________ you had done enough for today.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "should have thought"
+          },
+          {
+            "k": "B",
+            "t": "must have thought"
+          },
+          {
+            "k": "C",
+            "t": "might have thought"
+          },
+          {
+            "k": "D",
+            "t": "could have thought"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Nancy's gone to work but her car's still there. She_____by bus.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "must have gone"
+          },
+          {
+            "k": "B",
+            "t": "should have gone"
+          },
+          {
+            "k": "C",
+            "t": "ought to have gone"
+          },
+          {
+            "k": "D",
+            "t": "could have gone"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following sentences expresses WILLINGNESS?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "By now she will be eating dinner"
+          },
+          {
+            "k": "B",
+            "t": "I shall never do that again"
+          },
+          {
+            "k": "C",
+            "t": "My brother will help you with the luggage"
+          },
+          {
+            "k": "D",
+            "t": "You shall get a promotion"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following best explains the meaning of“Shall we buy the tickets first”?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He said that we were going to buy the tickets first"
+          },
+          {
+            "k": "B",
+            "t": "He requested that we buy the tickets first"
+          },
+          {
+            "k": "C",
+            "t": "He suggested that we buy the tickets first"
+          },
+          {
+            "k": "D",
+            "t": "He advised us to buy the tickets first"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following sentences expresses a fact?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Mary and her son must be home by now"
+          },
+          {
+            "k": "B",
+            "t": "Careless reading must give poor results"
+          },
+          {
+            "k": "C",
+            "t": "He must be working late at the office"
+          },
+          {
+            "k": "D",
+            "t": "It's getting late, and I must leave now"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "I wondered if I could have a word with you.”The past tense used in the sentence refers to a ________ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "past event for exact time reference"
+          },
+          {
+            "k": "B",
+            "t": "present event for tentativeness"
+          },
+          {
+            "k": "C",
+            "t": "present event for uncertainty"
+          },
+          {
+            "k": "D",
+            "t": "past event for politeness"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "\"It's a shame that the city official should have gone back on his word. \"The modal auxiliary SHOULD expresses __________ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "obligation"
+          },
+          {
+            "k": "B",
+            "t": "disappointment"
+          },
+          {
+            "k": "C",
+            "t": "future in the past"
+          },
+          {
+            "k": "D",
+            "t": "tentativeness"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Perhaps you could pick up the book at my flat at some time that suited you?”The underlined verb forms are used to indicate _______.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "an ability"
+          },
+          {
+            "k": "B",
+            "t": "past time"
+          },
+          {
+            "k": "C",
+            "t": "tentativeness"
+          },
+          {
+            "k": "D",
+            "t": "a hypothesis"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Among the four sentences below, Sentence ________ expresses the highest degree of possibility.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "It may take a long time to find a solution to the problem"
+          },
+          {
+            "k": "B",
+            "t": "It might take a long time to find a solution to the problem"
+          },
+          {
+            "k": "C",
+            "t": "It could take a long time to find a solution to the problem"
+          },
+          {
+            "k": "D",
+            "t": "It should take a long time to find a solution to the problem"
+          }
+        ],
+        "answer": "",
+        "note": ""
+      }
+    ]
+  },
+  "20": {
+    "title": "不定式（一）",
+    "items": [
+      {
+        "stem": "The meeting was put off because we ______ a meeting without John.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "objected having"
+          },
+          {
+            "k": "B",
+            "t": "were objected to having"
+          },
+          {
+            "k": "C",
+            "t": "objected to have"
+          },
+          {
+            "k": "D",
+            "t": "objected to having"
+          }
+        ],
+        "answer": "D",
+        "note": "object 后面那个 to，不是“要去做”。是“反对这件事”。用 having，不用 have。"
+      },
+      {
+        "stem": "________ him tomorrow?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Why not to call on"
+          },
+          {
+            "k": "B",
+            "t": "Why don’t call on"
+          },
+          {
+            "k": "C",
+            "t": "Why not calling on"
+          },
+          {
+            "k": "D",
+            "t": "Why not call on"
+          }
+        ],
+        "answer": "D",
+        "note": "Why not 后面直接说 call。不要写成 to call，也不要写成 calling。"
+      },
+      {
+        "stem": "He prefers __________.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "to write his letters rather than dictating them"
+          },
+          {
+            "k": "B",
+            "t": "to write his letters rather than dictate them"
+          },
+          {
+            "k": "C",
+            "t": "writing his letters rather than dictate them"
+          },
+          {
+            "k": "D",
+            "t": "writing his letters rather than have dictated them"
+          }
+        ],
+        "answer": "B",
+        "note": "prefers 后面用 to write。rather than 后面跟着用 dictate。不要一边 write，一边 dictating。"
+      },
+      {
+        "stem": "The compositions contained so few errors that the teacher got the students ______ one another’s papers.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "correct"
+          },
+          {
+            "k": "B",
+            "t": "to correct"
+          },
+          {
+            "k": "C",
+            "t": "correcting"
+          },
+          {
+            "k": "D",
+            "t": "to be correcting"
+          }
+        ],
+        "answer": "B",
+        "note": "让学生去做这件事。got the students 后面用 to correct。"
+      },
+      {
+        "stem": "Some Martian rock structures look strikingly like structures on Earth that are known _____ by microbes.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "having been created"
+          },
+          {
+            "k": "B",
+            "t": "being created"
+          },
+          {
+            "k": "C",
+            "t": "to have been created"
+          },
+          {
+            "k": "D",
+            "t": "to be created"
+          }
+        ],
+        "answer": "C",
+        "note": "known 后面用 to have been created。这件事已经发生过了，不是正在发生。"
+      }
+    ]
+  },
+  "21": {
+    "title": "不定式（二）",
+    "items": [
+      {
+        "stem": "“After a confused silence, the speaker attempted a weak reply only to halt midway to confer with his assistant and finally to admit that he had made a mistake.\" The two infinitive phrases after \"midway”are used to___ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "show purpose"
+          },
+          {
+            "k": "B",
+            "t": "indicate result"
+          },
+          {
+            "k": "C",
+            "t": "indicate manner"
+          },
+          {
+            "k": "D",
+            "t": "predict consequence"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "It is easy to think you understand another person, __________later that you were wrong.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "to find only"
+          },
+          {
+            "k": "B",
+            "t": "only to find"
+          },
+          {
+            "k": "C",
+            "t": "merely finding"
+          },
+          {
+            "k": "D",
+            "t": "yet found"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "He hurried to the airport, only to find that his fight had been canceled. The infinitive verb phrase only to find is used _____.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "to reveal an undesirable consequence"
+          },
+          {
+            "k": "B",
+            "t": "to express an intended purpose"
+          },
+          {
+            "k": "C",
+            "t": "to indicate a high degree of possibility"
+          },
+          {
+            "k": "D",
+            "t": "to emphasize a stated fact"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized parts indicates a subject-verb relation?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The man has a large family to support"
+          },
+          {
+            "k": "B",
+            "t": "She had no wish to quarrel with her brother"
+          },
+          {
+            "k": "C",
+            "t": "He was the last guest to leave"
+          },
+          {
+            "k": "D",
+            "t": "Mary needs a friend to talk to"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "She hired a lawyer to investigate, only to learn that Gabriel had removed her name from the deed. The infinitive verb phrase \"only to learn\" is used __________ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "to express an intended purpose"
+          },
+          {
+            "k": "B",
+            "t": "to indicate a high degree of possibility"
+          },
+          {
+            "k": "C",
+            "t": "to reveal an undesirable consequence"
+          },
+          {
+            "k": "D",
+            "t": "to dramatize a stated fact"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Members of the Parliament were poised _______ ahead with a bill to approve construction of the oil pipeline.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "to move"
+          },
+          {
+            "k": "B",
+            "t": "moving"
+          },
+          {
+            "k": "C",
+            "t": "to moving"
+          },
+          {
+            "k": "D",
+            "t": "at moving"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "The new colleague ________ to have worked in several big corporations before he joined our company.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "confesses"
+          },
+          {
+            "k": "B",
+            "t": "declares"
+          },
+          {
+            "k": "C",
+            "t": "claims"
+          },
+          {
+            "k": "D",
+            "t": "confirms"
+          }
+        ],
+        "answer": "C",
+        "note": "那位新同事声称在加盟本公司之前曾在几家大公司工作过。"
+      },
+      {
+        "stem": "Which of the following italicized parts serves as an appositive ?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He is not the man to draw back"
+          },
+          {
+            "k": "B",
+            "t": "Larry has a large family to support"
+          },
+          {
+            "k": "C",
+            "t": "Tony hit back the urge to tell a lie"
+          },
+          {
+            "k": "D",
+            "t": "There is really nothing to fear"
+          }
+        ],
+        "answer": "C",
+        "note": "不定式结构与它所修饰的名词之间有三种逻辑关系：主 — 动关系，动 — 宾关系及同位关系。"
+      }
+    ]
+  },
+  "22": {
+    "title": "-ING分词",
+    "items": [
+      {
+        "stem": "This is one of the issues that deserve __________.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "being mentioned"
+          },
+          {
+            "k": "B",
+            "t": "mentioning"
+          },
+          {
+            "k": "C",
+            "t": "to mention"
+          },
+          {
+            "k": "D",
+            "t": "for mention"
+          }
+        ],
+        "answer": "B",
+        "note": "deserve 后面直接用 mentioning。不用说 being mentioned，也不用 to mention。"
+      },
+      {
+        "stem": "Please pardon ________ you.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "my disturbing"
+          },
+          {
+            "k": "B",
+            "t": "disturbing me"
+          },
+          {
+            "k": "C",
+            "t": "to disturb"
+          },
+          {
+            "k": "D",
+            "t": "that I disturb"
+          }
+        ],
+        "answer": "A",
+        "note": "pardon 后面把“我打扰你”这件事说出来，用 my disturbing。"
+      },
+      {
+        "stem": "Which of the italicized parts functions as an object?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He doesn’t like the idea of my speaking at the meeting"
+          },
+          {
+            "k": "B",
+            "t": "It is no use your pretending not to know the matter"
+          },
+          {
+            "k": "C",
+            "t": "Her falling into the river was the climax of the whole trip"
+          },
+          {
+            "k": "D",
+            "t": "My parents strongly object to my going out alone"
+          }
+        ],
+        "answer": "D",
+        "note": "object to 后面 my going，就是被反对的那件事。选 D。"
+      },
+      {
+        "stem": "________ should not become a serious disadvantage in life and work.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "To be not tall"
+          },
+          {
+            "k": "B",
+            "t": "Not being tall"
+          },
+          {
+            "k": "C",
+            "t": "Being not tall"
+          },
+          {
+            "k": "D",
+            "t": "Not to be tall"
+          }
+        ],
+        "answer": "B",
+        "note": "把“个子不高”拿来当这句话的开头。用 Not being tall。not 放在 being 前面。"
+      },
+      {
+        "stem": "He noticed the helicopter hovering over the field. Then to his astonishment, he saw a rope ladder ______ out and three men climbing down it.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "throwing"
+          },
+          {
+            "k": "B",
+            "t": "being thrown"
+          },
+          {
+            "k": "C",
+            "t": "having thrown"
+          },
+          {
+            "k": "D",
+            "t": "having been thrown"
+          }
+        ],
+        "answer": "B",
+        "note": "梯子是被人放下来的。用 being thrown，不用 throwing。"
+      },
+      {
+        "stem": "He resented ______ to wait. He expected the minister ______ him at once.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "to be asked, to see"
+          },
+          {
+            "k": "B",
+            "t": "being asked, to see"
+          },
+          {
+            "k": "C",
+            "t": "to be asked, seeing"
+          },
+          {
+            "k": "D",
+            "t": "being asked, seeing"
+          }
+        ],
+        "answer": "B",
+        "note": "resented 后面是已经碰上的事，用 being asked。expected 后面是希望对方去做，用 to see。"
+      },
+      {
+        "stem": "In international matches, prestige is so important that the only thing that matters is to avoid ______.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "from being beaten"
+          },
+          {
+            "k": "B",
+            "t": "being beaten"
+          },
+          {
+            "k": "C",
+            "t": "beating"
+          },
+          {
+            "k": "D",
+            "t": "to be beaten"
+          }
+        ],
+        "answer": "B",
+        "note": "avoid 后面直接说 being beaten。不要加 from，也不要写成 to be beaten。"
+      },
+      {
+        "stem": "______, he can now only watch it on TV at home.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Obtaining not a ticket for the match"
+          },
+          {
+            "k": "B",
+            "t": "Not obtaining a ticket for the match"
+          },
+          {
+            "k": "C",
+            "t": "Not having obtained a ticket for the match"
+          },
+          {
+            "k": "D",
+            "t": "Not obtained a ticket for the match"
+          }
+        ],
+        "answer": "C",
+        "note": "没买到票，是在“现在只能在家看”之前。用 Not having obtained。"
+      },
+      {
+        "stem": "“The man preparing the documents is the firm’s lawyer” has all the following possible meanings EXCEPT ______.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "the man who has prepared the documents"
+          },
+          {
+            "k": "B",
+            "t": "the man who has been preparing the documents"
+          },
+          {
+            "k": "C",
+            "t": "the man who is preparing the documents"
+          },
+          {
+            "k": "D",
+            "t": "the man who will prepare the documents"
+          }
+        ],
+        "answer": "D",
+        "note": "preparing 可以说正在做，也可以说已经在做。不能理解成以后才做。除掉 will prepare。"
+      },
+      {
+        "stem": "I never regretted ______ his offer, for it was not where my interest lay.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "not to accept"
+          },
+          {
+            "k": "B",
+            "t": "not having accepted"
+          },
+          {
+            "k": "C",
+            "t": "having not accepted"
+          },
+          {
+            "k": "D",
+            "t": "not accepting"
+          }
+        ],
+        "answer": "B",
+        "note": "后悔的是当时没接受，这件事已经过去了。用 not having accepted。"
+      },
+      {
+        "stem": "Facing the board of directors, he didn't deny _________ breaking the agreement.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "him"
+          },
+          {
+            "k": "B",
+            "t": "his"
+          },
+          {
+            "k": "C",
+            "t": "it"
+          },
+          {
+            "k": "D",
+            "t": "its"
+          }
+        ],
+        "answer": "B",
+        "note": "deny 后面是“他违约”这件事。用 his breaking，不用 him。"
+      },
+      {
+        "stem": "In phrases like freezing cold, burning hot, or soaking wet, the -ING participle is used ______.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "as a command"
+          },
+          {
+            "k": "B",
+            "t": "as a condition"
+          },
+          {
+            "k": "C",
+            "t": "for concession"
+          },
+          {
+            "k": "D",
+            "t": "for emphasis"
+          }
+        ],
+        "answer": "D",
+        "note": "freezing cold 里的 freezing，是把 cold 说得更重。用来加重。"
+      },
+      {
+        "stem": "In phrases like biting cold, scorching hot, or dazzling bright, the -ING participle is used as ______.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "an attributive"
+          },
+          {
+            "k": "B",
+            "t": "a complement"
+          },
+          {
+            "k": "C",
+            "t": "a quantifier"
+          },
+          {
+            "k": "D",
+            "t": "an adverbial"
+          }
+        ],
+        "answer": "D",
+        "note": "biting 不是在说一个名词，是在把 cold 说得更狠。"
+      },
+      {
+        "stem": "There ________ nothing more for discussion, the meeting came to an end half an hour earlier.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "to be"
+          },
+          {
+            "k": "B",
+            "t": "to have been"
+          },
+          {
+            "k": "C",
+            "t": "be"
+          },
+          {
+            "k": "D",
+            "t": "being"
+          }
+        ],
+        "answer": "D",
+        "note": "前面是“没什么可讨论了”。用 There being，不要写成 There to be。"
+      },
+      {
+        "stem": "A more flexible means of communication is always an advantage, ________ being equal.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "all the things"
+          },
+          {
+            "k": "B",
+            "t": "the other things"
+          },
+          {
+            "k": "C",
+            "t": "other all things"
+          },
+          {
+            "k": "D",
+            "t": "all other things"
+          }
+        ],
+        "answer": "D",
+        "note": "这句话是“别的都一样”。用 all other things being equal。"
+      }
+    ]
+  },
+  "23": {
+    "title": "-ED分词",
+    "items": [
+      {
+        "stem": "______ at in his way, the situation doesn’t seem so desperate.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Looking"
+          },
+          {
+            "k": "B",
+            "t": "Looked"
+          },
+          {
+            "k": "C",
+            "t": "Being looked"
+          },
+          {
+            "k": "D",
+            "t": "To look"
+          }
+        ],
+        "answer": "B",
+        "note": "形势是被人这样看的，已经是那个样子。用 Looked，不用 Looking。"
+      },
+      {
+        "stem": "Which of the following italicized parts is used as an object complement?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The front door remained locked"
+          },
+          {
+            "k": "B",
+            "t": "The boy looked disappointed"
+          },
+          {
+            "k": "C",
+            "t": "Nancy appeared worried"
+          },
+          {
+            "k": "D",
+            "t": "He seemed to have no money left"
+          }
+        ],
+        "answer": "D",
+        "note": "left 补在 money 后面，说钱已经没了。选 D。"
+      },
+      {
+        "stem": "______ enough time and money, the researchers would have been able to discover more in this field.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Giving"
+          },
+          {
+            "k": "B",
+            "t": "To give"
+          },
+          {
+            "k": "C",
+            "t": "Given"
+          },
+          {
+            "k": "D",
+            "t": "Being given"
+          }
+        ],
+        "answer": "C",
+        "note": "时间和钱是被给的。用 Given，不用 Giving。"
+      },
+      {
+        "stem": "Arriving at the bus stop, ______ waiting there.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "a lot of people were"
+          },
+          {
+            "k": "B",
+            "t": "he found a lot of people"
+          },
+          {
+            "k": "C",
+            "t": "a lot of people"
+          },
+          {
+            "k": "D",
+            "t": "people were found"
+          }
+        ],
+        "answer": "B",
+        "note": "到车站的是 he，不是 a lot of people。所以是 he found a lot of people。"
+      }
+    ]
+  },
+  "24": {
+    "title": "形容词和形容词词组",
+    "items": [
+      {
+        "stem": "Unfortunately, she was _________ to tell the truth even to her closest friend.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "enough of a coward"
+          },
+          {
+            "k": "B",
+            "t": "too much the coward"
+          },
+          {
+            "k": "C",
+            "t": "too much of a coward"
+          },
+          {
+            "k": "D",
+            "t": "a coward enough"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      }
+    ]
+  },
+  "25": {
+    "title": "副词和副词词组",
+    "items": [
+      {
+        "stem": "Which of the following adverbs can NOT be used to complete“ ____ everybody came”?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Nearly"
+          },
+          {
+            "k": "B",
+            "t": "Quite"
+          },
+          {
+            "k": "C",
+            "t": "Practically"
+          },
+          {
+            "k": "D",
+            "t": "Almost"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized parts modifies an adverb?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Do it right now"
+          },
+          {
+            "k": "B",
+            "t": "That was a very funny film"
+          },
+          {
+            "k": "C",
+            "t": "I rather like my teacher"
+          },
+          {
+            "k": "D",
+            "t": "We walked about 6 miles"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following words can NOT be used to complete \"We've seen the film __________\"?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "before"
+          },
+          {
+            "k": "B",
+            "t": "recently"
+          },
+          {
+            "k": "C",
+            "t": "lately"
+          },
+          {
+            "k": "D",
+            "t": "yet"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "The children were ________ hungry and each of them could have eaten a horse.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "such"
+          },
+          {
+            "k": "B",
+            "t": "this"
+          },
+          {
+            "k": "C",
+            "t": "that"
+          },
+          {
+            "k": "D",
+            "t": "much"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "My daughter has walked eight miles today. We never guessed that she could walk ______ far.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "/"
+          },
+          {
+            "k": "B",
+            "t": "such"
+          },
+          {
+            "k": "C",
+            "t": "that"
+          },
+          {
+            "k": "D",
+            "t": "as"
+          }
+        ],
+        "answer": "C",
+        "note": "我女儿今天走了八英里，我们从没有想到她能走那么远。"
+      },
+      {
+        "stem": "I arrived at the airport so late that I _________ missed the plane.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "only"
+          },
+          {
+            "k": "B",
+            "t": "quite"
+          },
+          {
+            "k": "C",
+            "t": "narrowly"
+          },
+          {
+            "k": "D",
+            "t": "seldom"
+          }
+        ],
+        "answer": "C",
+        "note": "我到达机场太晚了以至于差点就错过了飞机。"
+      },
+      {
+        "stem": "Bottles from this region sell ______ at about $50 a case.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "entirely"
+          },
+          {
+            "k": "B",
+            "t": "totally"
+          },
+          {
+            "k": "C",
+            "t": "wholesale"
+          },
+          {
+            "k": "D",
+            "t": "together"
+          }
+        ],
+        "answer": "C",
+        "note": "本地区的瓶子批发价格为 50 美元一箱。"
+      }
+    ]
+  },
+  "26": {
+    "title": "比较等级和比较结构",
+    "items": [
+      {
+        "stem": "Moving from beginning to end by order of time, narration relies on a more natural pattern of organization than _________ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "will other types or writing"
+          },
+          {
+            "k": "B",
+            "t": "do other types of writing"
+          },
+          {
+            "k": "C",
+            "t": "on other types of writing"
+          },
+          {
+            "k": "D",
+            "t": "other types of writing"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "It is not so much the language __________ the cultural background that makes the film difficult to understand.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "but"
+          },
+          {
+            "k": "B",
+            "t": "nor"
+          },
+          {
+            "k": "C",
+            "t": "like"
+          },
+          {
+            "k": "D",
+            "t": "as"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "It is not so much the language __________ the cultural background that makes the book difficult to understand.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "as"
+          },
+          {
+            "k": "B",
+            "t": "nor"
+          },
+          {
+            "k": "C",
+            "t": "but"
+          },
+          {
+            "k": "D",
+            "t": "like"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "She is a better speaker than ________ in the class.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "any boy"
+          },
+          {
+            "k": "B",
+            "t": "the other boys"
+          },
+          {
+            "k": "C",
+            "t": "other any girl"
+          },
+          {
+            "k": "D",
+            "t": "all the girls"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Do you know Jack's cousin? He is ________ than Jack.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "much more athlete"
+          },
+          {
+            "k": "B",
+            "t": "more of an athlete"
+          },
+          {
+            "k": "C",
+            "t": "a more athlete"
+          },
+          {
+            "k": "D",
+            "t": "more athlete"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "At ____, photography is a chemical process, during which a light-sensitive material is altered when exposed to light.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "its most basic"
+          },
+          {
+            "k": "B",
+            "t": "its basic"
+          },
+          {
+            "k": "C",
+            "t": "the most basic"
+          },
+          {
+            "k": "D",
+            "t": "the basic"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized phrases is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "The city is now ten times its original size"
+          },
+          {
+            "k": "B",
+            "t": "I wish I had two times his strength"
+          },
+          {
+            "k": "C",
+            "t": "The seller asked for double the usual price"
+          },
+          {
+            "k": "D",
+            "t": "They come here four times every year"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "There are as good fish in the sea ______ ever came out of it.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "than"
+          },
+          {
+            "k": "B",
+            "t": "like"
+          },
+          {
+            "k": "C",
+            "t": "as"
+          },
+          {
+            "k": "D",
+            "t": "so"
+          }
+        ],
+        "answer": "C",
+        "note": "海中好鱼取不尽（喻指：虽然失去一个机会，还有很多机会）。"
+      }
+    ]
+  },
+  "27": {
+    "title": "介词和介词词组",
+    "items": [
+      {
+        "stem": "Which of the following italicized phrases indicates CAUSE?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Why don't you do it for the sake of your friends?"
+          },
+          {
+            "k": "B",
+            "t": "I wish I could write as well as you"
+          },
+          {
+            "k": "C",
+            "t": "For all his efforts, he didn't get an A"
+          },
+          {
+            "k": "D",
+            "t": "Her eyes were red from excessive reading"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized phrases indicates?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "She said it for fun, but others took her seriously"
+          },
+          {
+            "k": "B",
+            "t": "For all its effort, the team didn't win the match"
+          },
+          {
+            "k": "C",
+            "t": "Linda has worked for the firm for twenty years"
+          },
+          {
+            "k": "D",
+            "t": "He set out for Beijing yesterday"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized words DOES NOT carry the metaphorical meaning?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "I wonder what's behind this change of plan"
+          },
+          {
+            "k": "B",
+            "t": "Jim turned to speak to the person standing behind him"
+          },
+          {
+            "k": "C",
+            "t": "This work should have been finished yesterday. I'm getting terribly behind"
+          },
+          {
+            "k": "D",
+            "t": "I suppose I'm lucky because my parents were behind me all the way"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "George told the police officer that he was punched ________ by a masked man Sunday night at a restaurant. in the face B. in his face C. in face D. in a face ________ your generous assistance, I couldn't have accomplished this daunting task in time.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "But for"
+          },
+          {
+            "k": "B",
+            "t": "With"
+          },
+          {
+            "k": "C",
+            "t": "If only"
+          },
+          {
+            "k": "D",
+            "t": "Despite"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "In which of the following sentences does the preposition \"beneath\" carry a metaphorical sense?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "An X-ray technique has unveiled a hidden portrait beneath the painting"
+          },
+          {
+            "k": "B",
+            "t": "A hole appeared beneath railway tracks at around 3 am on Thursday"
+          },
+          {
+            "k": "C",
+            "t": "As the content is banal, it is easy to dismiss it as beneath serious consideration"
+          },
+          {
+            "k": "D",
+            "t": "Rocks formed beneath the ocean floor may be a source of free hydrogen gas"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following prepositional phrases is an adverbial of concession?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "They used the box for keeping treasures"
+          },
+          {
+            "k": "B",
+            "t": "I stepped aside for her to get in first"
+          },
+          {
+            "k": "C",
+            "t": "For all that he seems to dislike me, I still like him"
+          },
+          {
+            "k": "D",
+            "t": "The parents bought a birthday cake for their son"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized phrases indicates purpose?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "She said it for fun , but others took her seriously"
+          },
+          {
+            "k": "B",
+            "t": "For all its effort , the team didn’t win the match"
+          },
+          {
+            "k": "C",
+            "t": "Linda has worked for the firm for twenty years"
+          },
+          {
+            "k": "D",
+            "t": "He set out for Beijing yesterday"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Come on, Jack, tell me the story. Don’t keep me in ______.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "suspense"
+          },
+          {
+            "k": "B",
+            "t": "suspending"
+          },
+          {
+            "k": "C",
+            "t": "suspension"
+          },
+          {
+            "k": "D",
+            "t": "suspender"
+          }
+        ],
+        "answer": "A",
+        "note": "别让我的心老悬着了。"
+      },
+      {
+        "stem": "The questions that the speaker raised were well ____ the average adult.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "past"
+          },
+          {
+            "k": "B",
+            "t": "on"
+          },
+          {
+            "k": "C",
+            "t": "beyond"
+          },
+          {
+            "k": "D",
+            "t": "through"
+          }
+        ],
+        "answer": "C",
+        "note": "这个发言人所提出的问题远非一般成年人所能回答。"
+      },
+      {
+        "stem": "Many people nowadays save money to ______ for their old age.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "cater"
+          },
+          {
+            "k": "B",
+            "t": "supply"
+          },
+          {
+            "k": "C",
+            "t": "provide"
+          },
+          {
+            "k": "D",
+            "t": "equip"
+          }
+        ],
+        "answer": "C",
+        "note": "现如今许多人攒钱以备年老之需。"
+      }
+    ]
+  },
+  "28": {
+    "title": "陈述句、疑问句、祈使句、感叹句",
+    "items": [
+      {
+        "stem": "Which of the following sentences is a COMMAND?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Beg your pardon"
+          },
+          {
+            "k": "B",
+            "t": "Have a good time"
+          },
+          {
+            "k": "C",
+            "t": "Never do that again!"
+          },
+          {
+            "k": "D",
+            "t": "What noise you are making!"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following is NOT an imperative sentence?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "I wish you could stay behind"
+          },
+          {
+            "k": "B",
+            "t": "You will mind your own business!"
+          },
+          {
+            "k": "C",
+            "t": "Come and have dinner with us"
+          },
+          {
+            "k": "D",
+            "t": "Let me drive you home, shall I?"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "\"If not us, who? If not now, when?\" These two questions are used as a ___________.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "sign of anger"
+          },
+          {
+            "k": "B",
+            "t": "call for action"
+          },
+          {
+            "k": "C",
+            "t": "refusal to change"
+          },
+          {
+            "k": "D",
+            "t": "denial of commitment"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following sentences is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "How strange feelings they are!"
+          },
+          {
+            "k": "B",
+            "t": "How dare you speak to me like that!"
+          },
+          {
+            "k": "C",
+            "t": "What noise they are making!"
+          },
+          {
+            "k": "D",
+            "t": "What a mess we are in!"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following exclamations is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "What noise they are making!"
+          },
+          {
+            "k": "B",
+            "t": "How strange feelings they are!"
+          },
+          {
+            "k": "C",
+            "t": "How dare you speak to me like that!"
+          },
+          {
+            "k": "D",
+            "t": "What a mess we are in!"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "She seldom goes to the theatre, _____ ?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "doesn't she"
+          },
+          {
+            "k": "B",
+            "t": "does she"
+          },
+          {
+            "k": "C",
+            "t": "would she"
+          },
+          {
+            "k": "D",
+            "t": "wouldn't she"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "When you have finished with the book, don't forget to return it to Tim, ____?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "do you"
+          },
+          {
+            "k": "B",
+            "t": "will you"
+          },
+          {
+            "k": "C",
+            "t": "don't you"
+          },
+          {
+            "k": "D",
+            "t": "won't you"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following tag questions (反意疑问句) is INCORRECT?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Carry this parcel for me, will you?"
+          },
+          {
+            "k": "B",
+            "t": "Nobody wants to go there, does he?"
+          },
+          {
+            "k": "C",
+            "t": "Few people know him, don't they?"
+          },
+          {
+            "k": "D",
+            "t": "Everything is ready, isn't it?"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "When you have finished with that novel, don't forget to return to Tom, _________ ? will you B.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "do you C. don't you D. won't you When you have finished with that book, don't forget to put it back on the shelf, _____ ? don't you"
+          },
+          {
+            "k": "B",
+            "t": "do you"
+          },
+          {
+            "k": "C",
+            "t": "will you"
+          },
+          {
+            "k": "D",
+            "t": "won't you"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "Nobody heard him sing, ________ ?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "did one"
+          },
+          {
+            "k": "B",
+            "t": "did he"
+          },
+          {
+            "k": "C",
+            "t": "didn't they"
+          },
+          {
+            "k": "D",
+            "t": "did they"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "The sentence that expresses OFFER is .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "I’ll get some drinks. What’ll you have?"
+          },
+          {
+            "k": "B",
+            "t": "Does she need to book a ticket now?"
+          },
+          {
+            "k": "C",
+            "t": "May I know your name?"
+          },
+          {
+            "k": "D",
+            "t": "Can you return the book next week?"
+          }
+        ],
+        "answer": "A",
+        "note": "下面哪个句子表达“提议”？"
+      }
+    ]
+  },
+  "29": {
+    "title": "存在句",
+    "items": []
+  },
+  "30": {
+    "title": "IT-句型和否定结构",
+    "items": []
+  },
+  "31": {
+    "title": "并列结构",
+    "items": [
+      {
+        "stem": "Which of the italicized parts indicates CONTRAST?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "She opened the door and quietly went in"
+          },
+          {
+            "k": "B",
+            "t": "Think it over again and you'll get an answer"
+          },
+          {
+            "k": "C",
+            "t": "Victoria likes music and Sam is fond of sports"
+          },
+          {
+            "k": "D",
+            "t": "He is somewhat arrogant, and I don't like this"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Dr. Johnson is head of the department, ______ an expert in translation.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "or"
+          },
+          {
+            "k": "B",
+            "t": "either"
+          },
+          {
+            "k": "C",
+            "t": "but"
+          },
+          {
+            "k": "D",
+            "t": "and"
+          }
+        ],
+        "answer": "D",
+        "note": "约翰逊博士是系主任，同时也是一位翻译方面的专家。"
+      }
+    ]
+  },
+  "32": {
+    "title": "从属结构",
+    "items": [
+      {
+        "stem": "After __________ seemed an endless wait, it was his turn to enter the personnel manager's office.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "that"
+          },
+          {
+            "k": "B",
+            "t": "it"
+          },
+          {
+            "k": "C",
+            "t": "what"
+          },
+          {
+            "k": "D",
+            "t": "there"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "The research team can handle ________ needs to be handled.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "whenever"
+          },
+          {
+            "k": "B",
+            "t": "whichever"
+          },
+          {
+            "k": "C",
+            "t": "wherever"
+          },
+          {
+            "k": "D",
+            "t": "whatever"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Which of the following italicized parts is a subject clause (主语从句)?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "We are quite certain that we will get there in time"
+          },
+          {
+            "k": "B",
+            "t": "He has to face the fact that there will be no pay rise this year"
+          },
+          {
+            "k": "C",
+            "t": "She said that she had seen the man earlier that morning"
+          },
+          {
+            "k": "D",
+            "t": "It is sheer luck that the miners are still alive after ten days"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Fool ______ Michael is, he could not have done such a thing.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "who"
+          },
+          {
+            "k": "B",
+            "t": "as"
+          },
+          {
+            "k": "C",
+            "t": "that"
+          },
+          {
+            "k": "D",
+            "t": "like"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "_______ combination of techniques authors use, all stories — from the briefest anecdotes to the longest novels —have a plot.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Regarding"
+          },
+          {
+            "k": "B",
+            "t": "Whatever"
+          },
+          {
+            "k": "C",
+            "t": "In so far as"
+          },
+          {
+            "k": "D",
+            "t": "No matter"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "______ the boss says, it is unreasonable to ask me to work overtime without pay.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Whatever"
+          },
+          {
+            "k": "B",
+            "t": "Whenever"
+          },
+          {
+            "k": "C",
+            "t": "Whichever"
+          },
+          {
+            "k": "D",
+            "t": "However"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Sometimes a written message succeeds _____ an oral one fails; at other times, talking to the recipient will produce results that the printed word can't match.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "What"
+          },
+          {
+            "k": "B",
+            "t": "how"
+          },
+          {
+            "k": "C",
+            "t": "where"
+          },
+          {
+            "k": "D",
+            "t": "that"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "There is no doubt____ the committee has made the right decision on the housing project.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "why"
+          },
+          {
+            "k": "B",
+            "t": "that"
+          },
+          {
+            "k": "C",
+            "t": "whether"
+          },
+          {
+            "k": "D",
+            "t": "when"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "Protocol was _________ enabled him make difficult decisions without ever looking back.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "who"
+          },
+          {
+            "k": "B",
+            "t": "what"
+          },
+          {
+            "k": "C",
+            "t": "which"
+          },
+          {
+            "k": "D",
+            "t": "that"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "The couple had no sooner got to the station ____________ the coach left.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "when"
+          },
+          {
+            "k": "B",
+            "t": "as"
+          },
+          {
+            "k": "C",
+            "t": "until"
+          },
+          {
+            "k": "D",
+            "t": "than"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Agriculture is the country’s chief source of wealth, wheat ______ by far the biggest cereal crop.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "is"
+          },
+          {
+            "k": "B",
+            "t": "been"
+          },
+          {
+            "k": "C",
+            "t": "be"
+          },
+          {
+            "k": "D",
+            "t": "being"
+          }
+        ],
+        "answer": "D",
+        "note": "农业是该国的主要财富来源，其中小麦是目前为止最重要的粮食作物。"
+      },
+      {
+        "stem": "______ dull he may be, he is certainly a very successful top executive.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Although"
+          },
+          {
+            "k": "B",
+            "t": "Whatever"
+          },
+          {
+            "k": "C",
+            "t": "As"
+          },
+          {
+            "k": "D",
+            "t": "However"
+          }
+        ],
+        "answer": "",
+        "note": "不管他多么无趣，他无疑仍是一位非常成功的高管。"
+      },
+      {
+        "stem": "Which of the following contains an adverbial clause of cause?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "I got a job as soon as I left university"
+          },
+          {
+            "k": "B",
+            "t": "As there was no answer, I wrote again"
+          },
+          {
+            "k": "C",
+            "t": "You must do the exercises as I show you"
+          },
+          {
+            "k": "D",
+            "t": "Wealthy as he is, Mark is not a happy man"
+          }
+        ],
+        "answer": "B",
+        "note": "下面哪句中含有一个原因状语从句？"
+      },
+      {
+        "stem": "Which of the italicized parts functions as a subject?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "We never doubt that her brother is honest"
+          },
+          {
+            "k": "B",
+            "t": "The problem is not who will go but who will stay"
+          },
+          {
+            "k": "C",
+            "t": "You must give it back to whoever it belongs to"
+          },
+          {
+            "k": "D",
+            "t": "It is clear that the crime was done deliberately"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "Protocol was enabled him to make difficult decisions without ever looking back.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "who"
+          },
+          {
+            "k": "B",
+            "t": "what"
+          },
+          {
+            "k": "C",
+            "t": "which"
+          },
+          {
+            "k": "D",
+            "t": "that"
+          }
+        ],
+        "answer": "",
+        "note": "正是协议书让他能够毫不犹豫地做出艰难的决定。"
+      }
+    ]
+  },
+  "33": {
+    "title": "条件句",
+    "items": [
+      {
+        "stem": "_______ you ________further problems with your computer, contact your dealer for advice.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "If... had"
+          },
+          {
+            "k": "B",
+            "t": "Have... had"
+          },
+          {
+            "k": "C",
+            "t": "In case... had"
+          },
+          {
+            "k": "D",
+            "t": "Should... have"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "The bad news was that he could be a very dangerous person ________ he choose to be.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "should"
+          },
+          {
+            "k": "B",
+            "t": "could"
+          },
+          {
+            "k": "C",
+            "t": "might"
+          },
+          {
+            "k": "D",
+            "t": "must"
+          }
+        ],
+        "answer": "A",
+        "note": "坏消息是，倘若他愿意，他有可能成为一个非常危险的人。"
+      }
+    ]
+  },
+  "34": {
+    "title": "关系分句",
+    "items": [
+      {
+        "stem": "I was very interested in _______ she told me.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "all that"
+          },
+          {
+            "k": "B",
+            "t": "all which"
+          },
+          {
+            "k": "C",
+            "t": "all what"
+          },
+          {
+            "k": "D",
+            "t": "that"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "\"People who are sensitive can appreciate art better.\" The relative clause in this sentence ___________",
+        "opts": [
+          {
+            "k": "A",
+            "t": "contains the idea of condition"
+          },
+          {
+            "k": "B",
+            "t": "suggests a hypothesis"
+          },
+          {
+            "k": "C",
+            "t": "implies a contrast"
+          },
+          {
+            "k": "D",
+            "t": "expresses the outcome Awaiting me is a demanding job that I just don't know ________ I'm going to do. A. where B. why C. what D. how"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "Firms that use computers have found that the number of staff __________ is needed for quality control can be substantially reduced.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "who"
+          },
+          {
+            "k": "B",
+            "t": "as"
+          },
+          {
+            "k": "C",
+            "t": "that"
+          },
+          {
+            "k": "D",
+            "t": "what"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "My uncle is quite worn out from years of hard work. He is no longer the man _____he was fifteen years ago.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "which"
+          },
+          {
+            "k": "B",
+            "t": "whom"
+          },
+          {
+            "k": "C",
+            "t": "who"
+          },
+          {
+            "k": "D",
+            "t": "that"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "She followed the receptionist down a luxurious corridor to a closed door, ______ the woman gave a quick knock before opening it.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "on which"
+          },
+          {
+            "k": "B",
+            "t": "but when"
+          },
+          {
+            "k": "C",
+            "t": "wherein"
+          },
+          {
+            "k": "D",
+            "t": "then"
+          }
+        ],
+        "answer": "A",
+        "note": ""
+      },
+      {
+        "stem": "“Harry was compelled to resign and to come down to London, where he set up as an army coach”The relative clause in the sentence serves to ________.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "supply additional information about London"
+          },
+          {
+            "k": "B",
+            "t": "describe the antecedent “London”"
+          },
+          {
+            "k": "C",
+            "t": "put restrictions on the identity of Harry"
+          },
+          {
+            "k": "D",
+            "t": "narrate a sequential action taken by Harry"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "They overcame all the difficulties and completed the project two months ahead of time, ______ is something we had not expected.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "which"
+          },
+          {
+            "k": "B",
+            "t": "it"
+          },
+          {
+            "k": "C",
+            "t": "that"
+          },
+          {
+            "k": "D",
+            "t": "what"
+          }
+        ],
+        "answer": "A",
+        "note": "他们克服了一切困难，提前两个月完成了工程，这是我们所没有料到的。"
+      }
+    ]
+  },
+  "35": {
+    "title": "直接引语和间接引语",
+    "items": [
+      {
+        "stem": "When the sentence “Shall I drive you to the airport first?” is turned into indirect speech, which of the following is most appropriate?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "He agreed to drive me to the airport first"
+          },
+          {
+            "k": "B",
+            "t": "He offered to drive me to the airport first"
+          },
+          {
+            "k": "C",
+            "t": "He advised me to go to the airport first"
+          },
+          {
+            "k": "D",
+            "t": "He suggested that I drive to the airport first"
+          }
+        ],
+        "answer": "B",
+        "note": "原句“ Shall I drive you to the airport first? ”为表示主动提议的一般疑问句，意为“我先开车把你送到 机场，你看如何？"
+      }
+    ]
+  },
+  "36": {
+    "title": "修饰",
+    "items": [
+      {
+        "stem": "She was once a young country wife with chickens in the backyard and a view of ______________ mountains behind the apple orchard.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Virginia blue hazy"
+          },
+          {
+            "k": "B",
+            "t": "Virginia hazy blue"
+          },
+          {
+            "k": "C",
+            "t": "hazy blue Virginia"
+          },
+          {
+            "k": "D",
+            "t": "blue hazy Virginia"
+          }
+        ],
+        "answer": "C",
+        "note": ""
+      },
+      {
+        "stem": "From the outside, the two start-up companies' partnership looks like ____________ story",
+        "opts": [
+          {
+            "k": "A",
+            "t": "an entrepreneurial success classic"
+          },
+          {
+            "k": "B",
+            "t": "an entrepreneurial classic success"
+          },
+          {
+            "k": "C",
+            "t": "a classic success entrepreneurial"
+          },
+          {
+            "k": "D",
+            "t": "a classic entrepreneurial success"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "What leaves me with the deepest impression in the park is a(n) ___________ trunk. brown charming Italian oak B. charming brown Italian oak C. Italian charming brown oak D. Italian brown charming oak One can never be happy if one is always envious ______ others.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "at"
+          },
+          {
+            "k": "B",
+            "t": "of"
+          },
+          {
+            "k": "C",
+            "t": "to"
+          },
+          {
+            "k": "D",
+            "t": "on"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "The teacher told the students to stay in the classroom and they did _____.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "absolutely"
+          },
+          {
+            "k": "B",
+            "t": "accidentally"
+          },
+          {
+            "k": "C",
+            "t": "accordingly"
+          },
+          {
+            "k": "D",
+            "t": "accurately"
+          }
+        ],
+        "answer": "C",
+        "note": "老师让同学们待在教室里，他们照着做了。"
+      }
+    ]
+  },
+  "37": {
+    "title": "替代",
+    "items": [
+      {
+        "stem": "Which of the following CANNOT be used as a nominal substitute ( 名词替代词 )?",
+        "opts": [
+          {
+            "k": "A",
+            "t": "Much"
+          },
+          {
+            "k": "B",
+            "t": "Neither"
+          },
+          {
+            "k": "C",
+            "t": "One"
+          },
+          {
+            "k": "D",
+            "t": "Quarter"
+          }
+        ],
+        "answer": "D",
+        "note": "下列哪个词 不能 用作名词替代词？"
+      }
+    ]
+  },
+  "38": {
+    "title": "省略",
+    "items": [
+      {
+        "stem": "Indeed, it is arguable that body shattering is the very point of football, as killing and maiming_____ .",
+        "opts": [
+          {
+            "k": "A",
+            "t": "war"
+          },
+          {
+            "k": "B",
+            "t": "are war"
+          },
+          {
+            "k": "C",
+            "t": "of war"
+          },
+          {
+            "k": "D",
+            "t": "are of war"
+          }
+        ],
+        "answer": "D",
+        "note": ""
+      },
+      {
+        "stem": "This is an illness that can result in total blindness _____ left untreated.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "after"
+          },
+          {
+            "k": "B",
+            "t": "if"
+          },
+          {
+            "k": "C",
+            "t": "since"
+          },
+          {
+            "k": "D",
+            "t": "unless"
+          }
+        ],
+        "answer": "",
+        "note": "表否定的条件，不合逻 辑，应排除。"
+      }
+    ]
+  },
+  "39": {
+    "title": "强调",
+    "items": [
+      {
+        "stem": "Fool ______ Michael is, he could not have done such a thing.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "who"
+          },
+          {
+            "k": "B",
+            "t": "as"
+          },
+          {
+            "k": "C",
+            "t": "that"
+          },
+          {
+            "k": "D",
+            "t": "like"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      },
+      {
+        "stem": "It is going to be fine tomorrow.",
+        "opts": [
+          {
+            "k": "A",
+            "t": "____________________. So is it"
+          },
+          {
+            "k": "B",
+            "t": "So it is"
+          },
+          {
+            "k": "C",
+            "t": "So it does"
+          },
+          {
+            "k": "D",
+            "t": "So does it"
+          }
+        ],
+        "answer": "B",
+        "note": ""
+      }
+    ]
+  },
+  "40": {
+    "title": "从句到篇",
+    "items": []
+  }
+}

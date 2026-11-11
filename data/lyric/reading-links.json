@@ -1,0 +1,322 @@
+{
+  "Count On Me": [
+    {
+      "year": "2017年",
+      "text": "If you live in a society where most people are literate, then you will feel ashamed or embarrassed and avoid situations in which you have to read or write.",
+      "mark": "If you live",
+      "ask": "亮出来的这截，说的是以后的事。这里用的是现在，还是加了 will？",
+      "options": [
+        "当成现在说",
+        "加了 will"
+      ],
+      "answer": "当成现在说",
+      "why": "If 后面是 live，没有 will。will 在后面那句 you will feel。",
+      "translation": "如果你生活在一个大多数人都会读写的社会里，你就会感到羞愧或尴尬，并躲开那些要你读或写的场合。",
+      "choices": [
+        {
+          "text": "如果你生活在一个大多数人都会读写的社会里，你就会感到羞愧或尴尬，并躲开那些要你读或写的场合。",
+          "ok": true
+        },
+        {
+          "text": "如果你将来生活在一个大多数人都会读写的社会里，你就会感到羞愧或尴尬，并躲开那些要你读或写的场合。",
+          "ok": false,
+          "miss": "这句把 If 后面读成了「将来」。"
+        },
+        {
+          "text": "如果你生活在一个大多数人都会读写的社会里，你已经感到羞愧或尴尬，并躲开了那些要你读或写的场合。",
+          "ok": false,
+          "miss": "这句把后面 will 的事读成了已经发生。"
+        }
+      ],
+      "paragraph": "If you live in a society where most people are literate, then you will feel ashamed or embarrassed and avoid situations in which you have to read or write. The father of a friend of mine finally admitted to his family that he couldn't read when he was 45 years old. He bought the newspaper every day and pretended to read it — and believe it or not, his family had no idea.",
+      "use": "这一段先说以后会怎样：生活在人人都会读写的地方，你就会觉得丢脸，躲开要读写的场合。后面那个人 45 岁才承认不会读，是已经发生的事。If 后面用 live，你才分得清：条件当现在说，丢脸是以后的事。"
+    },
+    {
+      "year": "2014年",
+      "text": "If any amount of stress is left unchecked, many things can occur within the body, including premature aging, impaired cognitive function and energy drain.",
+      "mark": "If any amount of stress is left",
+      "ask": "亮出来的这截，说的是压力要是一直不管。这里用的是现在，还是 will？",
+      "options": [
+        "当成现在说",
+        "加了 will"
+      ],
+      "answer": "当成现在说",
+      "why": "If 后面是 is left，没有 will。后面才是会发生的事。",
+      "translation": "如果压力一直不管，身体里会发生很多事，包括提前变老、脑子变慢、精力被耗掉。",
+      "choices": [
+        {
+          "text": "如果压力一直不管，身体里会发生很多事，包括提前变老、脑子变慢、精力被耗掉。",
+          "ok": true
+        },
+        {
+          "text": "如果压力将来一直不管，身体里会发生很多事，包括提前变老、脑子变慢、精力被耗掉。",
+          "ok": false,
+          "miss": "这句把 If 后面读成了「将来」。"
+        },
+        {
+          "text": "如果压力已经被放着不管了，身体里的这些事都已经发生了。",
+          "ok": false,
+          "miss": "这句把以后可能发生的事读成了已经发生。"
+        }
+      ],
+      "paragraph": "Second, the human body doesn't discriminate between a big stressful event and a little one. Any stressful experience will create about 1,400 biochemical events in your body. If any amount of stress is left unchecked, many things can occur within the body, including premature aging, impaired cognitive function and energy drain.",
+      "use": "前面在讲压力已经进了身体。这一句接着说：要是一直不管，以后身体里还会发生什么。is left 当现在说，后面 can occur 才是以后的事。"
+    }
+  ],
+  "Talking to the Moon": [
+    {
+      "year": "2012年",
+      "text": "\"The more I read and discussed these practices, the more I realized this would help not only our budget but also our health,\" she says.",
+      "mark": "she says",
+      "ask": "这话她已经说过了。这里用 says，还是 said？",
+      "options": [
+        "says，当现在说",
+        "said，当成过去"
+      ],
+      "answer": "says，当现在说",
+      "why": "已经说过的事，嘴里用 says。听起来这话现在还在。",
+      "translation": "“我读得越多，讨论得越多，就越明白这不但能帮家里省钱，也能帮我们的身体。”她说。",
+      "choices": [
+        {
+          "text": "“我读得越多，讨论得越多，就越明白这不但能帮家里省钱，也能帮我们的身体。”她说。",
+          "ok": true
+        },
+        {
+          "text": "“我读得越多，讨论得越多，就越明白这不但能帮家里省钱，也能帮我们的身体。”她当年说过。",
+          "ok": false,
+          "miss": "这句把已经说过的话读成了过去就结束了。"
+        },
+        {
+          "text": "“我读得越多，讨论得越多，就越明白这不但能帮家里省钱，也能帮我们的身体。”她将会这么说。",
+          "ok": false,
+          "miss": "这句把已经说过的话读成了还没说。"
+        }
+      ],
+      "paragraph": "For Cindy, the recession began when her husband was relocated to Rhinelander, Wisconsin, by his company, forcing the family to move in a hurry. Then she stumbled upon an online community called Blotanical, a forum for gardeners, many with an interest in sustainability. \"The more I read and discussed these practices, the more I realized this would help not only our budget but also our health,\" she says. Cindy admits that before the recession, she was a city girl with no interest in growing her own dinner.",
+      "use": "搬家、发现论坛、读过、想明白，都已经发生了。she says 是作者在转述她说过的话。读成 said，会以为这话只停在过去。读成 says，才知道作者是把已经发生的事当着现在的话讲出来。"
+    },
+    {
+      "year": "2014年",
+      "text": "Barbara Frederickson, a leading international authority on the importance of positive emotions, says humans are genetically programmed to seek positive emotions such as love and joy.",
+      "mark": "says",
+      "ask": "这个判断她已经讲过了。这里用 says，还是 said？",
+      "options": [
+        "says，当现在说",
+        "said，当成过去"
+      ],
+      "answer": "says，当现在说",
+      "why": "已经讲过的话，用 says，不用 said。",
+      "translation": "芭芭拉·弗雷德里克森是研究积极情绪的重要人物。她说，人天生就会去找爱和快乐这样的情绪。",
+      "choices": [
+        {
+          "text": "芭芭拉·弗雷德里克森是研究积极情绪的重要人物。她说，人天生就会去找爱和快乐这样的情绪。",
+          "ok": true
+        },
+        {
+          "text": "芭芭拉·弗雷德里克森是研究积极情绪的重要人物。她当年说过，人天生就会去找爱和快乐这样的情绪。",
+          "ok": false,
+          "miss": "这句把已经讲过的话读成了过去就结束了。"
+        },
+        {
+          "text": "芭芭拉·弗雷德里克森是研究积极情绪的重要人物。她将会说，人天生就会去找爱和快乐这样的情绪。",
+          "ok": false,
+          "miss": "这句把已经讲过的话读成了还没说。"
+        }
+      ],
+      "paragraph": "Finally, stress can be lessened if you love what you study. Barbara Frederickson, a leading international authority on the importance of positive emotions, says humans are genetically programmed to seek positive emotions such as love and joy. It is suggested to choose a major or career path you love and enjoy. Otherwise, you could end up fighting against your own biology.",
+      "use": "这是文章在转述一个已经有的说法，不是她正要开口。says 把她早就讲过的判断放到现在来说。后面才劝你选自己喜欢的专业。"
+    }
+  ],
+  "Someone Like You": [
+    {
+      "year": "2010年",
+      "text": "First of all, it seems that a successful scientist is full of curiosity—he wants to find out how and why the universe works.",
+      "mark": "to find",
+      "ask": "to 后面用的是哪一种？",
+      "options": [
+        "find，就是这件事",
+        "found，已经做完"
+      ],
+      "answer": "find，就是这件事",
+      "why": "to 后面就说这件事本身，用 find。不用 found，也不加 will。",
+      "translation": "首先，成功的科学家似乎总是充满好奇：他想弄清楚宇宙是怎么运作的，又为什么这样运作。",
+      "choices": [
+        {
+          "text": "首先，成功的科学家似乎总是充满好奇：他想弄清楚宇宙是怎么运作的，又为什么这样运作。",
+          "ok": true
+        },
+        {
+          "text": "首先，成功的科学家似乎总是充满好奇：他想正在弄清楚宇宙是怎么运作的，又为什么这样运作。",
+          "ok": false,
+          "miss": "这句把 to 后面读成了正在做。"
+        },
+        {
+          "text": "首先，成功的科学家似乎总是充满好奇：他想已经弄清楚了宇宙是怎么运作的，又为什么这样运作。",
+          "ok": false,
+          "miss": "这句把 to 后面读成了已经做完。"
+        }
+      ],
+      "paragraph": "What are these special methods of thinking and acting? First of all, it seems that a successful scientist is full of curiosity—he wants to find out how and why the universe works. He usually directs his attention towards problems which he notices have no satisfactory explanation, and his curiosity makes him look for underlying relationships even if the data available seem to be unconnected.",
+      "use": "这一段在说科学家想做的那件事本身：弄清宇宙怎么运作。to 后面用 find，不是 found。你才知道这是他要去做的事，不是已经做完。"
+    },
+    {
+      "year": "2009年",
+      "text": "Any engineer will recognize these as characteristic of a typical engineering problem, which doctors and engineers have worked together to solve, in order to bring a fresh lease of life to people who would otherwise be disabled.",
+      "mark": "to solve",
+      "ask": "to 后面用的是哪一种？",
+      "options": [
+        "solve，就是这件事",
+        "solved，已经做完"
+      ],
+      "answer": "solve，就是这件事",
+      "why": "to 后面用 solve，说的是这件事本身，不是已经做完。",
+      "translation": "任何工程师都看得出，这是一个典型的工程问题。医生和工程师一起动手，就是为了解决它，好让那些本来会落下残疾的人重新过上日子。",
+      "choices": [
+        {
+          "text": "任何工程师都看得出，这是一个典型的工程问题。医生和工程师一起动手，就是为了解决它，好让那些本来会落下残疾的人重新过上日子。",
+          "ok": true
+        },
+        {
+          "text": "任何工程师都看得出，这是一个典型的工程问题。医生和工程师一起动手，就是为了正在解决它，好让那些本来会落下残疾的人重新过上日子。",
+          "ok": false,
+          "miss": "这句把 to 后面读成了正在做。"
+        },
+        {
+          "text": "任何工程师都看得出，这是一个典型的工程问题。医生和工程师一起动手，就是为了已经解决了它，好让那些本来会落下残疾的人重新过上日子。",
+          "ok": false,
+          "miss": "这句把 to 后面读成了已经做完。"
+        }
+      ],
+      "paragraph": "For many years hip-joints and other body joints have been replaceable either partially or completely. It is after all a simple ball and socket joint; it has certain loads imposed on it; it needs reliability over a defined life; it must contain materials suitable for the working environment. Any engineer will recognize these as characteristic of a typical engineering problem, which doctors and engineers have worked together to solve, in order to bring a fresh lease of life to people who would otherwise be disabled. This typifies the way in which engineers work to help people and create a better quality of life.",
+      "use": "前面在说关节要受多大的力、坏了以后怎么办。to solve 说的是医生和工程师要一起做的这件事本身，不是已经做完。"
+    }
+  ],
+  "Blank Space": [
+    {
+      "year": "2011年",
+      "text": "Cordia Harrington was tired of standing up all day and smelling like French fries at night.",
+      "mark": "tired",
+      "ask": "tired 是正在厌倦，还是已经厌倦成那样？",
+      "options": [
+        "已经是那样",
+        "正在厌倦"
+      ],
+      "answer": "已经是那样",
+      "why": "tired 是已经厌倦成那样，不是正在厌倦。",
+      "translation": "科迪娅·哈林顿已经厌倦了成天站着，晚上还一身炸薯条的味道。",
+      "choices": [
+        {
+          "text": "科迪娅·哈林顿已经厌倦了成天站着，晚上还一身炸薯条的味道。",
+          "ok": true
+        },
+        {
+          "text": "科迪娅·哈林顿正在变得厌倦成天站着，晚上还一身炸薯条的味道。",
+          "ok": false,
+          "miss": "这句把已经是那样读成了正在。"
+        },
+        {
+          "text": "科迪娅·哈林顿准备去厌倦成天站着，晚上还一身炸薯条的味道。",
+          "ok": false,
+          "miss": "这句把已经是那样读成了打算去做。"
+        }
+      ],
+      "paragraph": "Cordia Harrington was tired of standing up all day and smelling like French fries at night. She owned and operated three McDonald's shops in Illinois, but as a divorced mother of three boys, she yearned for a business that would provide for her children and let her spend more time with them.",
+      "use": "文章一开头她就已经厌倦成那样了。后面才讲她后来怎么改行。tired 要读成已经是那样，不是正在变得厌倦。"
+    },
+    {
+      "year": "2010年",
+      "text": "He is skeptical — he does not accept statements which are not based on the most complete evidence available—and therefore rejects authority as the sole basis for truth.",
+      "mark": "based",
+      "ask": "based 是已经落在证据上，还是正在建立？",
+      "options": [
+        "已经是那样",
+        "正在建立"
+      ],
+      "answer": "已经是那样",
+      "why": "based 是已经落在证据上的样子，不是正在去建立。",
+      "translation": "他抱着怀疑：没有建立在现有最完整证据上的说法，他不接受，因此也不把权威当成真理的唯一来源。",
+      "choices": [
+        {
+          "text": "他抱着怀疑：没有建立在现有最完整证据上的说法，他不接受，因此也不把权威当成真理的唯一来源。",
+          "ok": true
+        },
+        {
+          "text": "他抱着怀疑：没有正在建立在现有最完整证据上的说法，他不接受，因此也不把权威当成真理的唯一来源。",
+          "ok": false,
+          "miss": "这句把已经是那样读成了正在。"
+        },
+        {
+          "text": "他抱着怀疑：将来才会建立在现有最完整证据上的说法，他不接受，因此也不把权威当成真理的唯一来源。",
+          "ok": false,
+          "miss": "这句把已经是那样读成了还没发生。"
+        }
+      ],
+      "paragraph": "He is skeptical — he does not accept statements which are not based on the most complete evidence available—and therefore rejects authority as the sole basis for truth. Scientists always check statements.",
+      "use": "这一段在讲科学家什么样：说法必须已经落在现有最完整的证据上，他才接受。based 要读成已经是那样，不是正在去建立。"
+    }
+  ],
+  "lovely": [
+    {
+      "year": "2011年",
+      "text": "Seeing my adult son willingly cleaning that dirty bathtub gives me hope for the future of his 12-year-old brother who, instead of working, is found to be sleeping in the seat of the window he is supposed to be cleaning.",
+      "mark": "Seeing",
+      "ask": "Seeing 前面有没有 I am？",
+      "options": [
+        "没有，直接用 Seeing",
+        "有，是 I am seeing"
+      ],
+      "answer": "没有，直接用 Seeing",
+      "why": "看见这件事直接用 Seeing 开头，不必再写 I am。",
+      "translation": "看见成年的儿子愿意去刷那个脏浴缸，我就对那个 12 岁的弟弟有了盼头。弟弟本该擦窗户，却被人发现睡在窗座上。",
+      "choices": [
+        {
+          "text": "看见成年的儿子愿意去刷那个脏浴缸，我就对那个 12 岁的弟弟有了盼头。弟弟本该擦窗户，却被人发现睡在窗座上。",
+          "ok": true
+        },
+        {
+          "text": "我正在看见成年的儿子愿意去刷那个脏浴缸，就对那个 12 岁的弟弟有了盼头。弟弟本该擦窗户，却被人发现睡在窗座上。",
+          "ok": false,
+          "miss": "这句多读出了一个「正在」，原文没有 I am。"
+        },
+        {
+          "text": "我已经看见过成年的儿子愿意去刷那个脏浴缸，就对那个 12 岁的弟弟有了盼头。弟弟本该擦窗户，却被人发现睡在窗座上。",
+          "ok": false,
+          "miss": "这句把这件事读成了已经看过。"
+        }
+      ],
+      "paragraph": "Maybe after all these years, he's finally grasped the concept. No matter. Seeing my adult son willingly cleaning that dirty bathtub gives me hope for the future of his 12-year-old brother who, instead of working, is found to be sleeping in the seat of the window he is supposed to be cleaning. \"Awake and be clean!\" I say.",
+      "use": "儿子已经在刷浴缸。这句话一开头就是 Seeing，没有 I am。你才知道作者是直接把看见这件事拿来说，不是在说自己正在看。"
+    },
+    {
+      "year": "2012年",
+      "text": "Saying \"thank you\" is probably the first thing most of us learn to do in a foreign language.",
+      "mark": "Saying",
+      "ask": "Saying 前面有没有 I am？",
+      "options": [
+        "没有，直接用 Saying",
+        "有，是 I am saying"
+      ],
+      "answer": "没有，直接用 Saying",
+      "why": "道谢这件事直接用 Saying，不必再写 I am。",
+      "translation": "说“谢谢”，大概是我们学一门外语时最先会做的事。",
+      "choices": [
+        {
+          "text": "说“谢谢”，大概是我们学一门外语时最先会做的事。",
+          "ok": true
+        },
+        {
+          "text": "我正在说“谢谢”，大概是我们学一门外语时最先会做的事。",
+          "ok": false,
+          "miss": "这句多读出了一个「正在」，原文没有 I am。"
+        },
+        {
+          "text": "我已经说过“谢谢”，大概是我们学一门外语时最先会做的事。",
+          "ok": false,
+          "miss": "这句把这件事读成了已经做过。"
+        }
+      ],
+      "paragraph": "Saying \"thank you\" is probably the first thing most of us learn to do in a foreign language. After all, we're brought up to be polite, and it is important to make a good impression upon other people — especially across national divides.",
+      "use": "文章一开头就用 Saying 把“说谢谢”这件事拿出来，后面才讲还有别的说法。前面没有 I am。读成正在说，这一段的意思就偏了。"
+    }
+  ]
+}
